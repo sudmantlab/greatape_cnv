@@ -46,7 +46,9 @@ def make_json(mappings_path):
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--mappings_path", required=True)
+    parser.add_argument("--mappings_path", required=True, help="Give the full path to the mapping directory. "
+                                                               "The directory should contain subdirectories named by sample, "
+                                                               "and each subdirectory should contain the respective bam files.")
     o = parser.parse_args()
 
     make_json(o.mappings_path)
