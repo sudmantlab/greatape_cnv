@@ -21,8 +21,6 @@ Generates a config file of the following format:
         }
 }
 
-To be used with the following Snakefile:
-### insert Snakefile path here ###
 """
 
 __author__ = "Swetha Ramesh"
@@ -36,7 +34,8 @@ def make_json(mappings_path):
     for d in dirs:
         files = []
         for f in os.listdir(os.path.join(mappings_path, d)):
-            files.append(f)
+            if f.endswith(".bam"):
+                files.append(f)
         samples[d] = files
     j_out['input_samples'] = samples
     FOUT = open("{cwd}/config.json".format(cwd=cwd),'w')
@@ -44,7 +43,7 @@ def make_json(mappings_path):
     FOUT.close()
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--mappings_path", required=True, help="Give the full path to the mapping directory. "
                                                                "The directory should contain subdirectories named by sample, "
