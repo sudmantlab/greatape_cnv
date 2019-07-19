@@ -47,7 +47,7 @@ rule all:
 
 rule hdf5:
     input:
-        lambda wildcards: "{mapping}/{sample}/{bam}".format(mapping=config["mappings"], sample=wildcards.sample, bam=wildcards.bam)
+        lambda wildcards: "{mapping}/{sample}/{bam}.bam".format(mapping=config["mappings"], sample=wildcards.sample, bam=wildcards.bam)
     output:
         "avg_cn_hdf5/{sample}/{bam}.h5"
     run:
