@@ -28,6 +28,7 @@ def build_h5(bam, window, step, out):
         start = np.zeros(size, dtype=np.dtype('u4')) # unsigned int of 4 bytes (32 bits)
         end = np.zeros(size, dtype=np.dtype('u4'))
 
+        # todo: write documentation for all of this
         if window % step == 0:
             step_arr = np.zeros(chrom_length // step + 1, dtype=np.float16)
             s, e = 0, step
