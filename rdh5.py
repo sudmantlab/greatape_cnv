@@ -20,22 +20,53 @@ def build_h5(bam, window, step, out):
 
         t = time.time()
         cvg_array = pysamstats.load_coverage(bam_file, chrom=chrom_name, start=0, end=chrom_length)
-        print("time to load contig array:", (time.time()-t) / 60, "minutes")
+        print("time to load contig array for", chrom_name, ":", (time.time()-t) / 60, "minutes")
 
-        s = 0
-        e = window
+        size = chrom_length // step - window // step + 1
+        n = window // step
+        read_depth = np.zeros(size, dtype=np.float16)
+        start = np.zeros(size, dtype=np.dtype('u4')) # unsigned int of 4 bytes (32 bits)
+        end = np.zeros(size, dtype=np.dtype('u4'))
 
-        read_depth = np.array([], dtype=np.float16)
-        start = np.array([], dtype=np.dtype('u4')) # unsigned int of 4 bytes (32 bits)
-        end = np.array([], dtype=np.dtype('u4'))
-        while e < chrom_length:
-            # todo: create array for window % step != 0
-            # todo: create array for window % step == 0
+        if window % step == 0:
+            step_arr = np.zeros(chrom_length // step + 1, dtype=np.float16)
+            s, e = 0, step
+            for i in range(0, chrom_length // step):
+                step_arr[i] = np.mean(cvg_array[s:e]) / n # dividing by n for faster avg calculation in next for loop
+                start[i] = s
+                end[i] = s + window
+                s, e = e, e + step
+            # tail case
+            step_arr[chrom_length // step] = (np.mean(cvg_array[e:]))
+            start[chrom_length // step] = s
+            end[chrom_length // step] = chrom_length
 
-            # save array in hdf5
-            out_file.create_earray(out_file.root.chrom_name, name="read_depth", atom=tables.Float16Atom(), obj=read_depth)
-            out_file.create_earray(out_file.root.chrom_name, name="start", atom=tables.Float16Atom(), obj=start)
-            out_file.create_earray(out_file.root.chrom_name, name="end", atom=tables.Float16Atom(), obj=end)
+            mean = np.mean(step_arr[0:n])
+            read_depth[0] = mean
+            for i in range(1, read_depth.size):
+                mean = mean - step_arr[i - 1] + step_arr[n + 1]
+                n += 1
+                read_depth[i] = mean
+
+        else:
+            s, e = 0, window
+            for i in range(size):
+                start[i] = s
+                end[i] = e
+                read_depth[i] = np.mean(cvg_array[s:e])
+                s += step
+                e += step
+                # tail case
+                if e > chrom_length:
+                    e = chrom_length
+
+
+        # todo: create array for window % step != 0
+
+        # save array in hdf5; todo: carray or earray?
+        out_file.create_earray(out_file.root.chrom_name, name="read_depth", atom=tables.Float16Atom(), obj=read_depth)
+        out_file.create_earray(out_file.root.chrom_name, name="start", atom=tables.Float16Atom(), obj=start)
+        out_file.create_earray(out_file.root.chrom_name, name="end", atom=tables.Float16Atom(), obj=end)
 
 
     bam_file.close()
