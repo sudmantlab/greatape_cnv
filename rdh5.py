@@ -17,7 +17,11 @@ def build_h5(bam, window, step, out):
     for r in contig_lengths.items():
         chrom_name = r[0]
         chrom_length = r[1]
-        out_file.create_group(out_file.root, chrom_name)
+        print("Chromosome name:", chrom_name)
+        print("chromosome length:", chrom_length)
+        chrom_group = out_file.create_group(out_file.root, chrom_name)
+        if chrom_length == 0:
+            continue
 
         # Generate array of read-depth per base using pysamstats
         # cvg_array.dytpe = dtype((numpy.record, [('chrom', 'S27'), ('pos', '<i4'), ('reads_all', '<i4'), ('reads_pp', '<i4')]))
@@ -35,14 +39,15 @@ def build_h5(bam, window, step, out):
         cvg = np.zeros(chrom_length, dtype=np.int32)
         for i in range(len(cvg_pos)):
             cvg[cvg_pos[i]] = cvg_reads[i]
-        print("time to load coverage array for", chrom_name, ":", (time.time()-t) / 60, "minutes")
+        print("Time to load coverage array for", chrom_name, ":", (time.time()-t) / 60, "minutes")
 
 
-        size = chrom_length // step - window // step + 1 # number of windows in chrom
+        size = chrom_length // step - window // step + 1 + 1 # number of windows in chrom plus one extra
+        print("Number of windows in chrom {}: {}".format(chrom_name, size))
         n = window // step # number of steps in each window
         read_depth = np.zeros(size, dtype=np.float16)
-        start = np.zeros(size, dtype=np.dtype('u4')) # unsigned int of 4 bytes (32 bits)
-        end = np.zeros(size, dtype=np.dtype('u4'))
+        start = np.zeros(size, dtype=np.int32) # unsigned int of 4 bytes (32 bits)
+        end = np.zeros(size, dtype=np.int32)
 
         # todo: test whether this gives a significant speedup
         # https://www.geeksforgeeks.org/window-sliding-technique/
@@ -52,19 +57,20 @@ def build_h5(bam, window, step, out):
             s, e = 0, step
             for i in range(0, chrom_length // step):
                 step_arr[i] = np.mean(cvg[s:e]) / n # dividing by 'n' for faster mean calculation in next for loop
-                start[i] = s
-                end[i] = s + window
+                if i < size:  # step_arr is longer than start and end
+                    start[i] = s
+                    end[i] = (s + window if s + window < chrom_length else chrom_length)
                 s, e = e, e + step
             # tail case
-            step_arr[chrom_length // step] = (np.mean(cvg_array[e:]))
-            start[chrom_length // step] = s
-            end[chrom_length // step] = chrom_length
+            step_arr[chrom_length // step] = (np.mean(cvg[e:]))
+            # start[size - 1] = s
+            # end[size - 1] = chrom_length
 
             # initial mean calculation (tail case but it's at the beginning)
             mean = np.mean(step_arr[0:n])
             read_depth[0] = mean
             for i in range(1, read_depth.size):
-                mean = mean - step_arr[i - 1] + step_arr[n + 1]
+                mean = mean - step_arr[i - 1] + step_arr[n]
                 n += 1
                 read_depth[i] = mean
 
@@ -84,9 +90,9 @@ def build_h5(bam, window, step, out):
 
 
         # save arrays in hdf5
-        out_file.create_carray(out_file.root.chrom_name, name="read_depth", atom=tables.Float16Atom(), obj=read_depth)
-        out_file.create_carray(out_file.root.chrom_name, name="start", atom=tables.Float16Atom(), obj=start)
-        out_file.create_carray(out_file.root.chrom_name, name="end", atom=tables.Float16Atom(), obj=end)
+        out_file.create_carray(chrom_group, name="read_depth", atom=tables.Float16Atom(), obj=read_depth)
+        out_file.create_carray(chrom_group, name="start", atom=tables.Int32Atom(), obj=start)
+        out_file.create_carray(chrom_group, name="end", atom=tables.Int32Atom(), obj=end)
 
 
     bam_file.close()
