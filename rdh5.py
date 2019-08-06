@@ -5,14 +5,32 @@ import numpy as np
 import argparse
 import time
 import math
+import json
+import h5py
+import os
 
 
 # todo: write better documentation for all of this
-def build_h5(bam, window, step, out, chrs):
-    bam_file = pysam.AlignmentFile(bam, "rb") # will open index file automatically if in the same folder
+def create_h5(fn_bam, window, step, out, chrs, bam_index, stats):
+    assert window > step, "Window must be greater than step"
+    assert window > 0, "Window cannot equal zero"
+    assert step > 0, "Step cannot equal zero"
+    assert out[len(out) - 3:] != ".h5", "Include \'.h5\' extension at the end of fn_out"
+
+    # for generating stats only when HDF5 file exists
+    if stats and os.path.exists(out):
+        gen_stats(fn_bam, window, step, out, bam_index)
+
+    # finding index file
+    if bam_index is None:
+        bam_file = pysam.AlignmentFile(fn_bam, "rb") # will open index file automatically if in the same folder
+    else:
+        bam_file = pysam.AlignmentFile(fn_bam, "rb", index_filename=bam_index) # will open index file automatically if in the same folder
+
     refs = bam_file.references
     contig_lengths = {x[0]:x[1] for x in zip(refs, bam_file.lengths)}
 
+    # checking whether chromosomes were specified
     if len(chrs) != 0:
         temp = {}
         for c in chrs:
@@ -20,6 +38,7 @@ def build_h5(bam, window, step, out, chrs):
         contig_lengths = temp
 
     out_file = tables.open_file(out, mode='w')
+    depth_group = out_file.create_group(out_file.root, "depth")
 
     for r in contig_lengths.items():
         print("--------------------------------------------------")
@@ -27,22 +46,22 @@ def build_h5(bam, window, step, out, chrs):
         chrom_length = r[1]
         print("Chromosome name:", chrom_name)
         print("chromosome length:", chrom_length)
-        chrom_group = out_file.create_group(out_file.root, chrom_name)
+        chrom_group = out_file.create_group(depth_group, chrom_name)
 
         # Generate array of read-depth per base using pysamstats
         # cvg_array.dytpe = dtype((numpy.record, [('chrom', 'S27'), ('pos', '<i4'), ('reads_all', '<i4'), ('reads_pp', '<i4')]))
         # A numpy.recarray with each column with following format: (name, dtype)
-        # 'S27' = 27-byte string, '<i4' = little-endian 32-bit int
+        # 'S27' = <27-byte string, '<i4' = little-endian 32-bit int
         # chrom = reference/chromosome name
         # pos = base position in reference/chromosome
         # reads_all = Number of reads aligned at the position. N.b., this is really the total, i.e., includes reads where the mate is unmapped or otherwise not properly paired.
         # reads_pp = Number of reads flagged as properly paired by the aligner
-        # pysamstats.load_coverage does not include positions where read depth is zero
         t = time.time()
         cvg_array = pysamstats.load_coverage(bam_file, chrom=chrom_name, start=0, end=chrom_length)
         cvg_pos = cvg_array.pos
         cvg_reads = cvg_array.reads_all
         cvg = np.zeros(chrom_length, dtype=np.int32)
+        # pysamstats.load_coverage does not include positions where read depth is zero
         for i in range(len(cvg_pos)):
             cvg[cvg_pos[i]] = cvg_reads[i]
         print("Time to load coverage array for", chrom_name, ":", (time.time()-t) / 60, "minutes")
@@ -105,30 +124,113 @@ def build_h5(bam, window, step, out, chrs):
 
         print("--------------------------------------------------")
 
-
     bam_file.close()
     out_file.close()
+
+    # generate stats
+    if stats:
+        gen_stats(fn_bam, window, step, out, bam_index)
+
+# todo: test this
+def gen_stats(bam, window, step, fn_out, idx):
+    f = h5py.File(fn_out, mode='r+') # read/write mode iff file exists
+    stats_group = f.create_group("stats")
+    depth_group = f.get("depth")
+    stats = {"window": window, "step": step, "BAM_path": bam}
+
+    if idx is None and os.path.isfile(bam + ".bai"):
+        stats["BAM_index_path"] = bam + ".bai"
+    else:
+        stats["BAM_index_path"] = None
+
+    # calculate mean, median, and max for each chromosome's read_depth array
+    chrs = list(depth_group.__iter__())
+    chrs_len = len(chrs)
+    means = np.zeros(chrs_len, dtype=np.float16)
+    medians = np.zeros(chrs_len, dtype=np.float16)
+    maxes = np.zeros(chrs_len, dtype=np.int32)
+    for i in range(chrs_len):
+        means[i] = np.mean(chrs[i].read_depth[:])
+        medians[i] = np.median(chrs[i].read_depth[:])
+        maxes[i] = np.max(chrs[i].read_depth[:])
+
+    # calculate mean, median, and max for entire genome
+    stats["mean"] = np.mean(means)
+    stats["median"] = np.median(medians)
+    stats["max"] = np.max(maxes)
+
+    stats_group.create_dataset('stats', data=json.dumps(stats, indent=4, separators=(",", ": ")))
+
+    f.close()
+
+# different implementation of get_stats where stats are saved as groups instead of in a json
+# todo: test this
+def gen_stats2(bam, window, step, fn_out, idx):
+    f = h5py.File(fn_out, mode='r+') # read/write mode iff file exists
+    stats_group = f.create_group("stats")
+    depth_group = f.get("depth")
+    stats = {"window": window, "step": step, "BAM_path": bam}
+
+    if idx is None and os.path.isfile(bam + ".bai"):
+        stats["BAM_index_path"] = bam + ".bai"
+    else:
+        stats["BAM_index_path"] = None
+
+    # calculate mean, median, and max for each chromosome's read_depth array
+    chrs = list(depth_group.__iter__())
+    chrs_len = len(chrs)
+    means = np.zeros(chrs_len, dtype=np.float16)
+    medians = np.zeros(chrs_len, dtype=np.float16)
+    maxes = np.zeros(chrs_len, dtype=np.int32)
+    for i in range(chrs_len):
+        means[i] = np.mean(chrs[i].read_depth[:])
+        medians[i] = np.median(chrs[i].read_depth[:])
+        maxes[i] = np.max(chrs[i].read_depth[:])
+
+    # calculate mean, median, and max for entire genome
+    stats["mean"] = np.mean(means)
+    stats["median"] = np.median(medians)
+    stats["max"] = np.max(maxes)
+
+    for i in stats.items():
+        stats_group.create_group(i[0], data=np.array([i[1]]))
+
+    f.close()
+
+# todo: test this
+def get_stats(hdf5):
+    f = h5py.File(hdf5, 'r')
+    stats_json = f.get("stats").get("stats")
+    if stats_json is None:
+        print("Stats have not been generated. Rerun with --gen_stats flag.")
+        exit(1)
+    stats_dict = json.loads(stats_json)
+    return stats_dict
+
+# todo: test this
+def summary_h5(fn_h5, stats):
+    if stats:
+        print(get_stats(fn_h5))
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--fn_bam", required=True, help="Path to BAM file")
-    parser.add_argument("--fn_out", required=True, help="Pathname to output file")
-    parser.add_argument("--window", default=1000, help="Window size")
-    parser.add_argument("--step", default=500, help="How much window should slide by")
-    parser.add_argument("--chr", nargs='+', default=[], help="Chromosome(s) to generate read depths for")
-    o = parser.parse_args()
-    if int(o.window) < int(o.step):
-        print("Window must be greater than step")
-        exit(1)
-    if int(o.window) == 0:
-        print("Window cannot equal zero")
-        exit(1)
-    if int(o.step) == 0:
-        print("Step cannot equal zero")
-        exit(1)
-    if o.fn_out[len(o.fn_out) - 3:] != ".h5":
-        print("Include \'.h5\' extension at the end of output file name")
-        exit(1)
-    build_h5(o.fn_bam, int(o.window), int(o.step), o.fn_out, o.chr)
+    subparsers = parser.add_subparsers()
 
+    parser_create = subparsers.add_parser("create")
+    parser_create.set_defaults(function=create_h5)
+    parser_create.add_argument("--fn_bam", '-f', required=True, help="Path to BAM file")
+    parser_create.add_argument("--window", '-w', default=1000, help="Window size", type=int)
+    parser_create.add_argument("--step", '-s', default=500, help="How much window should slide by", type=int)
+    parser_create.add_argument("--fn_out", '-o', required=True, help="Pathname to output file (include .h5 extension)")
+    parser_create.add_argument("--chrs", '-c', nargs='+', default=[], help="Chromosome(s) to generate read depths for")
+    parser_create.add_argument("--bam_index", '-i', help="Path to BAM index file (if not the same name and not in the same directory as the BAM file)", default=None)
+    parser_create.add_argument("--stats", action='store_true', help="Generate stats (e.g. mean) for HDF5 file")
+
+    parser_summary = subparsers.add_parser("summary")
+    parser_summary.set_defaults(function=summary_h5)
+    parser_summary.add_argument("--fn_h5", required=True, help="Pathname to HDF5 file")
+    parser_summary.add_argument("--stats", action='store_true', help="Print out all stats") # todo: add list of stats available
+
+    o = parser.parse_args()
+    o.func(o)
