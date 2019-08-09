@@ -169,7 +169,7 @@ def gen_stats(bam, window, step, fn_out, idx):
     stats["median"] = np.median(medians)
     stats["max"] = np.max(maxes)
 
-    stats_group.create_dataset('stats', data=stats)
+    stats_group.create_dataset('stats', data=str(stats))
 
     f.close()
 
@@ -214,7 +214,7 @@ def get_stats(hdf5):
     if stats_dict is None:
         print("Stats have not been generated. Rerun with create and --gen_stats flags.")
         exit(1)
-    stats_dict = stats_dict[...][()] # https://docs.scipy.org/doc/numpy-1.14.1/reference/arrays.scalars.html
+    stats_dict = eval(stats_dict[...][()]) # https://docs.scipy.org/doc/numpy-1.14.1/reference/arrays.scalars.html
     return stats_dict
 
 # todo: working progress
