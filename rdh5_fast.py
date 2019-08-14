@@ -108,7 +108,7 @@ def create_h5(args):
 		np.divide(sums, window, out=read_depth)
 
 		# tail case
-		if i - step > cvg_final.size - 1:
+		if i - step < cvg_final.size - 1:
 			read_depth[size - 1] = np.mean(cvg[i - window + 1 : chrom_length])
 			start[size - 1] = i - window + 1
 			end[size - 1] = chrom_length - 1
@@ -211,6 +211,20 @@ def get_stats2(hdf5):
 	for s in stats_list:
 		stats_dict[s] = stats_list[s][...][()]
 	return stats_dict
+
+# todo: test this
+# todo: save copynums in HDF5 file?
+def gen_copynum(hdf5):
+	stats_dict = get_stats(hdf5)
+	mean = stats_dict["mean"] # todo: mean is GC-corrected?
+	scalar = 2 / mean # assuming mean cvg is equivalent to copy number of 2, copynum = cvg * 2 / mean
+	file = tables.open_file(hdf5)
+	chrs = list(file.get_node(where=file.root.depth))
+	for node in chrs:
+		rd_arr = node.read_depth[:]
+		cn_arr = np.multiply(rd_arr, scalar)
+		file.create_carray(where=node, name="copynum", atom=tables.Float16Atom(), data=cn_arr)
+
 
 def summary_h5(args):
 	fn_h5 = args.fn_h5
