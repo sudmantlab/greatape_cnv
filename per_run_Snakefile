@@ -1,0 +1,56 @@
+# vim: syntax=python tabstop=4 expandtab
+# coding: utf-8
+
+"""
+Generates an HDF5 file for average read depths for each run for each sample.
+
+Expects a json config file of the following format:
+{
+    "mappings": "/global/scratch2/sweram19/mapping/mapping",
+    "input_samples": {
+        "SRS396822_Donald_Pan-troglodytes-verus-x-troglodytes_male": [
+            "SRR747947.bam",
+            "SRR747948.bam",
+            "SRR747949.bam",
+            "SRR747950.bam",
+            "SRS396822_Donald_Pan-troglodytes-verus-x-troglodytes_male.bam"
+            ]
+        "SRS394730_Vincent_Pan-troglodytes-schweinfurthii_male": [
+            "SRR726241.bam",
+            "SRR726242.bam",
+            "SRR726243.bam",
+            "SRS394730_Vincent_Pan-troglodytes-schweinfurthii_male.bam"
+            ]
+        }
+}
+This config file can be generated using the following python script:
+/global/home/users/sweram19/greatape_cnv/generate_cnv_config.py
+"""
+
+__author__ = "Swetha Ramesh"
+
+
+configfile: "config.json"
+
+
+def get_inputs(wildcards):
+    inputs = []
+    samples_dict = config["input_samples"]
+    for sample in samples_dict.keys():
+        for bam in samples_dict[sample]:
+            inputs.append("rdh5/{sample}/{bam}.h5".format(sample=sample, bam=bam.split(".")[0]))
+    return inputs
+
+
+rule all:
+    input:
+         get_inputs
+
+
+rule hdf5:
+    input:
+        lambda wildcards: "{mapping}/{sample}/{bam}.bam".format(mapping=config["mappings"], sample=wildcards.sample, bam=wildcards.bam)
+    output:
+        "rdh5/{sample}/{bam}.h5"
+    run:
+        # insert shell commands here
