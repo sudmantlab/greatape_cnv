@@ -25,6 +25,7 @@ def create_h5(args):
 	chrs = args.chrs
 	bam_index = args.bam_index
 	stats = args.stats
+	# copynum = args.copynum
 
 	assert window > step, "Window must be greater than step"
 	assert window > 0, "Window cannot equal zero"
@@ -39,6 +40,10 @@ def create_h5(args):
 	# for generating stats only when HDF5 file exists
 	if stats and os.path.exists(fn_out):
 		gen_stats(fn_bam, window, step, fn_out, bam_index)
+
+	# for generating copy number only when HDF5 file exists
+	# if copynum and os.path.exists(fn_out):
+	# 	gen_copynum(fn_out)
 
 	# finding index file
 	if bam_index is None:
@@ -127,6 +132,10 @@ def create_h5(args):
 	if stats:
 		gen_stats(fn_bam, window, step, fn_out, bam_index)
 
+	# generate copynum
+	# if copynum:
+	# 	gen_copynum(fn_out)
+
 def gen_stats(bam, window, step, fn_out, idx):
 	f = h5py.File(fn_out, mode='r+') # read/write mode iff file exists
 	stats_group = f.create_group("stats")
@@ -139,7 +148,7 @@ def gen_stats(bam, window, step, fn_out, idx):
 		stats["BAM_index_path"] = idx
 
 	# calculate mean, median, and max for each chromosome's read_depth array
-	chrs = list(depth_group.__iter__())
+	chrs = list(depth_group)
 	chrs_len = len(chrs)
 	means = np.zeros(chrs_len, dtype=np.float16)
 	medians = np.zeros(chrs_len, dtype=np.float16)
@@ -212,18 +221,18 @@ def get_stats2(hdf5):
 		stats_dict[s] = stats_list[s][...][()]
 	return stats_dict
 
-# todo: test this
-# todo: save copynums in HDF5 file?
-def gen_copynum(hdf5):
-	stats_dict = get_stats(hdf5)
-	mean = stats_dict["mean"] # todo: mean is GC-corrected?
-	scalar = 2 / mean # assuming mean cvg is equivalent to copy number of 2, copynum = cvg * 2 / mean
-	file = tables.open_file(hdf5)
-	chrs = list(file.get_node(where=file.root.depth))
-	for node in chrs:
-		rd_arr = node.read_depth[:]
-		cn_arr = np.multiply(rd_arr, scalar)
-		file.create_carray(where=node, name="copynum", atom=tables.Float16Atom(), data=cn_arr)
+# # todo: test this
+# # todo: save copynums in HDF5 file?
+# def gen_copynum(hdf5):
+# 	stats_dict = get_stats(hdf5)
+# 	mean = stats_dict["mean"] # todo: mean is GC-corrected? read_depth arrays are GC-corrected?
+# 	scalar = 2 / mean # assuming mean cvg is equivalent to copy number of 2, copynum = cvg * 2 / mean
+# 	file = tables.open_file(hdf5)
+# 	chrs = list(file.get_node(where=file.root.depth))
+# 	for node in chrs:
+# 		rd_arr = node.read_depth[:]
+# 		cn_arr = np.multiply(rd_arr, scalar)
+# 		file.create_carray(where=node, name="copynum", atom=tables.Float16Atom(), data=cn_arr)
 
 
 def summary_h5(args):
@@ -249,6 +258,7 @@ if __name__ == "__main__":
 	parser_create.add_argument("--chrs", '-c', nargs='+', default=[], help="Chromosome(s) to generate read depths for")
 	parser_create.add_argument("--bam_index", '-i', help="Path to BAM index file (if not the same name and not in the same directory as the BAM file)", default=None)
 	parser_create.add_argument("--stats", action='store_true', help="Generate stats (e.g. mean) for HDF5 file")
+	# parser_create.add_argument("--copynum", action='store_true', help="Calculate copy number per window using average read depth and store them as arrays")
 	parser_create.set_defaults(func=create_h5)
 
 	parser_summary = subparsers.add_parser("summary")
