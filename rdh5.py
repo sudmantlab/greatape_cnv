@@ -31,7 +31,7 @@ def create_h5(args):
 	if fn_out is None:
 		fn_out = fn_bam[:len(fn_bam) - 4] + ".h5"
 	else:
-		assert fn_out[len(fn_out) - 3:] != ".h5", "Include \'.h5\' extension at the end of fn_out"
+		assert fn_out[len(fn_out) - 3:] == ".h5", "Include \'.h5\' extension at the end of fn_out"
 
 	# for generating stats only when HDF5 file exists
 	if stats and os.path.exists(fn_out):
