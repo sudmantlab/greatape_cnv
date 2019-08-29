@@ -10,6 +10,8 @@ import os
 from scipy.ndimage.interpolation import shift
 import seaborn as sns
 from scipy.signal import savgol_filter
+import matplotlib.pyplot as plt
+from .hdf5_plotting import *
 
 """
 python -u rdh5_fast.py create --fn_bam SRR748186.bam --fn_out SRR748186_fast.h5 --stats
@@ -300,7 +302,7 @@ def gc_percentiles(sample_hdf5, ref_hdf5):
 		total_read_depths = np.append(total_read_depths, read_depths[...])
 		total_gc_percents = np.append(total_gc_percents, gc_percent[...])
 
-		if (len(read_depths) != len(gc_percent)):
+		if len(read_depths) != len(gc_percent):
 			print('Read depth length: ', len(read_depths))
 			print('GC Percent length: ', len(gc_percent))
 			break
@@ -503,7 +505,7 @@ Each chromosome contains three datasets: Start, End, and GC_Percent (float value
 def ref_gc_hdf5(fasta_file, hdf5_file, window_size, window_slide):
 
 	f_hdf5 = h5py.File(hdf5_file, "w")
-	f_fasta = Fasta(fasta_file)
+	f_fasta = pysam.Fasta(fasta_file)
 
 	for chr_name in f_fasta.keys():
 		
@@ -522,20 +524,22 @@ def ref_gc_hdf5(fasta_file, hdf5_file, window_size, window_slide):
 
 		index = 0
 		for val in np.arange(num_windows):
-			if (val == num_windows - 1):
+			if val == num_windows - 1:
 				end_index = chr_length
 			else:
 				end_index = index + window_size
 			
 			seq = f_fasta[chr_name][index:end_index]
-			num_gc = 0
-			num_N = 0
-			for base in seq:
-				if (base == 'G' or base == 'C' or base == 'g' or base == 'c'):
-					num_gc += 1
-				elif (base == 'N' or base == 'n'):
-					num_N += 1
-			if (window_size == num_N):
+			num_gc = seq.count('G') + seq.count('g') + seq.count('C') + seq.count('c')
+			num_N = seq.count('N') + seq.count('n')
+
+
+			# for base in seq:
+			# 	if (base == 'G' or base == 'C' or base == 'g' or base == 'c'):
+			# 		num_gc += 1
+			# 	elif (base == 'N' or base == 'n'):
+			# 		num_N += 1
+			if window_size == num_N:
 				gc_percent = 0.0
 			else:
 				gc_percent = float(num_gc)/(len(seq) - num_N)
@@ -554,77 +558,7 @@ def ref_gc_hdf5(fasta_file, hdf5_file, window_size, window_slide):
 
 
 
-def depth_histogram(sample, chrom, start, end, window_size):
-	hdf5_file = sample + '.hdf5'
-	f = h5py.File(hdf5_file, "r")
-	depths = f[chrom]['Depth'][...]
-	max = 2*f['stats']['mean']
-	step = 0.1*max
-	ax = sns.distplot(depths, bins=np.arange(0,max+step,step), kde=False)
-	plt.xlabel("Average Read Depth")
-	plt.ylabel("Number of Windows")
-	plt.title("Average Read Depth per " + str(window_size) + " bp for Chromosome 1")
-	ax.set(xlim=(0,max))
-	fig = ax.get_figure()
-	pic_name = sample + '_' + chrom + '_hist.png'
-	fig.savefig(pic_name)
 
-def depth_kde(sample, chrom, start, end, window_size):
-	hdf5_file = sample + '.hdf5'
-	f = h5py.File(hdf5_file, "r")
-	depths = f[chrom]['Depth'][...]
-	max = 2*f['stats']['mean']
-	step = 0.1*max
-	ax = sns.distplot(depths, bins=np.arange(0,max + step,step), hist=False)
-	plt.xlabel("Average Read Depth")
-	plt.ylabel("Fraction of Windows")
-	plt.title("KDE: Average Read Depth per " + str(window_size) + " bp for " + chrom)
-	ax.set(xlim=(0,max))
-	fig = ax.get_figure()
-	pic_name = sample + '_' + chrom + '_kde.png'
-	fig.savefig(pic_name)
-
-
-def depth_scatterplot(sample, chrom, start, end, window_size):
-	hdf5_file = sample + '.hdf5'
-	f = h5py.File(hdf5_file, "r")
-	depths = f[chrom]['Depth'][...]
-	bp = f[chrom]['Start'][...]
-	plt.figure(figsize=(15,8))
-	ax = plt.scatter(x=bp, y=depths, s=30)
-	#ax = sns.scatterplot(x=bp, y=depths, s=10)
-	plt.xlabel("Base Pair Coordinates", fontsize=14)
-	plt.ylabel("Average Read Depth per " + str(window_size) + "bp", fontsize=14)
-	plt.title("Average Read Depth across " + chrom, fontsize=20)
-	fig = ax.get_figure()
-	pic_name = sample + '_' + chrom + '_scat.png'
-	fig.savefig(pic_name)
-
-
-
-my_parser = argparse.ArgumentParser()
-my_parser.add_argument('--sample', action='store', type=str, required=True, help='sample name e.g SRR726352')
-my_parser.add_argument('--plot_type', action='store', type=str, required=True, help='hist, scat, or kde')
-my_parser.add_argument('--window_size', action='store', type=int, required=True, help='standard: 1000')
-my_parser.add_argument('--chrom', action='store', type=str, required=True, help='e.g. chr1')
-my_parser.add_argument('--start', action='store', type=int, required=False)
-my_parser.add_argument('--end', action='store', type=int, required=False)
-
-args = vars(my_parser.parse_args())
-
-print('SAMPLE: ', args['sample'])
-print('PLOT TYPE: ', args['plot_type'])
-print('WINDOW SIZE: ', args['window_size'])
-print('CHROM: ', args['chrom'])
-print('START: ', args['start'])
-print('END: ', args['end'])
-
-if args['plot_type'] == 'hist':
-	depth_histogram(args['sample'], args['chrom'], args['start'], args['end'], args['window_size'])
-elif args['plot_type'] == 'kde':
-	depth_kde(args['sample'], args['chrom'], args['start'], args['end'], args['window_size'])
-elif args['plot_type'] == 'scat':
-	depth_scatterplot(args['sample'], args['chrom'], args['start'], args['end'], args['window_size'])
 
 
 
@@ -642,7 +576,7 @@ if __name__ == "__main__":
 	parser_create.add_argument("--fn_bam", '-f', required=True, help="Path to BAM file")
 	parser_create.add_argument("--window", '-w', default=1000, help="Window size", type=int)
 	parser_create.add_argument("--step", '-s', default=500, help="How much window should slide by", type=int)
-	parser_creat.add_argument("--ref", '-r', help="Which .fa reference genome file to use", type=str)
+	parser_create.add_argument("--ref", '-r', help="Which .fa reference genome file to use", type=str)
 	parser_create.add_argument("--fn_out", '-o', default=None, help="Pathname to output file (include .h5 extension)")
 	parser_create.add_argument("--chrs", '-c', nargs='+', default=[], help="Chromosome(s) to generate read depths for")
 	parser_create.add_argument("--bam_index", '-i', help="Path to BAM index file (if not the same name and not in the same directory as the BAM file)", default=None)
