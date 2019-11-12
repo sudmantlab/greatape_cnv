@@ -1,0 +1,133 @@
+# vim: syntax=python tabstop=4 expandtab
+# coding: utf-8
+
+"""
+Generates an HDF5 file for average read depths for each sample, i.e. all the runs for some sample are merged into
+a single BAM file.
+
+Expects a json config file of the following format:
+{
+    "mappings": "/global/scratch2/sweram19/mapping/mapping",
+    "input_samples": {
+        "SRS396822_Donald_Pan-troglodytes-verus-x-troglodytes_male": [
+            "SRR747947.bam",
+            "SRR747948.bam",
+            "SRR747949.bam",
+            "SRR747950.bam",
+            "SRS396822_Donald_Pan-troglodytes-verus-x-troglodytes_male.bam"
+            ]
+        "SRS394730_Vincent_Pan-troglodytes-schweinfurthii_male": [
+            "SRR726241.bam",
+            "SRR726242.bam",
+            "SRR726243.bam",
+            "SRS394730_Vincent_Pan-troglodytes-schweinfurthii_male.bam"
+            ]
+        }
+}
+This config file can be generated using the following python script:
+/global/home/users/sweram19/greatape_cnv/generate_cnv_config.py
+"""
+
+__author__ = "Swetha Ramesh and Alma Halgren"
+
+
+configfile: "config.json"
+mappings_path = config["mappings_path"]
+output_path = config["output_path"]
+#mappings_path = "/global/scratch2/sweram19/mapping/chimps/SRP018689"
+#output_path = "/global/scratch2/almahalgren/chimps/outputs"
+
+
+def get_inputs(wildcards):
+    inputs = []
+    samples_dict = config["input_samples"]
+    for sample in samples_dict:
+        inputs.append("{output_path}/{sample}.bb".format(output_path=output_path,sample=sample))
+        #inputs.append("{output_path}/{sample}.h5".format(output_path=output_path, sample=sample))
+        #.format(output_path=output_path,sample=sample))
+    return inputs
+
+
+
+rule all:
+    input:
+        get_inputs
+        #expand("{mappings_path}/{sample}.h5", mappings_path=config["mappings_path"], sample=config["input_samples"])
+
+
+
+
+rule create_h5:
+    input:
+        #out = config["output_path"],
+        #bam_file = "/global/scratch2/sweram19/mapping/chimps/SRP018689/{sample}/{sample}.bam"
+        bam_file = mappings_path + "/{sample}/{sample}.bam"
+        #.format(mappings_path=mappings_path)
+        #.format(mappings_path=config["mappings_path"], sample=config["input_samples"][wildcards.sample])
+        #samp = "{mappings_path}/{sample}/{sample}.bam"
+    output:
+        #h5_file = "/global/scratch2/almahalgren/chimps/outputs/{sample}.h5"
+        h5_file = output_path + "/{sample}.h5"
+        #.format(output_path=config['output_path'], sample=config['input_samples'][wildcards.sample])
+    params:
+        slurm_opts=lambda wildcards: "-N 1 " \
+                                   "--time 72:00:00 " \
+                                   "-A co_genomicdata " \
+                                   "--qos=savio_lowprio " \
+                                   "-p savio3_bigmem,savio_bigmem " \
+                                   "-o job_{sample}.log " \
+                                   "-J hd5_{sample}" \
+                                   .format(sample=wildcards.sample)
+    run:
+        "python create_h5.py -f {input.bam_file} -o {output.h5_file} -st True"
+
+
+
+
+rule make_bed:
+    input:
+        #out = config["output_path"],
+        ref = config["reference_hdf5"],
+        samp = output_path + "/{sample}.h5"
+        #samp = lambda wildcards: "{output_path}/{sample}.h5".format(output_path=config["output_path"], sample=config["input_samples"][wildcards.sample])
+    output:
+        out_file = output_path + "/{sample}.bed"
+    params:
+       slurm_opts=lambda wildcards: "-N 1 " \
+                                   "--time 72:00:00 " \
+                                   "-A co_genomicdata " \
+                                   "--qos=savio_lowprio " \
+                                   "-p savio3_bigmem,savio_bigmem " \
+                                   "-o job_{sample}.log " \
+                                   "-J hd5_{sample}" \
+                                   .format(sample=wildcards.sample)
+    run:
+        "python gc_percentiles.py -s {input.samp} -r {input.ref}",
+        "python gc_correction.py -s {input.samp} -r {input.ref} -f savgol",
+        "python make_bigbed.py -s {input.samp}"
+
+
+
+
+rule make_bigbed:
+    input:
+        #out = config["output_path"],
+        samp = output_path + "/{sample}.bed"
+    output:
+        out_file = output_path + "/{sample}.bb"
+    params:
+       slurm_opts=lambda wildcards: "-N 1 " \
+                                   "--time 72:00:00 " \
+                                   "-A co_genomicdata " \
+                                   "--qos=savio_lowprio " \
+                                   "-p savio3_bigmem,savio_bigmem " \
+                                   "-o job_{sample}.log " \
+                                   "-J hd5_{sample}"  \
+                                   .format(sample=wildcards.sample)
+    run:
+        "./bedToBigBed {input.samp} ./panTro6.chrom.sizes {output.out_file}"
+
+
+
+
+
