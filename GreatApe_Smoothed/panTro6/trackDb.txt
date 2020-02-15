@@ -1,0 +1,576 @@
+track GreatApe_Smoothed
+compositeTrack on
+shortLabel Smoothed Data
+longLabel Smoothed Data
+type bigBed 9
+allButtonPair on
+dragAndDrop subTracks
+
+
+	track ELLIOTI_0
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396863_Kopongo_Pan-troglodytes-ellioti_female_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396863_Kopongo_Pan-troglodytes-ellioti_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track ELLIOTI_1
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396867_Tobi_Pan-troglodytes-ellioti_female_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396867_Tobi_Pan-troglodytes-ellioti_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track ELLIOTI_2
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396859_Banyo_Pan-troglodytes-ellioti_female_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396859_Banyo_Pan-troglodytes-ellioti_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track ELLIOTI_3
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396861_Damian_Pan-troglodytes-ellioti_male_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396861_Damian_Pan-troglodytes-ellioti_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track ELLIOTI_4
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396865_Paquita_Pan-troglodytes-ellioti_female_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396865_Paquita_Pan-troglodytes-ellioti_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track ELLIOTI_5
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396860_Basho_Pan-troglodytes-ellioti_male_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396860_Basho_Pan-troglodytes-ellioti_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track ELLIOTI_6
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396864_Koto_Pan-troglodytes-ellioti_male_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396864_Koto_Pan-troglodytes-ellioti_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track ELLIOTI_7
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396858_Akwaya-Jean_Pan-troglodytes-ellioti_male_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396858_Akwaya-Jean_Pan-troglodytes-ellioti_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track ELLIOTI_8
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396866_Taweh_Pan-troglodytes-ellioti_male_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396866_Taweh_Pan-troglodytes-ellioti_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track ELLIOTI_9
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396862_Julie-LWC21_Pan-troglodytes-ellioti_female_smoothed4_ds5.bb
+	shortLabel ELLIOTI
+	longLabel SRS396862_Julie-LWC21_Pan-troglodytes-ellioti_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_0
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286212_SAMEA4374763_Pan-troglodytes-verus_female_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel ERS1286212_SAMEA4374763_Pan-troglodytes-verus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_1
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286216_SAMEA4374767_Pan-troglodytes-verus_female_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel ERS1286216_SAMEA4374767_Pan-troglodytes-verus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_2
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286215_SAMEA4374766_Pan-troglodytes-verus_male_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel ERS1286215_SAMEA4374766_Pan-troglodytes-verus_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_3
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286214_SAMEA4374765_Pan-troglodytes-verus_male_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel ERS1286214_SAMEA4374765_Pan-troglodytes-verus_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_4
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286213_SAMEA4374764_Pan-troglodytes-verus_female_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel ERS1286213_SAMEA4374764_Pan-troglodytes-verus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_5
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396823_Bosco_Pan-troglodytes-verus_male_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel SRS396823_Bosco_Pan-troglodytes-verus_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_6
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396822_Donald_Pan-troglodytes-verus-x-troglodytes_male_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel SRS396822_Donald_Pan-troglodytes-verus-x-troglodytes_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_7
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286218_SAMEA4374769_Pan-troglodytes-verus_female_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel ERS1286218_SAMEA4374769_Pan-troglodytes-verus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_8
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396848_Koby_Pan-troglodytes-verus_male_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel SRS396848_Koby_Pan-troglodytes-verus_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_9
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286217_SAMEA4374768_Pan-troglodytes-verus_female_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel ERS1286217_SAMEA4374768_Pan-troglodytes-verus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_10
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396875_Clint_Pan-troglodytes-verus_male_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel SRS396875_Clint_Pan-troglodytes-verus_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track VERUS_11
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396842_Jimmie_Pan-troglodytes-verus_female_smoothed4_ds5.bb
+	shortLabel VERUS
+	longLabel SRS396842_Jimmie_Pan-troglodytes-verus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_0
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286239_SAMEA4374790_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286239_SAMEA4374790_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_1
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286237_SAMEA4374788_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286237_SAMEA4374788_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_2
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS394801_Bwambale_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel SRS394801_Bwambale_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_3
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286241_SAMEA4374792_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286241_SAMEA4374792_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_4
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286240_SAMEA4374791_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286240_SAMEA4374791_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_5
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396824_Harriet_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel SRS396824_Harriet_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_6
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286244_SAMEA4374795_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286244_SAMEA4374795_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_7
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS394808_Nakuu_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel SRS394808_Nakuu_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_8
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286238_SAMEA4374789_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286238_SAMEA4374789_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_9
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286247_SAMEA4374798_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286247_SAMEA4374798_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_10
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS394804_Kidongo_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel SRS394804_Kidongo_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_11
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS394730_Vincent_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel SRS394730_Vincent_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_12
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286243_SAMEA4374794_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286243_SAMEA4374794_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_13
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS394779_Andromeda_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel SRS394779_Andromeda_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_14
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286236_SAMEA4374787_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286236_SAMEA4374787_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_15
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286245_SAMEA4374796_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286245_SAMEA4374796_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_16
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286246_SAMEA4374797_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286246_SAMEA4374797_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track SCHWEINFURTHII_17
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286242_SAMEA4374793_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
+	shortLabel SCHWEINFURTHII
+	longLabel ERS1286242_SAMEA4374793_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_0
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286225_SAMEA4374776_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286225_SAMEA4374776_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_1
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286220_SAMEA4374771_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286220_SAMEA4374771_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_2
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286227_SAMEA4374778_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286227_SAMEA4374778_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_3
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396846_Clara_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel SRS396846_Clara_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_4
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286228_SAMEA4374779_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286228_SAMEA4374779_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_5
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396844_Doris_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel SRS396844_Doris_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_6
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286234_SAMEA4374785_Pan-troglodytes-troglodytes_male_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286234_SAMEA4374785_Pan-troglodytes-troglodytes_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_7
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286226_SAMEA4374777_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286226_SAMEA4374777_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_8
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396843_Vaillant_Pan-troglodytes-troglodytes_male_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel SRS396843_Vaillant_Pan-troglodytes-troglodytes_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_9
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396845_Julie-A959_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel SRS396845_Julie-A959_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_10
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286222_SAMEA4374773_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286222_SAMEA4374773_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_11
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286221_SAMEA4374772_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286221_SAMEA4374772_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_12
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286230_SAMEA4374781_Pan-troglodytes-troglodytes_male_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286230_SAMEA4374781_Pan-troglodytes-troglodytes_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_13
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286223_SAMEA4374774_Pan-troglodytes-troglodytes_male_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286223_SAMEA4374774_Pan-troglodytes-troglodytes_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_14
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286231_SAMEA4374782_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286231_SAMEA4374782_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_15
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286229_SAMEA4374780_Pan-troglodytes-troglodytes_male_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286229_SAMEA4374780_Pan-troglodytes-troglodytes_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_16
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286219_SAMEA4374770_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286219_SAMEA4374770_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track TROGLODYTES_17
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286224_SAMEA4374775_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
+	shortLabel TROGLODYTES
+	longLabel ERS1286224_SAMEA4374775_Pan-troglodytes-troglodytes_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_0
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396203_Hermien_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396203_Hermien_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_1
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396209_Chipita_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396209_Chipita_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_2
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396205_Desmond_Pan-paniscus_male_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396205_Desmond_Pan-paniscus_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_3
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396603_Kumbuka_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396603_Kumbuka_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_4
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396818_LB502_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396818_LB502_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_5
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396201_Kosana_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396201_Kosana_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_6
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396207_Kombote_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396207_Kombote_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_7
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396206_Catherine_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396206_Catherine_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_8
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396238_Natalie_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396238_Natalie_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_9
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396202_Dzeeta_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396202_Dzeeta_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_10
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396251_Salonga_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396251_Salonga_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_11
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS396219_Bono_Pan-paniscus_male_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS396219_Bono_Pan-paniscus_male_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
+
+	track PANISCUS_12
+	parent GreatApe_Smoothed on
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS395319_Hortense_Pan-paniscus_female_smoothed4_ds5.bb
+	shortLabel PANISCUS
+	longLabel SRS395319_Hortense_Pan-paniscus_female_smoothed4_ds5
+	type bigBed 9
+	itemRgb on
