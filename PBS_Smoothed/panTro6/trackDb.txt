@@ -1,0 +1,22 @@
+track PBS_Smoothed
+compositeTrack on
+shortLabel PBS Smoothed Data
+longLabel PBS Smoothed Data
+type bigWig
+allButtonPair on
+dragAndDrop subTracks
+
+
+  track SCHWEINFURTHII_PANISCUS
+  parent PBS_Smoothed on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_s_smoothed4_ds5_pbs.bw
+  shortLabel SCHWEINFURTHII_PANISCUS
+  longLabel stb_s_smoothed4_ds5_pbs
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 43,222,168
+  altColor 43,222,168
+  maxHeightPixels 100:40:8
