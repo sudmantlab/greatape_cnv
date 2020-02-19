@@ -21,11 +21,11 @@ dragAndDrop subTracks
   altColor 43,222,168
   maxHeightPixels 100:40:8
 
-  track SCHWEINFURTHII_PANISCUS
+  track TROGLODYTES_PANISCUS
   parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_PANISCUS
-  longLabel stb_s_smoothed4_ds5_pbs
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_t_smoothed4_ds5_pbs.bw
+  shortLabel TROG_PANISCUS
+  longLabel stb_t_smoothed4_ds5_pbs
   type bigWig
   visibility full
   autoscale off
@@ -49,11 +49,11 @@ dragAndDrop subTracks
   altColor 43,222,168
   maxHeightPixels 100:40:8
   
-  track SCHWEINFURTHII_VERUS
+  track TROGLODYTES_VERUS
   parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stv_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_VERUS
-  longLabel stv_s_smoothed4_ds5_pbs
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stv_t_smoothed4_ds5_pbs.bw
+  shortLabel TROG_VERUS
+  longLabel stv_t_smoothed4_ds5_pbs
   type bigWig
   visibility full
   autoscale off
@@ -77,11 +77,11 @@ dragAndDrop subTracks
   altColor 43,222,168
   maxHeightPixels 100:40:8
   
-  track SCHWEINFURTHII_ELLIOTI
+  track TROGLODYTES_ELLIOTI
   parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ste_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_ELLIOTI
-  longLabel ste_s_smoothed4_ds5_pbs
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ste_t_smoothed4_ds5_pbs.bw
+  shortLabel TROG_ELLIOTI
+  longLabel ste_t_smoothed4_ds5_pbs
   type bigWig
   visibility full
   autoscale off
@@ -105,25 +105,11 @@ dragAndDrop subTracks
   altColor 43,222,168
   maxHeightPixels 100:40:8
   
-  track SCHWEINFURTHII_VERUS_ELLIOTI
+  track TROGLODYTES_VERUS_ELLIOTI
   parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_VERUS_ELLIOTI
-  longLabel stve_s_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-  
-  track SCHWEINFURTHII_VERUS_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_VERUS_ELLIOTI
-  longLabel stve_s_smoothed4_ds5_pbs
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_t_smoothed4_ds5_pbs.bw
+  shortLabel TROG_VERUS_ELLIOTI
+  longLabel stve_t_smoothed4_ds5_pbs
   type bigWig
   visibility full
   autoscale off
@@ -164,7 +150,7 @@ dragAndDrop subTracks
   track VERUS_SCHWEINFURTHII
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_v_smoothed4_ds5_pbs.bw
-  shortLabel VERUS_SCHWEINFURTHII
+  shortLabel VERUS_SCHWEIN
   longLabel ves_v_smoothed4_ds5_pbs
   type bigWig
   visibility full
@@ -175,11 +161,11 @@ dragAndDrop subTracks
   altColor 43,222,168
   maxHeightPixels 100:40:8
   
-  track VERUS_SCHWEINFURTHII
+  track ELLIOTI_SCHWEINFURTHII
   parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_v_smoothed4_ds5_pbs.bw
-  shortLabel VERUS_SCHWEINFURTHII
-  longLabel ves_v_smoothed4_ds5_pbs
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_e_smoothed4_ds5_pbs.bw
+  shortLabel ELLIOTI_SCHWEIN
+  longLabel ves_e_smoothed4_ds5_pbs
   type bigWig
   visibility full
   autoscale off
@@ -191,9 +177,79 @@ dragAndDrop subTracks
   
   track VERUS_TROGLODYTES
   parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_v_smoothed4_ds5_pbs.bw
-  shortLabel VERUS_SCHWEINFURTHII
-  longLabel ves_v_smoothed4_ds5_pbs
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vet_v_smoothed4_ds5_pbs.bw
+  shortLabel VERUS_TROG
+  longLabel vet_v_smoothed4_ds5_pbs
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 43,222,168
+  altColor 43,222,168
+  maxHeightPixels 100:40:8
+  
+  track ELLIOTI_TROGLODYTES
+  parent PBS_Smoothed on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vet_e_smoothed4_ds5_pbs.bw
+  shortLabel ELLIOTI_TROG
+  longLabel vet_e_smoothed4_ds5_pbs
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 43,222,168
+  altColor 43,222,168
+  maxHeightPixels 100:40:8
+  
+  track VERUS_SCHWEIN_TROG
+  parent PBS_Smoothed on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vest_v_smoothed4_ds5_pbs.bw
+  shortLabel VERUS_SCHWEIN_TROG
+  longLabel vest_v_smoothed4_ds5_pbs
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 43,222,168
+  altColor 43,222,168
+  maxHeightPixels 100:40:8
+  
+  track ELLIOTI_SCHWEIN_TROG
+  parent PBS_Smoothed on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vest_e_smoothed4_ds5_pbs.bw
+  shortLabel ELLIOTI_SCHWEIN_TROG
+  longLabel vest_e_smoothed4_ds5_pbs
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 43,222,168
+  altColor 43,222,168
+  maxHeightPixels 100:40:8
+  
+  track VERUS_PANISCUS
+  parent PBS_Smoothed on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/veb_v_smoothed4_ds5_pbs.bw
+  shortLabel VERUS_PANISCUS
+  longLabel veb_v_smoothed4_ds5_pbs
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 43,222,168
+  altColor 43,222,168
+  maxHeightPixels 100:40:8
+  
+  track ELLIOTI_PANISCUS
+  parent PBS_Smoothed on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/veb_e_smoothed4_ds5_pbs.bw
+  shortLabel ELLIOTI_PANISCUS
+  longLabel veb_e_smoothed4_ds5_pbs
   type bigWig
   visibility full
   autoscale off
