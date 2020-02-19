@@ -1,0 +1,5 @@
+hub PBSHub_Smoothed_Github
+shortLabel Great Ape PBS Hub Smoothed Github
+longLabel Population Branch Statistic Across the Great Apes, UC Berkeley
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw_master/PBS_Smoothed/genomes.txt
+email almahalgren@berkeley.edu
