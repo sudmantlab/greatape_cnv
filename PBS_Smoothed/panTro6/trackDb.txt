@@ -10,7 +10,7 @@ dragAndDrop subTracks
   track SCHWEINFURTHII_PANISCUS
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEINFURTHII_PANISCUS
+  shortLabel SCHWEIN_PANISCUS
   longLabel stb_s_smoothed4_ds5_pbs
   type bigWig
   visibility full
