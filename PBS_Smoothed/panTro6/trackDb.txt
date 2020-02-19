@@ -11,7 +11,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_PANISCUS
-  longLabel stb_s_smoothed4_ds5_pbs
+  longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS PANISCUS)
   type bigWig
   visibility full
   autoscale off
@@ -25,7 +25,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_t_smoothed4_ds5_pbs.bw
   shortLabel TROG_PANISCUS
-  longLabel stb_t_smoothed4_ds5_pbs
+  longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS PANISCUS)
   type bigWig
   visibility full
   autoscale off
@@ -39,7 +39,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stv_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_VERUS
-  longLabel stv_s_smoothed4_ds5_pbs
+  longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS VERUS)
   type bigWig
   visibility full
   autoscale off
@@ -53,7 +53,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stv_t_smoothed4_ds5_pbs.bw
   shortLabel TROG_VERUS
-  longLabel stv_t_smoothed4_ds5_pbs
+  longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS VERUS)
   type bigWig
   visibility full
   autoscale off
@@ -67,7 +67,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ste_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_ELLIOTI
-  longLabel ste_s_smoothed4_ds5_pbs
+  longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS ELLIOTI)
   type bigWig
   visibility full
   autoscale off
@@ -81,7 +81,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ste_t_smoothed4_ds5_pbs.bw
   shortLabel TROG_ELLIOTI
-  longLabel ste_t_smoothed4_ds5_pbs
+  longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS ELLIOTI)
   type bigWig
   visibility full
   autoscale off
@@ -95,7 +95,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_VERUS_ELLIOTI
-  longLabel stve_s_smoothed4_ds5_pbs
+  longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS VERUS+ELLIOTI)
   type bigWig
   visibility full
   autoscale off
@@ -109,7 +109,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_t_smoothed4_ds5_pbs.bw
   shortLabel TROG_VERUS_ELLIOTI
-  longLabel stve_t_smoothed4_ds5_pbs
+  longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS VERUS+ELLIOTI)
   type bigWig
   visibility full
   autoscale off
@@ -123,7 +123,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stveb_st_smoothed4_ds5_pbs.bw
   shortLabel ST_VEB
-  longLabel stveb_st_smoothed4_ds5_pbs
+  longLabel SCHWEINFURTHII+TROGLODYTES (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
   type bigWig
   visibility full
   autoscale off
@@ -137,7 +137,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stveb_ve_smoothed4_ds5_pbs.bw
   shortLabel VE_STB
-  longLabel stveb_ve_smoothed4_ds5_pbs
+  longLabel VERUS+ELLIOTI (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
   type bigWig
   visibility full
   autoscale off
@@ -151,7 +151,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_v_smoothed4_ds5_pbs.bw
   shortLabel VERUS_SCHWEIN
-  longLabel ves_v_smoothed4_ds5_pbs
+  longLabel VERUS (VERUS,ELLIOTI VS SCHWEINFURTHII)
   type bigWig
   visibility full
   autoscale off
@@ -165,7 +165,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_SCHWEIN
-  longLabel ves_e_smoothed4_ds5_pbs
+  longLabel ELLIOTI (VERUS,ELLIOTI VS SCHWEINFURTHII)
   type bigWig
   visibility full
   autoscale off
@@ -179,7 +179,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vet_v_smoothed4_ds5_pbs.bw
   shortLabel VERUS_TROG
-  longLabel vet_v_smoothed4_ds5_pbs
+  longLabel VERUS (VERUS,ELLIOTI VS TROGLODYTES)
   type bigWig
   visibility full
   autoscale off
@@ -193,7 +193,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vet_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_TROG
-  longLabel vet_e_smoothed4_ds5_pbs
+  longLabel ELLIOTI (VERUS,ELLIOTI VS TROGLODYTES)
   type bigWig
   visibility full
   autoscale off
@@ -207,7 +207,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vest_v_smoothed4_ds5_pbs.bw
   shortLabel VERUS_SCHWEIN_TROG
-  longLabel vest_v_smoothed4_ds5_pbs
+  longLabel VERUS (VERUS,ELLIOTI VS SCHWEINFURTHII+TROGLODYTES)
   type bigWig
   visibility full
   autoscale off
@@ -221,7 +221,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vest_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_SCHWEIN_TROG
-  longLabel vest_e_smoothed4_ds5_pbs
+  longLabel ELLIOTI (VERUS,ELLIOTI VS SCHWEINFURTHII+TROGLODYTES)
   type bigWig
   visibility full
   autoscale off
@@ -235,7 +235,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/veb_v_smoothed4_ds5_pbs.bw
   shortLabel VERUS_PANISCUS
-  longLabel veb_v_smoothed4_ds5_pbs
+  longLabel VERUS (VERUS,ELLIOTI VS PANISCUS)
   type bigWig
   visibility full
   autoscale off
@@ -249,7 +249,7 @@ dragAndDrop subTracks
   parent PBS_Smoothed on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/veb_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_PANISCUS
-  longLabel veb_e_smoothed4_ds5_pbs
+  longLabel ELLIOTI (VERUS,ELLIOTI VS PANISCUS)
   type bigWig
   visibility full
   autoscale off
