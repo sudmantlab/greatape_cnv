@@ -147,6 +147,20 @@ dragAndDrop subTracks
   altColor 141,12,55
   maxHeightPixels 100:40:8
   
+  track B_STVE
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stveb_b_smoothed4_ds5_pbs.bw
+  shortLabel B_STVE
+  longLabel PANISCUS (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 141,12,55
+  altColor 141,12,55
+  maxHeightPixels 100:40:8
+  
   track VERUS_SCHWEINFURTHII
   parent PBS_Smoothed_All on
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/ves_v_smoothed4_ds5_pbs.bw
@@ -250,6 +264,34 @@ dragAndDrop subTracks
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/veb_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_PANISCUS
   longLabel ELLIOTI (VERUS,ELLIOTI VS PANISCUS)
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 141,12,55
+  altColor 141,12,55
+  maxHeightPixels 100:40:8
+  
+  track PANISCUS_SCHWEIN_TROG
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stb_b_smoothed4_ds5_pbs.bw
+  shortLabel PANISCUS_SCHWEIN_TROG
+  longLabel PANISCUS (PANISCUS VS SCHWEINFURTHII+TROGLODYTES)
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 141,12,55
+  altColor 141,12,55
+  maxHeightPixels 100:40:8
+  
+  track PANISCUS_VERUS_ELLIOTI
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/veb_b_smoothed4_ds5_pbs.bw
+  shortLabel PANISCUS_VERUS_ELLIOTI
+  longLabel PANISCUS (PANISCUS VS VERUS+ELLIOTI)
   type bigWig
   visibility full
   autoscale off
