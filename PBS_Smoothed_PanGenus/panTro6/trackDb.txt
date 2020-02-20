@@ -1,7 +1,7 @@
 track PBS_Smoothed_PanGenus
 compositeTrack on
-subGroup1 sub1 Sub_1 A=ASCHWEINFURTHII_TROGLODYTES B=ELLIOTI_VERUS C=PANISCUS
-sortOrder sub1=+
+subGroup1 sub BRANCH_GROUPINGS A=SCHWEINFURTHII_AND_TROGLODYTES B=ELLIOTI_AND_VERUS C=PANISCUS
+sortOrder sub=+
 shortLabel PBS Smoothed Pan Genus
 longLabel PBS Smoothed Pan Genus
 type bigWig
@@ -10,7 +10,7 @@ dragAndDrop subTracks
 
   track ST_VEB
   parent PBS_Smoothed_PanGenus on
-  subGroups sub1=A
+  subGroups sub=A
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_PanGenus/panTro6/stveb_st_smoothed4_ds5_pbs.bw
   shortLabel ST_VEB
   longLabel SCHWEINFURTHII+TROGLODYTES (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
@@ -25,7 +25,7 @@ dragAndDrop subTracks
   
   track VE_STB
   parent PBS_Smoothed_PanGenus on
-  subGroups sub1=B
+  subGroups sub=B
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_PanGenus/panTro6/stveb_ve_smoothed4_ds5_pbs.bw
   shortLabel VE_STB
   longLabel VERUS+ELLIOTI (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
