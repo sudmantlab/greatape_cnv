@@ -1,5 +1,5 @@
 hub PBSHub_AllChimps_Smoothed_Github
 shortLabel PBS All Chimps Hub Smoothed Github
 longLabel Population Branch Statistic For All Chimps, UC Berkeley
-genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_AllChimps/genomes.txt
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/genomes.txt
 email almahalgren@berkeley.edu
