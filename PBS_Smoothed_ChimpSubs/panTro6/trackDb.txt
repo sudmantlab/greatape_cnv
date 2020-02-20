@@ -1,204 +1,63 @@
-track PBS_Smoothed
+track PBS_Smoothed_ChimpSubs
 compositeTrack on
-shortLabel PBS Smoothed Data
-longLabel PBS Smoothed Data
+shortLabel PBS Smoothed Chimp Subspecies
+longLabel PBS Smoothed Chimp Subspecies
 type bigWig
 allButtonPair on
 dragAndDrop subTracks
-
-
-  track SCHWEINFURTHII_PANISCUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_PANISCUS
-  longLabel stb_s_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-
-  track SCHWEINFURTHII_PANISCUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_PANISCUS
-  longLabel stb_s_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-  
-  track SCHWEINFURTHII_VERUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stv_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_VERUS
-  longLabel stv_s_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-  
-  track SCHWEINFURTHII_VERUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stv_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_VERUS
-  longLabel stv_s_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-  
-  track SCHWEINFURTHII_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ste_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_ELLIOTI
-  longLabel ste_s_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-  
-  track SCHWEINFURTHII_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ste_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_ELLIOTI
-  longLabel ste_s_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
   
   track SCHWEINFURTHII_VERUS_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_s_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_ChimpSubs on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/stve_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_VERUS_ELLIOTI
-  longLabel stve_s_smoothed4_ds5_pbs
+  longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS VERUS+ELLIOTI)
   type bigWig
   visibility full
   autoscale off
   viewLimits -0.2:0.8
   yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
+  color 141,12,55
+  altColor 141,12,55
   maxHeightPixels 100:40:8
   
-  track SCHWEINFURTHII_VERUS_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_VERUS_ELLIOTI
-  longLabel stve_s_smoothed4_ds5_pbs
+  track TROGLODYTES_VERUS_ELLIOTI
+  parent PBS_Smoothed_ChimpSubs on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/stve_t_smoothed4_ds5_pbs.bw
+  shortLabel TROG_VERUS_ELLIOTI
+  longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS VERUS+ELLIOTI)
   type bigWig
   visibility full
   autoscale off
   viewLimits -0.2:0.8
   yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
+  color 141,12,55
+  altColor 141,12,55
   maxHeightPixels 100:40:8
   
-  track SCHWEINFURTHII_VERUS_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_s_smoothed4_ds5_pbs.bw
-  shortLabel SCHWEIN_VERUS_ELLIOTI
-  longLabel stve_s_smoothed4_ds5_pbs
+  track VERUS_SCHWEIN_TROG
+  parent PBS_Smoothed_ChimpSubs on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/vest_v_smoothed4_ds5_pbs.bw
+  shortLabel VERUS_SCHWEIN_TROG
+  longLabel VERUS (VERUS,ELLIOTI VS SCHWEINFURTHII+TROGLODYTES)
   type bigWig
   visibility full
   autoscale off
   viewLimits -0.2:0.8
   yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-
-  track ST_VEB
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stveb_st_smoothed4_ds5_pbs.bw
-  shortLabel ST_VEB
-  longLabel stveb_st_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
+  color 141,12,55
+  altColor 141,12,55
   maxHeightPixels 100:40:8
   
-  track VE_STB
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stveb_ve_smoothed4_ds5_pbs.bw
-  shortLabel VE_STB
-  longLabel stveb_ve_smoothed4_ds5_pbs
+  track ELLIOTI_SCHWEIN_TROG
+  parent PBS_Smoothed_ChimpSubs on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/vest_e_smoothed4_ds5_pbs.bw
+  shortLabel ELLIOTI_SCHWEIN_TROG
+  longLabel ELLIOTI (VERUS,ELLIOTI VS SCHWEINFURTHII+TROGLODYTES)
   type bigWig
   visibility full
   autoscale off
   viewLimits -0.2:0.8
   yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-  
-  track VERUS_SCHWEINFURTHII
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_v_smoothed4_ds5_pbs.bw
-  shortLabel VERUS_SCHWEINFURTHII
-  longLabel ves_v_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-  
-  track VERUS_SCHWEINFURTHII
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_v_smoothed4_ds5_pbs.bw
-  shortLabel VERUS_SCHWEINFURTHII
-  longLabel ves_v_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
-  maxHeightPixels 100:40:8
-  
-  track VERUS_TROGLODYTES
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_v_smoothed4_ds5_pbs.bw
-  shortLabel VERUS_SCHWEINFURTHII
-  longLabel ves_v_smoothed4_ds5_pbs
-  type bigWig
-  visibility full
-  autoscale off
-  viewLimits -0.2:0.8
-  yLineOnOff on
-  color 43,222,168
-  altColor 43,222,168
+  color 141,12,55
+  altColor 141,12,55
   maxHeightPixels 100:40:8
