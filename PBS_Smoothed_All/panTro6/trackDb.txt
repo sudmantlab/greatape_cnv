@@ -1,15 +1,15 @@
-track PBS_Smoothed
+track PBS_Smoothed_All
 compositeTrack on
-shortLabel PBS Smoothed Data
-longLabel PBS Smoothed Data
+shortLabel PBS Smoothed All Chimps
+longLabel PBS Smoothed All Chimps
 type bigWig
 allButtonPair on
 dragAndDrop subTracks
 
 
   track SCHWEINFURTHII_PANISCUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_s_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stb_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_PANISCUS
   longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS PANISCUS)
   type bigWig
@@ -22,8 +22,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
 
   track TROGLODYTES_PANISCUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stb_t_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stb_t_smoothed4_ds5_pbs.bw
   shortLabel TROG_PANISCUS
   longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS PANISCUS)
   type bigWig
@@ -36,8 +36,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track SCHWEINFURTHII_VERUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stv_s_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stv_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_VERUS
   longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS VERUS)
   type bigWig
@@ -78,8 +78,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track TROGLODYTES_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ste_t_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/ste_t_smoothed4_ds5_pbs.bw
   shortLabel TROG_ELLIOTI
   longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS ELLIOTI)
   type bigWig
@@ -92,8 +92,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track SCHWEINFURTHII_VERUS_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_s_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stve_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_VERUS_ELLIOTI
   longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS VERUS+ELLIOTI)
   type bigWig
@@ -106,8 +106,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track TROGLODYTES_VERUS_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stve_t_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stve_t_smoothed4_ds5_pbs.bw
   shortLabel TROG_VERUS_ELLIOTI
   longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS VERUS+ELLIOTI)
   type bigWig
@@ -120,8 +120,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
 
   track ST_VEB
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stveb_st_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stveb_st_smoothed4_ds5_pbs.bw
   shortLabel ST_VEB
   longLabel SCHWEINFURTHII+TROGLODYTES (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
   type bigWig
@@ -134,8 +134,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track VE_STB
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stveb_ve_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stveb_ve_smoothed4_ds5_pbs.bw
   shortLabel VE_STB
   longLabel VERUS+ELLIOTI (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
   type bigWig
@@ -148,8 +148,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track VERUS_SCHWEINFURTHII
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_v_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/ves_v_smoothed4_ds5_pbs.bw
   shortLabel VERUS_SCHWEIN
   longLabel VERUS (VERUS,ELLIOTI VS SCHWEINFURTHII)
   type bigWig
@@ -162,8 +162,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track ELLIOTI_SCHWEINFURTHII
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ves_e_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/ves_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_SCHWEIN
   longLabel ELLIOTI (VERUS,ELLIOTI VS SCHWEINFURTHII)
   type bigWig
@@ -176,8 +176,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track VERUS_TROGLODYTES
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vet_v_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/vet_v_smoothed4_ds5_pbs.bw
   shortLabel VERUS_TROG
   longLabel VERUS (VERUS,ELLIOTI VS TROGLODYTES)
   type bigWig
@@ -190,8 +190,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track ELLIOTI_TROGLODYTES
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vet_e_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/vet_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_TROG
   longLabel ELLIOTI (VERUS,ELLIOTI VS TROGLODYTES)
   type bigWig
@@ -204,8 +204,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track VERUS_SCHWEIN_TROG
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vest_v_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/vest_v_smoothed4_ds5_pbs.bw
   shortLabel VERUS_SCHWEIN_TROG
   longLabel VERUS (VERUS,ELLIOTI VS SCHWEINFURTHII+TROGLODYTES)
   type bigWig
@@ -218,8 +218,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track ELLIOTI_SCHWEIN_TROG
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/vest_e_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/vest_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_SCHWEIN_TROG
   longLabel ELLIOTI (VERUS,ELLIOTI VS SCHWEINFURTHII+TROGLODYTES)
   type bigWig
@@ -232,8 +232,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track VERUS_PANISCUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/veb_v_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/veb_v_smoothed4_ds5_pbs.bw
   shortLabel VERUS_PANISCUS
   longLabel VERUS (VERUS,ELLIOTI VS PANISCUS)
   type bigWig
@@ -246,8 +246,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track ELLIOTI_PANISCUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/veb_e_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/veb_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_PANISCUS
   longLabel ELLIOTI (VERUS,ELLIOTI VS PANISCUS)
   type bigWig
