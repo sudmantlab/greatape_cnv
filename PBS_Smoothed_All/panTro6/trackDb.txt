@@ -50,8 +50,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track TROGLODYTES_VERUS
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/stv_t_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/stv_t_smoothed4_ds5_pbs.bw
   shortLabel TROG_VERUS
   longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS VERUS)
   type bigWig
@@ -64,8 +64,8 @@ dragAndDrop subTracks
   maxHeightPixels 100:40:8
   
   track SCHWEINFURTHII_ELLIOTI
-  parent PBS_Smoothed on
-  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed/panTro6/ste_s_smoothed4_ds5_pbs.bw
+  parent PBS_Smoothed_All on
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_All/panTro6/ste_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_ELLIOTI
   longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS ELLIOTI)
   type bigWig
