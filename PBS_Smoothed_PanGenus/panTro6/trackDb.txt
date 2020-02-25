@@ -1,7 +1,7 @@
 track PBS_Smoothed_PanGenus
 compositeTrack on
 subGroup1 sub1 BRANCH_GROUPINGS A=ELLIOTI_&_VERUS B=SCHWEINFURTHII_&_TROGLODYTES C=PANISCUS
-subGroup1 sub2 _ D=_
+subGroup1 sub2 NONE D=NONE
 shortLabel PBS Smoothed Pan Genus
 longLabel PBS Smoothed Pan Genus
 type bigWig
