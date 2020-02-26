@@ -1,2 +1,2 @@
-track name='Pan CNV' itemRgb="On"
-chr1 108412997 108426924 Ellioti_del 0,102,0
+track name='Pan CNV' description="Pan CNV Loci" visibility=2 itemRgb="On"
+chr1    108412997   108426924   Ellioti_del   0   +   108412997   108426924   0,102,0
