@@ -1,4 +1,4 @@
 browser position chr1:108390396-108446204
-track name="Pan CNV Loci" description="Pan CNV Loci" color=0,102,0
+track name="Pan CNV Loci" description="Pan CNV Loci" color=0,102,0,
 chr1 108412997 108426924 GSTM1
 chr1 108415200 108421400 NBPF
