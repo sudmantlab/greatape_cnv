@@ -1,5 +1,8 @@
 track PBS_Smoothed_ChimpSubs
 compositeTrack on
+subGroup1 sub1 SUBSPECIES A=VERUS B=ELLIOTI C=TROGLODYTES D=SCHWEINFURTHII E=PANISCUS
+dimensions dimX=sub1
+sortOrder sub1=+
 shortLabel PBS Smoothed Chimp Subspecies
 longLabel PBS Smoothed Chimp Subspecies
 type bigWig
@@ -8,6 +11,7 @@ dragAndDrop subTracks
   
   track SCHWEINFURTHII_VERUS_ELLIOTI
   parent PBS_Smoothed_ChimpSubs on
+  subGroups sub1=D
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/stve_s_smoothed4_ds5_pbs.bw
   shortLabel SCHWEIN_VERUS_ELLIOTI
   longLabel SCHWEINFURTHII (SCHWEINFURTHII,TROGLODYTES VS VERUS+ELLIOTI)
@@ -22,6 +26,7 @@ dragAndDrop subTracks
   
   track TROGLODYTES_VERUS_ELLIOTI
   parent PBS_Smoothed_ChimpSubs on
+  subGroups sub1=C
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/stve_t_smoothed4_ds5_pbs.bw
   shortLabel TROG_VERUS_ELLIOTI
   longLabel TROGLODYTES (SCHWEINFURTHII,TROGLODYTES VS VERUS+ELLIOTI)
@@ -36,6 +41,7 @@ dragAndDrop subTracks
   
   track VERUS_SCHWEIN_TROG
   parent PBS_Smoothed_ChimpSubs on
+  subGroups sub1=A
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/vest_v_smoothed4_ds5_pbs.bw
   shortLabel VERUS_SCHWEIN_TROG
   longLabel VERUS (VERUS,ELLIOTI VS SCHWEINFURTHII+TROGLODYTES)
@@ -50,6 +56,7 @@ dragAndDrop subTracks
   
   track ELLIOTI_SCHWEIN_TROG
   parent PBS_Smoothed_ChimpSubs on
+  subGroups sub1=B
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/vest_e_smoothed4_ds5_pbs.bw
   shortLabel ELLIOTI_SCHWEIN_TROG
   longLabel ELLIOTI (VERUS,ELLIOTI VS SCHWEINFURTHII+TROGLODYTES)
@@ -64,6 +71,7 @@ dragAndDrop subTracks
   
   track PANISCUS_SCHWEIN_TROG
   parent PBS_Smoothed_ChimpSubs on
+  subGroups sub1=E
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/stb_b_smoothed4_ds5_pbs.bw
   shortLabel PANISCUS_SCHWEIN_TROG
   longLabel PANISCUS (PANISCUS VS SCHWEINFURTHII+TROGLODYTES)
@@ -78,6 +86,7 @@ dragAndDrop subTracks
   
   track PANISCUS_VERUS_ELLIOTI
   parent PBS_Smoothed_ChimpSubs on
+  subGroups sub1=E
   bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/panTro6/veb_b_smoothed4_ds5_pbs.bw
   shortLabel PANISCUS_VERUS_ELLIOTI
   longLabel PANISCUS (PANISCUS VS VERUS+ELLIOTI)
