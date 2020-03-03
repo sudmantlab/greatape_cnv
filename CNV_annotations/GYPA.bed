@@ -1,2 +1,2 @@
 track name='GYPA' description="GYPA Structural Variants" visibility=2 itemRgb="On"
-chr4    142178016   142194862   Paniscus_del    0   .   142178016   142194862   127,0,255
+chr4    142178016   142194862   Paniscus_dup    0   .   142178016   142194862   127,0,255
