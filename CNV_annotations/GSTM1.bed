@@ -1,4 +1,6 @@
 track name='GSTM1' description="GSTM1 Structural Variants" visibility=2 itemRgb="On"
 chr1    108412997   108426924   Ellioti_del   0   .   108412997   108426924   255,0,0
+chr1    108408000   108411972   Ellioti_del   0   .   108408000   108411972   255,0,0
+chr1    108427995   108430996   Ellioti_del   0   .   108427995   108430996   255,0,0
 chr1    108407993   108429966   Trog_dup      0   .   108407993   108429966   0,128,255
 chr1    108397919   108436993   Pan_dup       0   .   108397919   108436993   127,0,255
