@@ -1,4 +1,6 @@
+browser position chr4:142127018-142194862
 track name='GYPA' description="GYPA Structural Variants" visibility=2 itemRgb="On"
 chr4    142178016   142194862   Paniscus_dup    0   .   142178016   142194862   127,0,255
 chr4    142130099   142142887   Paniscus_del    0   .   142130099   142142887   127,0,255
 chr4    142127018   142132979   Ellioti_dup     0   .   142127018   142132979   255,0,0
+chr4    142180984   142183009   Ellioti_dup     0   .   142180984   142183009   255,0,0
