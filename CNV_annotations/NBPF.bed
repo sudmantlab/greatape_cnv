@@ -1,0 +1,2 @@
+rack name='NBPF' description="NBPF Structural Variants" visibility=2 itemRgb="On"
+chr1    121657964   121671972   Ellioti_dup   0   .   121657964   121671972   255,0,0
