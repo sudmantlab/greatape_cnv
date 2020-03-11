@@ -1,0 +1,5 @@
+hub PBSHub_Smoothed_PanGenus_Github
+shortLabel PBS of the Pan Genus Smoothed Hub Github
+longLabel Population Branch Statistic Between Pan Genus Branches, UC Berkeley
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_PanGenus/genomes.txt
+email almahalgren@berkeley.edu

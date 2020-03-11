@@ -1,0 +1,4 @@
+browser position chr1:108387552-108481288
+track name='GSTM1 Region' description="GSTM Structural Variants" visibility=2 itemRgb="On"
+chr1    108468984   108471999   Duplication?  0   .   108468984   108471999   0,204,0
+chr1    108407993   108429966   Deletion      0   .   108407993   108429966   204,0,0

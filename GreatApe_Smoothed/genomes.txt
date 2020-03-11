@@ -1,0 +1,2 @@
+genome panTro6
+trackDb https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/trackDb.txt

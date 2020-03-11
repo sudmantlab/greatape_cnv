@@ -1,0 +1,55 @@
+track PBS_Smoothed_PanGenus
+compositeTrack on
+subGroup1 sub1 BRANCH_GROUPINGS A=ELLIOTI_&_VERUS B=SCHWEINFURTHII_&_TROGLODYTES C=PANISCUS
+dimensions dimX=sub1
+sortOrder sub1=+
+shortLabel PBS Smoothed Pan Genus
+longLabel PBS Smoothed Pan Genus
+type bigWig
+allButtonPair on
+dragAndDrop subTracks
+
+  track ST_VEB
+  parent PBS_Smoothed_PanGenus on
+  subGroups sub1=B
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_PanGenus/panTro6/stveb_st_smoothed4_ds5_pbs.bw
+  shortLabel ST_VEB
+  longLabel SCHWEINFURTHII+TROGLODYTES (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 141,12,55
+  altColor 141,12,55
+  maxHeightPixels 100:40:8
+  
+  track VE_STB
+  parent PBS_Smoothed_PanGenus on
+  subGroups sub1=A
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_PanGenus/panTro6/stveb_ve_smoothed4_ds5_pbs.bw
+  shortLabel VE_STB
+  longLabel VERUS+ELLIOTI (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 141,12,55
+  altColor 141,12,55
+  maxHeightPixels 100:40:8
+  
+  track B_STVE
+  parent PBS_Smoothed_PanGenus on
+  subGroups sub1=C
+  bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_PanGenus/panTro6/stveb_b_smoothed4_ds5_pbs.bw
+  shortLabel B_STVE
+  longLabel PANISCUS (SCHWEINFURTHII+TROGLODYTES,VERUS+ELLIOTI VS PANISCUS)
+  type bigWig
+  visibility full
+  autoscale off
+  viewLimits -0.2:0.8
+  yLineOnOff on
+  color 141,12,55
+  altColor 141,12,55
+  maxHeightPixels 100:40:8

@@ -1,0 +1,5 @@
+hub PBSHub_Smoothed_ChimpSubs_Github
+shortLabel PBS of Chimp Subspecies Smoothed Hub Github
+longLabel Population Branch Statistic Across the Chimp Subspecies, UC Berkeley
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/PBS_Smoothed_ChimpSubs/genomes.txt
+email almahalgren@berkeley.edu

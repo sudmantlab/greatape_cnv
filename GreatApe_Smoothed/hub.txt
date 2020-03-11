@@ -1,0 +1,5 @@
+hub GreatApeHub_Smoothed_Github
+shortLabel Great Ape CNV Hub Smoothed Github
+longLabel Copy Number Variation Across the Great Apes, UC Berkeley
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/genomes.txt
+email almahalgren@berkeley.edu
