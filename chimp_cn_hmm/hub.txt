@@ -1,1 +1,5 @@
-yo
+hub GreatApeHub_Smoothed_Github
+shortLabel Great Ape CN HMM Hub Github
+longLabel Copy Number Variation HMM Across the Great Apes, UC Berkeley
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/chimp_cn_hmm/genomes.txt
+email almahalgren@berkeley.edu
