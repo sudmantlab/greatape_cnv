@@ -1,0 +1,2 @@
+genome panTro6
+trackDb https://github.com/sudmantlab/greatape_cnv/raw/master/chimp_cn_hmm/panTro6/trackDb.txt
