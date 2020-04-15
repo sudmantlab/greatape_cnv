@@ -1,0 +1,60 @@
+sample_accession,sample_alias,sub_species,sample_type,sex,geographic_location
+ERS1286212,Berta,verus,blood,female,Cote d'Ivoire
+ERS1286213,Annie,verus,blood,female,Guinea
+ERS1286214,Mike,verus,blood,male,Guinea
+ERS1286215,SeppToni,verus,blood,male,Liberia
+ERS1286216,Linda,verus,blood,female,Liberia
+ERS1286217,Cindy_verus,verus,blood,female,Cote d'Ivoire
+ERS1286218,Alice,verus,blood,female,Cote d'Ivoire
+ERS1286219,Marlin,troglodytes,blood,female,not provided
+ERS1286220,Negrita,troglodytes,blood,female,Equatorial Guinea
+ERS1286221,Blanquita,troglodytes,blood,female,Equatorial Guinea
+ERS1286222,Tibe,troglodytes,blood,female,Equatorial Guinea
+ERS1286223,Yogui,troglodytes,blood,male,Equatorial Guinea
+ERS1286224,Noemie,troglodytes,blood,female,Equatorial Guinea
+ERS1286225,Cindy_troglodytes,troglodytes,blood,female,not provided
+ERS1286226,Mirinda,troglodytes,blood,female,not provided
+ERS1286227,Ula,troglodytes,blood,female,Equatorial Guinea
+ERS1286228,Lara,troglodytes,blood,female,Equatorial Guinea
+ERS1286229,Luky,troglodytes,blood,male,Equatorial Guinea
+ERS1286230,Gamin,troglodytes,blood,male,not provided
+ERS1286231,Brigitta,troglodytes,blood,female,not provided
+ERS1286234,Alfred,troglodytes,blood,male,not provided
+ERS1286236,Padda,schweinfurthii,blood,male,Democratic Republic of the Congo
+ERS1286237,Cindy_schwein,schweinfurthii,blood,female,Uganda
+ERS1286238,Ikuru,schweinfurthii,blood,female,Democratic Republic of the Congo
+ERS1286239,Tongo,schweinfurthii,blood,male,Democratic Republic of the Congo
+ERS1286240,Cleo,schweinfurthii,blood,female,Democratic Republic of the Congo
+ERS1286241,Bihati,schweinfurthii,blood,female,not provided
+ERS1286242,Trixie,schweinfurthii,blood,female,Democratic Republic of the Congo
+ERS1286243,Frederike,schweinfurthii,blood,female,Rwanda
+ERS1286244,Maya,schweinfurthii,blood,female,Democratic Republic of the Congo
+ERS1286245,Coco,schweinfurthii,blood,female,Zambia
+ERS1286246,Athanga,schweinfurthii,blood,male,Democratic Republic of the Congo
+ERS1286247,Washu,schweinfurthii,blood,male,Democratic Republic of the Congo
+ERS1286248,,,,male,Democratic Republic of the Congo
+SRS394730,Vincent,schweinfurthii,Spleen,male,"Tanzania, Gombe National Park"
+SRS394779,Andromeda,schweinfurthii,Spleen,female,"Tanzania, Gombe National Park"
+SRS394801,Bwambale,schweinfurthii,Blood,male,"Uganda, from Busamba, Bundibujo District in western Uganda."
+SRS394804,Kidongo,schweinfurthii,Blood,female,Democratic Republic of Congo
+SRS394808,Nakuu,schweinfurthii,Blood,female,Democratic Republic of Congo
+SRS396822,Donald,,Blood,male,
+SRS396823,Bosco,verus,Liver,male,
+SRS396824,Harriet,schweinfurthii,Spleen,female,"Bundongo Forest up Banyoror, Western Uganda"
+SRS396842,Jimmie,verus,Blood,female,Western Africa
+SRS396843,Vaillant,troglodytes,Blood,male,Gabon (Haut Ogooue)
+SRS396844,Doris,troglodytes,Blood,female,Gabon (Ogooue Maritime)
+SRS396845,Julie_A959,troglodytes,Blood,female,Gabon (Haut Ogooue)
+SRS396846,Clara,troglodytes,Blood,female,Gabon
+SRS396848,Koby,verus,,male,
+SRS396858,Akwaya-Jean,ellioti,Whole Blood,male,"Western Cameroon; conf (Akwaya, Adamoua Province)"
+SRS396859,Banyo,ellioti,Whole Blood,female,"Western Cameroon; conf (Bankim, Adamoua Province)"
+SRS396860,Basho,ellioti,Whole Blood,male,"Western Cameroon; conf (Takamanda, SW Province)"
+SRS396861,Damian,ellioti,Whole Blood,male,"Western Cameroon; conf (Tinto, NW Province)"
+SRS396862,Julie_LWC21,ellioti,Whole Blood,female,"Western Cameroon; conf (Douala, Littoral Province probably smuggled from NW)"
+SRS396863,Kopongo,ellioti,Whole Blood,female,"Western Cameroon; conf (Mt. Cameroon, SW Province)"
+SRS396864,Koto,ellioti,Whole Blood,male,"Western Cameroon; conf (Edea, Littoral Province probably smuggled from Mt. Cameroon)"
+SRS396865,Paquita,ellioti,Whole Blood,female,"Western Cameroon; conf (Bertoua, Eastern Province)"
+SRS396866,Taweh,ellioti,Whole Blood,male,"Western Cameroon; conf (Numba Nfe near Mamfe, SW Province)"
+SRS396867,Tobi,ellioti,Whole Blood,female,Western Cameroon; conf (Yaounde--long term resdent of Yaounde Zoo)
+SRS396875,Clint,verus,,male,Captive born
