@@ -1,0 +1,60 @@
+sample_accession,sample_alias,sub_species,experiment_accession,run_accessions,sample_type,sex,geographic_location
+ERS1286212,Berta,verus,ERX1780199,['ERR1709965'],blood,female,Cote d'Ivoire
+ERS1286213,Annie,verus,ERX1780326,['ERR1710092'],blood,female,Guinea
+ERS1286214,Mike,verus,ERX1780267,['ERR1710033'],blood,male,Guinea
+ERS1286215,SeppToni,verus,ERX1780116,['ERR1709882'],blood,male,Liberia
+ERS1286216,Linda,verus,ERX1780257,['ERR1710023'],blood,female,Liberia
+ERS1286217,Cindy_verus,verus,ERX1780358,['ERR1710124'],blood,female,Cote d'Ivoire
+ERS1286218,Alice,verus,ERX1780271,['ERR1710037'],blood,female,Cote d'Ivoire
+ERS1286219,Marlin,troglodytes,ERX1780253,['ERR1710019'],blood,female,not provided
+ERS1286220,Negrita,troglodytes,ERX1780328,['ERR1710094'],blood,female,Equatorial Guinea
+ERS1286221,Blanquita,troglodytes,ERX1780195,['ERR1709961'],blood,female,Equatorial Guinea
+ERS1286222,Tibe,troglodytes,ERX1780106,['ERR1709872'],blood,female,Equatorial Guinea
+ERS1286223,Yogui,troglodytes,ERX1780338,['ERR1710104'],blood,male,Equatorial Guinea
+ERS1286224,Noemie,troglodytes,ERX1780145,['ERR1709911'],blood,female,Equatorial Guinea
+ERS1286225,Cindy_troglodytes,troglodytes,ERX1780294,['ERR1710060'],blood,female,not provided
+ERS1286226,Mirinda,troglodytes,ERX1780251,['ERR1710017'],blood,female,not provided
+ERS1286227,Ula,troglodytes,ERX1780142,['ERR1709908'],blood,female,Equatorial Guinea
+ERS1286228,Lara,troglodytes,ERX1780382,['ERR1710148'],blood,female,Equatorial Guinea
+ERS1286229,Luky,troglodytes,ERX1780169,['ERR1709935'],blood,male,Equatorial Guinea
+ERS1286230,Gamin,troglodytes,ERX1780223,['ERR1709989'],blood,male,not provided
+ERS1286231,Brigitta,troglodytes,ERX1780193,['ERR1709959'],blood,female,not provided
+ERS1286234,Alfred,troglodytes,ERX1780318,['ERR1710084'],blood,male,not provided
+ERS1286236,Padda,schweinfurthii,ERX1780227,['ERR1709993'],blood,male,Democratic Republic of the Congo
+ERS1286237,Cindy_schwein,schweinfurthii,ERX1780322,['ERR1710088'],blood,female,Uganda
+ERS1286238,Ikuru,schweinfurthii,ERX1780386,['ERR1710152'],blood,female,Democratic Republic of the Congo
+ERS1286239,Tongo,schweinfurthii,ERX1780332,['ERR1710098'],blood,male,Democratic Republic of the Congo
+ERS1286240,Cleo,schweinfurthii,ERX1780263,['ERR1710029'],blood,female,Democratic Republic of the Congo
+ERS1286241,Bihati,schweinfurthii,ERX1780336,['ERR1710102'],blood,female,not provided
+ERS1286242,Trixie,schweinfurthii,ERX1780354,['ERR1710120'],blood,female,Democratic Republic of the Congo
+ERS1286243,Frederike,schweinfurthii,ERX1780340,['ERR1710106'],blood,female,Rwanda
+ERS1286244,Maya,schweinfurthii,ERX1780346,['ERR1710112'],blood,female,Democratic Republic of the Congo
+ERS1286245,Coco,schweinfurthii,ERX1780342,['ERR1710108'],blood,female,Zambia
+ERS1286246,Athanga,schweinfurthii,ERX1780118,['ERR1709884'],blood,male,Democratic Republic of the Congo
+ERS1286247,Washu,schweinfurthii,ERX1780350,['ERR1710116'],blood,male,Democratic Republic of the Congo
+ERS1286248,,,ERX1780112,['ERR1709878'],,male,Democratic Republic of the Congo
+SRS394730,Vincent,schweinfurthii,SRX237455,"['SRR726233', 'SRR726241', 'SRR726242', 'SRR726243']",Spleen,male,"Tanzania, Gombe National Park"
+SRS394779,Andromeda,schweinfurthii,SRX237492,"['SRR726275', 'SRR726278', 'SRR726279', 'SRR726280']",Spleen,female,"Tanzania, Gombe National Park"
+SRS394801,Bwambale,schweinfurthii,SRX237526,"['SRR726356', 'SRR726357', 'SRR726358', 'SRR726359']",Blood,male,"Uganda, from Busamba, Bundibujo District in western Uganda."
+SRS394804,Kidongo,schweinfurthii,SRX237539,"['SRR726404', 'SRR726405', 'SRR726406', 'SRR726407']",Blood,female,Democratic Republic of Congo
+SRS394808,Nakuu,schweinfurthii,SRX237583,"['SRR726412', 'SRR726413', 'SRR726415', 'SRR726416']",Blood,female,Democratic Republic of Congo
+SRS396822,Donald,,SRX243447,"['SRR747949', 'SRR747950']",Blood,male,
+SRS396823,Bosco,verus,SRX243449,"['SRR747953', 'SRR747954']",Liver,male,
+SRS396824,Harriet,schweinfurthii,SRX243451,"['SRR747957', 'SRR747958']",Spleen,female,"Bundongo Forest up Banyoror, Western Uganda"
+SRS396842,Jimmie,verus,SRX243488,"['SRR748053', 'SRR748054', 'SRR748055']",Blood,female,Western Africa
+SRS396843,Vaillant,troglodytes,SRX243490,"['SRR748059', 'SRR748060']",Blood,male,Gabon (Haut Ogooue)
+SRS396844,Doris,troglodytes,SRX243492,"['SRR748063', 'SRR748064', 'SRR748065']",Blood,female,Gabon (Ogooue Maritime)
+SRS396845,Julie_A959,troglodytes,SRX243494,"['SRR748069', 'SRR748070']",Blood,female,Gabon (Haut Ogooue)
+SRS396846,Clara,troglodytes,SRX243496,"['SRR748073', 'SRR748074', 'SRR748075']",Blood,female,Gabon
+SRS396848,Koby,verus,SRX243499,"['SRR748081', 'SRR748082', 'SRR748083', 'SRR748084']",,male,
+SRS396858,Akwaya-Jean,ellioti,SRX360475,"['SRR748121', 'SRR748122', 'SRR748123']",Whole Blood,male,"Western Cameroon; conf (Akwaya, Adamoua Province)"
+SRS396859,Banyo,ellioti,SRX243511,"['SRR748125', 'SRR748126', 'SRR748127', 'SRR748128']",Whole Blood,female,"Western Cameroon; conf (Bankim, Adamoua Province)"
+SRS396860,Basho,ellioti,SRX243512,"['SRR748129', 'SRR748130', 'SRR748131', 'SRR748132']",Whole Blood,male,"Western Cameroon; conf (Takamanda, SW Province)"
+SRS396861,Damian,ellioti,SRX360476,"['SRR748133', 'SRR748134', 'SRR748135', 'SRR748136']",Whole Blood,male,"Western Cameroon; conf (Tinto, NW Province)"
+SRS396862,Julie_LWC21,ellioti,SRX360477,"['SRR748138', 'SRR748139', 'SRR748140', 'SRR748141']",Whole Blood,female,"Western Cameroon; conf (Douala, Littoral Province probably smuggled from NW)"
+SRS396863,Kopongo,ellioti,SRX243515,"['SRR748143', 'SRR748144', 'SRR748145', 'SRR748146']",Whole Blood,female,"Western Cameroon; conf (Mt. Cameroon, SW Province)"
+SRS396864,Koto,ellioti,SRX360478,"['SRR748147', 'SRR748148', 'SRR748149', 'SRR748150']",Whole Blood,male,"Western Cameroon; conf (Edea, Littoral Province probably smuggled from Mt. Cameroon)"
+SRS396865,Paquita,ellioti,SRX243517,"['SRR748152', 'SRR748153', 'SRR748154', 'SRR748155']",Whole Blood,female,"Western Cameroon; conf (Bertoua, Eastern Province)"
+SRS396866,Taweh,ellioti,SRX360479,"['SRR748156', 'SRR748157', 'SRR748158', 'SRR748159']",Whole Blood,male,"Western Cameroon; conf (Numba Nfe near Mamfe, SW Province)"
+SRS396867,Tobi,ellioti,SRX243519,"['SRR748161', 'SRR748162', 'SRR748163', 'SRR748164']",Whole Blood,female,Western Cameroon; conf (Yaounde--long term resdent of Yaounde Zoo)
+SRS396875,Clint,verus,SRX243527,"['SRR748179', 'SRR748180', 'SRR748181', 'SRR748182', 'SRR748183', 'SRR748184', 'SRR748185', 'SRR748186']",,male,Captive born
