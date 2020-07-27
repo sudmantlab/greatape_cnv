@@ -1,0 +1,2 @@
+genome hg38
+trackDb https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/trackDb.txt
