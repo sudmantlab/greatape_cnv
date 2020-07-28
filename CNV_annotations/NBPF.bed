@@ -1,3 +1,4 @@
 browser position chr1:121601928-121728008
 track name="Chimp NBPF Structural Variants" description="Chimp NBPF Structural Variants" visibility=2 itemRgb="On"
-chr1    121657964   121671972   NBPF_1   0   .   121657964   121671972   169,186,157
+chr1    121657964   121670998   NBPF_1   0   .   121657964   121670998   169,186,157
+chr1    121670998   121683971   NBPF_2   0   .   121670998   121683971   169,186,157
