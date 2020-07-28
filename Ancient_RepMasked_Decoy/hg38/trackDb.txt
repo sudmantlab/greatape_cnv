@@ -1,1698 +1,2190 @@
-<<<<<<< HEAD
-track NEO100
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO100.bb
-shortLabel NEO100
-longLabel NEO100
-type bigBed 9
-itemRgb on
-
-track NEO113
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO113.bb
-shortLabel NEO113
-longLabel NEO113
-type bigBed 9
-itemRgb on
-
-track NEO115
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO115.bb
-shortLabel NEO115
-longLabel NEO115
-type bigBed 9
-itemRgb on
-
-track NEO116
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO116.bb
-shortLabel NEO116
-longLabel NEO116
-type bigBed 9
-itemRgb on
-
-track NEO117
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO117.bb
-shortLabel NEO117
-longLabel NEO117
-type bigBed 9
-itemRgb on
-
-track NEO119
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO119.bb
-shortLabel NEO119
-longLabel NEO119
-type bigBed 9
-itemRgb on
-
-track NEO120
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO120.bb
-shortLabel NEO120
-longLabel NEO120
-type bigBed 9
-itemRgb on
-
-track NEO121
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO121.bb
-shortLabel NEO121
-longLabel NEO121
-type bigBed 9
-itemRgb on
-
-track NEO122
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO122.bb
-shortLabel NEO122
-longLabel NEO122
-type bigBed 9
-itemRgb on
-
-track NEO123
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO123.bb
-shortLabel NEO123
-longLabel NEO123
-type bigBed 9
-itemRgb on
-
-track NEO130
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO130.bb
-shortLabel NEO130
-longLabel NEO130
-type bigBed 9
-itemRgb on
-
-track NEO137
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO137.bb
-shortLabel NEO137
-longLabel NEO137
-type bigBed 9
-itemRgb on
-
-track NEO140
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO140.bb
-shortLabel NEO140
-longLabel NEO140
-type bigBed 9
-itemRgb on
-
-track NEO142
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO142.bb
-shortLabel NEO142
-longLabel NEO142
-type bigBed 9
-itemRgb on
-
-track NEO145
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO145.bb
-shortLabel NEO145
-longLabel NEO145
-type bigBed 9
-itemRgb on
-
-track NEO147
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO147.bb
-shortLabel NEO147
-longLabel NEO147
-type bigBed 9
-itemRgb on
-
-track NEO158
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO158.bb
-shortLabel NEO158
-longLabel NEO158
-type bigBed 9
-itemRgb on
-
-track NEO160
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO160.bb
-shortLabel NEO160
-longLabel NEO160
-type bigBed 9
-itemRgb on
-
-track NEO162
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO162.bb
-shortLabel NEO162
-longLabel NEO162
-type bigBed 9
-itemRgb on
-
-track NEO163
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO163.bb
-shortLabel NEO163
-longLabel NEO163
-type bigBed 9
-itemRgb on
-
-track NEO164
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO164.bb
-shortLabel NEO164
-longLabel NEO164
-type bigBed 9
-itemRgb on
-
-track NEO166
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO166.bb
-shortLabel NEO166
-longLabel NEO166
-type bigBed 9
-itemRgb on
-
-track NEO167
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO167.bb
-shortLabel NEO167
-longLabel NEO167
-type bigBed 9
-itemRgb on
-
-track NEO17
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO17.bb
-shortLabel NEO17
-longLabel NEO17
-type bigBed 9
-itemRgb on
-
-track NEO170
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO170.bb
-shortLabel NEO170
-longLabel NEO170
-type bigBed 9
-itemRgb on
-
-track NEO171
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO171.bb
-shortLabel NEO171
-longLabel NEO171
-type bigBed 9
-itemRgb on
-
-track NEO173
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO173.bb
-shortLabel NEO173
-longLabel NEO173
-type bigBed 9
-itemRgb on
-
-track NEO174
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO174.bb
-shortLabel NEO174
-longLabel NEO174
-type bigBed 9
-itemRgb on
-
-track NEO175
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO175.bb
-shortLabel NEO175
-longLabel NEO175
-type bigBed 9
-itemRgb on
-
-track NEO178
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO178.bb
-shortLabel NEO178
-longLabel NEO178
-type bigBed 9
-itemRgb on
-
-track NEO179
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO179.bb
-shortLabel NEO179
-longLabel NEO179
-type bigBed 9
-itemRgb on
-
-track NEO18
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO18.bb
-shortLabel NEO18
-longLabel NEO18
-type bigBed 9
-itemRgb on
-
-track NEO180
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO180.bb
-shortLabel NEO180
-longLabel NEO180
-type bigBed 9
-itemRgb on
-
-track NEO184
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO184.bb
-shortLabel NEO184
-longLabel NEO184
-type bigBed 9
-itemRgb on
-
-track NEO185
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO185.bb
-shortLabel NEO185
-longLabel NEO185
-type bigBed 9
-itemRgb on
-
-track NEO186
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO186.bb
-shortLabel NEO186
-longLabel NEO186
-type bigBed 9
-itemRgb on
-
-track NEO187
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO187.bb
-shortLabel NEO187
-longLabel NEO187
-type bigBed 9
-itemRgb on
-
-track NEO189
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO189.bb
-shortLabel NEO189
-longLabel NEO189
-type bigBed 9
-itemRgb on
-
-track NEO19
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO19.bb
-shortLabel NEO19
-longLabel NEO19
-type bigBed 9
-itemRgb on
-
-track NEO192
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO192.bb
-shortLabel NEO192
-longLabel NEO192
-type bigBed 9
-itemRgb on
-
-track NEO193
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO193.bb
-shortLabel NEO193
-longLabel NEO193
-type bigBed 9
-itemRgb on
-
-track NEO194
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO194.bb
-shortLabel NEO194
-longLabel NEO194
-type bigBed 9
-itemRgb on
-
-track NEO195
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO195.bb
-shortLabel NEO195
-longLabel NEO195
-type bigBed 9
-itemRgb on
-
-track NEO197
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO197.bb
-shortLabel NEO197
-longLabel NEO197
-type bigBed 9
-itemRgb on
-
-track NEO199
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO199.bb
-shortLabel NEO199
-longLabel NEO199
-type bigBed 9
-itemRgb on
-
-track NEO200
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO200.bb
-shortLabel NEO200
-longLabel NEO200
-type bigBed 9
-itemRgb on
-
-track NEO201
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO201.bb
-shortLabel NEO201
-longLabel NEO201
-type bigBed 9
-itemRgb on
-
-track NEO202
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO202.bb
-shortLabel NEO202
-longLabel NEO202
-type bigBed 9
-itemRgb on
-
-track NEO212
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO212.bb
-shortLabel NEO212
-longLabel NEO212
-type bigBed 9
-itemRgb on
-
-track NEO220
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO220.bb
-shortLabel NEO220
-longLabel NEO220
-type bigBed 9
-itemRgb on
-
-track NEO224
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO224.bb
-shortLabel NEO224
-longLabel NEO224
-type bigBed 9
-itemRgb on
-
-track NEO225
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO225.bb
-shortLabel NEO225
-longLabel NEO225
-type bigBed 9
-itemRgb on
-
-track NEO226
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO226.bb
-shortLabel NEO226
-longLabel NEO226
-type bigBed 9
-itemRgb on
-
-track NEO227
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO227.bb
-shortLabel NEO227
-longLabel NEO227
-type bigBed 9
-itemRgb on
-
-track NEO228
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO228.bb
-shortLabel NEO228
-longLabel NEO228
-type bigBed 9
-itemRgb on
-
-track NEO23
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO23.bb
-shortLabel NEO23
-longLabel NEO23
-type bigBed 9
-itemRgb on
-
-track NEO25
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO25.bb
-shortLabel NEO25
-longLabel NEO25
-type bigBed 9
-itemRgb on
-
-track NEO254
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO254.bb
-shortLabel NEO254
-longLabel NEO254
-type bigBed 9
-itemRgb on
-
-track NEO260
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO260.bb
-shortLabel NEO260
-longLabel NEO260
-type bigBed 9
-itemRgb on
-
-track NEO261
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO261.bb
-shortLabel NEO261
-longLabel NEO261
-type bigBed 9
-itemRgb on
-
-track NEO27
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO27.bb
-shortLabel NEO27
-longLabel NEO27
-type bigBed 9
-itemRgb on
-
-track NEO270
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO270.bb
-shortLabel NEO270
-longLabel NEO270
-type bigBed 9
-itemRgb on
-
-track NEO28
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO28.bb
-shortLabel NEO28
-longLabel NEO28
-type bigBed 9
-itemRgb on
-
-track NEO281
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO281.bb
-shortLabel NEO281
-longLabel NEO281
-type bigBed 9
-itemRgb on
-
-track NEO283
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO283.bb
-shortLabel NEO283
-longLabel NEO283
-type bigBed 9
-itemRgb on
-
-track NEO29
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO29.bb
-shortLabel NEO29
-longLabel NEO29
-type bigBed 9
-itemRgb on
-
-track NEO292
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO292.bb
-shortLabel NEO292
-longLabel NEO292
-type bigBed 9
-itemRgb on
-
-track NEO300
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO300.bb
-shortLabel NEO300
-longLabel NEO300
-type bigBed 9
-itemRgb on
-
-track NEO302
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO302.bb
-shortLabel NEO302
-longLabel NEO302
-type bigBed 9
-itemRgb on
-
-track NEO304
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO304.bb
-shortLabel NEO304
-longLabel NEO304
-type bigBed 9
-itemRgb on
-
-track NEO305
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO305.bb
-shortLabel NEO305
-longLabel NEO305
-type bigBed 9
-itemRgb on
-
-track NEO306
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO306.bb
-shortLabel NEO306
-longLabel NEO306
-type bigBed 9
-itemRgb on
-
-track NEO307
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO307.bb
-shortLabel NEO307
-longLabel NEO307
-type bigBed 9
-itemRgb on
-
-track NEO309
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO309.bb
-shortLabel NEO309
-longLabel NEO309
-type bigBed 9
-itemRgb on
-
-track NEO310
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO310.bb
-shortLabel NEO310
-longLabel NEO310
-type bigBed 9
-itemRgb on
-
-track NEO36
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO36.bb
-shortLabel NEO36
-longLabel NEO36
-type bigBed 9
-itemRgb on
-
-track NEO39
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO39.bb
-shortLabel NEO39
-longLabel NEO39
-type bigBed 9
-itemRgb on
-
-track NEO43
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO43.bb
-shortLabel NEO43
-longLabel NEO43
-type bigBed 9
-itemRgb on
-
-track NEO44
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO44.bb
-shortLabel NEO44
-longLabel NEO44
-type bigBed 9
-itemRgb on
-
-track NEO46
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO46.bb
-shortLabel NEO46
-longLabel NEO46
-type bigBed 9
-itemRgb on
-
-track NEO497
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO497.bb
-shortLabel NEO497
-longLabel NEO497
-type bigBed 9
-itemRgb on
-
-track NEO498
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO498.bb
-shortLabel NEO498
-longLabel NEO498
-type bigBed 9
-itemRgb on
-
-track NEO5
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO5.bb
-shortLabel NEO5
-longLabel NEO5
-type bigBed 9
-itemRgb on
-
-track NEO501
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO501.bb
-shortLabel NEO501
-longLabel NEO501
-type bigBed 9
-itemRgb on
-
-track NEO502
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO502.bb
-shortLabel NEO502
-longLabel NEO502
-type bigBed 9
-itemRgb on
-
-track NEO503
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO503.bb
-shortLabel NEO503
-longLabel NEO503
-type bigBed 9
-itemRgb on
-
-track NEO507
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO507.bb
-shortLabel NEO507
-longLabel NEO507
-type bigBed 9
-itemRgb on
-
-track NEO509
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO509.bb
-shortLabel NEO509
-longLabel NEO509
-type bigBed 9
-itemRgb on
-
-track NEO51
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO51.bb
-shortLabel NEO51
-longLabel NEO51
-type bigBed 9
-itemRgb on
-
-track NEO516
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO516.bb
-shortLabel NEO516
-longLabel NEO516
-type bigBed 9
-itemRgb on
-
-track NEO518
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO518.bb
-shortLabel NEO518
-longLabel NEO518
-type bigBed 9
-itemRgb on
-
-track NEO52
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO52.bb
-shortLabel NEO52
-longLabel NEO52
-type bigBed 9
-itemRgb on
-
-track NEO521
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO521.bb
-shortLabel NEO521
-longLabel NEO521
-type bigBed 9
-itemRgb on
-
-track NEO524
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO524.bb
-shortLabel NEO524
-longLabel NEO524
-type bigBed 9
-itemRgb on
-
-track NEO528
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO528.bb
-shortLabel NEO528
-longLabel NEO528
-type bigBed 9
-itemRgb on
-
-track NEO536
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO536.bb
-shortLabel NEO536
-longLabel NEO536
-type bigBed 9
-itemRgb on
-
-track NEO537
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO537.bb
-shortLabel NEO537
-longLabel NEO537
-type bigBed 9
-itemRgb on
-
-track NEO538
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO538.bb
-shortLabel NEO538
-longLabel NEO538
-type bigBed 9
-itemRgb on
-
-track NEO539
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO539.bb
-shortLabel NEO539
-longLabel NEO539
-type bigBed 9
-itemRgb on
-
-track NEO552
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO552.bb
-shortLabel NEO552
-longLabel NEO552
-type bigBed 9
-itemRgb on
-
-track NEO555
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO555.bb
-shortLabel NEO555
-longLabel NEO555
-type bigBed 9
-itemRgb on
-
-track NEO556
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO556.bb
-shortLabel NEO556
-longLabel NEO556
-type bigBed 9
-itemRgb on
-
-track NEO557
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO557.bb
-shortLabel NEO557
-longLabel NEO557
-type bigBed 9
-itemRgb on
-
-track NEO558
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO558.bb
-shortLabel NEO558
-longLabel NEO558
-type bigBed 9
-itemRgb on
-
-track NEO559
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO559.bb
-shortLabel NEO559
-longLabel NEO559
-type bigBed 9
-itemRgb on
-
-track NEO560
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO560.bb
-shortLabel NEO560
-longLabel NEO560
-type bigBed 9
-itemRgb on
-
-track NEO561
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO561.bb
-shortLabel NEO561
-longLabel NEO561
-type bigBed 9
-itemRgb on
-
-track NEO563
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO563.bb
-shortLabel NEO563
-longLabel NEO563
-type bigBed 9
-itemRgb on
-
-track NEO568
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO568.bb
-shortLabel NEO568
-longLabel NEO568
-type bigBed 9
-itemRgb on
-
-track NEO569
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO569.bb
-shortLabel NEO569
-longLabel NEO569
-type bigBed 9
-itemRgb on
-
-track NEO57
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO57.bb
-shortLabel NEO57
-longLabel NEO57
-type bigBed 9
-itemRgb on
-
-track NEO570
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO570.bb
-shortLabel NEO570
-longLabel NEO570
-type bigBed 9
-itemRgb on
-
-track NEO583
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO583.bb
-shortLabel NEO583
-longLabel NEO583
-type bigBed 9
-itemRgb on
-
-track NEO586
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO586.bb
-shortLabel NEO586
-longLabel NEO586
-type bigBed 9
-itemRgb on
-
-track NEO587
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO587.bb
-shortLabel NEO587
-longLabel NEO587
-type bigBed 9
-itemRgb on
-
-track NEO589
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO589.bb
-shortLabel NEO589
-longLabel NEO589
-type bigBed 9
-itemRgb on
-
-track NEO590
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO590.bb
-shortLabel NEO590
-longLabel NEO590
-type bigBed 9
-itemRgb on
-
-track NEO595
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO595.bb
-shortLabel NEO595
-longLabel NEO595
-type bigBed 9
-itemRgb on
-
-track NEO597
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO597.bb
-shortLabel NEO597
-longLabel NEO597
-type bigBed 9
-itemRgb on
-
-track NEO598
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO598.bb
-shortLabel NEO598
-longLabel NEO598
-type bigBed 9
-itemRgb on
-
-track NEO599
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO599.bb
-shortLabel NEO599
-longLabel NEO599
-type bigBed 9
-itemRgb on
-
-track NEO60
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO60.bb
-shortLabel NEO60
-longLabel NEO60
-type bigBed 9
-itemRgb on
-
-track NEO600
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO600.bb
-shortLabel NEO600
-longLabel NEO600
-type bigBed 9
-itemRgb on
-
-track NEO609
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO609.bb
-shortLabel NEO609
-longLabel NEO609
-type bigBed 9
-itemRgb on
-
-track NEO62
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO62.bb
-shortLabel NEO62
-longLabel NEO62
-type bigBed 9
-itemRgb on
-
-track NEO624
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO624.bb
-shortLabel NEO624
-longLabel NEO624
-type bigBed 9
-itemRgb on
-
-track NEO625
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO625.bb
-shortLabel NEO625
-longLabel NEO625
-type bigBed 9
-itemRgb on
-
-track NEO626
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO626.bb
-shortLabel NEO626
-longLabel NEO626
-type bigBed 9
-itemRgb on
-
-track NEO627
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO627.bb
-shortLabel NEO627
-longLabel NEO627
-type bigBed 9
-itemRgb on
-
-track NEO630
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO630.bb
-shortLabel NEO630
-longLabel NEO630
-type bigBed 9
-itemRgb on
-
-track NEO631
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO631.bb
-shortLabel NEO631
-longLabel NEO631
-type bigBed 9
-itemRgb on
-
-track NEO632
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO632.bb
-shortLabel NEO632
-longLabel NEO632
-type bigBed 9
-itemRgb on
-
-track NEO64
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO64.bb
-shortLabel NEO64
-longLabel NEO64
-type bigBed 9
-itemRgb on
-
-track NEO640
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO640.bb
-shortLabel NEO640
-longLabel NEO640
-type bigBed 9
-itemRgb on
-
-track NEO641
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO641.bb
-shortLabel NEO641
-longLabel NEO641
-type bigBed 9
-itemRgb on
-
-track NEO645
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO645.bb
-shortLabel NEO645
-longLabel NEO645
-type bigBed 9
-itemRgb on
-
-track NEO646
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO646.bb
-shortLabel NEO646
-longLabel NEO646
-type bigBed 9
-itemRgb on
-
-track NEO648
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO648.bb
-shortLabel NEO648
-longLabel NEO648
-type bigBed 9
-itemRgb on
-
-track NEO649
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO649.bb
-shortLabel NEO649
-longLabel NEO649
-type bigBed 9
-itemRgb on
-
-track NEO65
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO65.bb
-shortLabel NEO65
-longLabel NEO65
-type bigBed 9
-itemRgb on
-
-track NEO653
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO653.bb
-shortLabel NEO653
-longLabel NEO653
-type bigBed 9
-itemRgb on
-
-track NEO655
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO655.bb
-shortLabel NEO655
-longLabel NEO655
-type bigBed 9
-itemRgb on
-
-track NEO657
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO657.bb
-shortLabel NEO657
-longLabel NEO657
-type bigBed 9
-itemRgb on
-
-track NEO658
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO658.bb
-shortLabel NEO658
-longLabel NEO658
-type bigBed 9
-itemRgb on
-
-track NEO669
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO669.bb
-shortLabel NEO669
-longLabel NEO669
-type bigBed 9
-itemRgb on
-
-track NEO67
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO67.bb
-shortLabel NEO67
-longLabel NEO67
-type bigBed 9
-itemRgb on
-
-track NEO671
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO671.bb
-shortLabel NEO671
-longLabel NEO671
-type bigBed 9
-itemRgb on
-
-track NEO672
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO672.bb
-shortLabel NEO672
-longLabel NEO672
-type bigBed 9
-itemRgb on
-
-track NEO674
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO674.bb
-shortLabel NEO674
-longLabel NEO674
-type bigBed 9
-itemRgb on
-
-track NEO677
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO677.bb
-shortLabel NEO677
-longLabel NEO677
-type bigBed 9
-itemRgb on
-
-track NEO679
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO679.bb
-shortLabel NEO679
-longLabel NEO679
-type bigBed 9
-itemRgb on
-
-track NEO683
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO683.bb
-shortLabel NEO683
-longLabel NEO683
-type bigBed 9
-itemRgb on
-
-track NEO687
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO687.bb
-shortLabel NEO687
-longLabel NEO687
-type bigBed 9
-itemRgb on
-
-track NEO694
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO694.bb
-shortLabel NEO694
-longLabel NEO694
-type bigBed 9
-itemRgb on
-
-track NEO695
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO695.bb
-shortLabel NEO695
-longLabel NEO695
-type bigBed 9
-itemRgb on
-
-track NEO70
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO70.bb
-shortLabel NEO70
-longLabel NEO70
-type bigBed 9
-itemRgb on
-
-track NEO702
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO702.bb
-shortLabel NEO702
-longLabel NEO702
-type bigBed 9
-itemRgb on
-
-track NEO717
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO717.bb
-shortLabel NEO717
-longLabel NEO717
-type bigBed 9
-itemRgb on
-
-track NEO72
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO72.bb
-shortLabel NEO72
-longLabel NEO72
-type bigBed 9
-itemRgb on
-
-track NEO721
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO721.bb
-shortLabel NEO721
-longLabel NEO721
-type bigBed 9
-itemRgb on
-
-track NEO73
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO73.bb
-shortLabel NEO73
-longLabel NEO73
-type bigBed 9
-itemRgb on
-
-track NEO732
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO732.bb
-shortLabel NEO732
-longLabel NEO732
-type bigBed 9
-itemRgb on
-
-track NEO733
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO733.bb
-shortLabel NEO733
-longLabel NEO733
-type bigBed 9
-itemRgb on
-
-track NEO735
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO735.bb
-shortLabel NEO735
-longLabel NEO735
-type bigBed 9
-itemRgb on
-
-track NEO737
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO737.bb
-shortLabel NEO737
-longLabel NEO737
-type bigBed 9
-itemRgb on
-
-track NEO738
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO738.bb
-shortLabel NEO738
-longLabel NEO738
-type bigBed 9
-itemRgb on
-
-track NEO739
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO739.bb
-shortLabel NEO739
-longLabel NEO739
-type bigBed 9
-itemRgb on
-
-track NEO744
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO744.bb
-shortLabel NEO744
-longLabel NEO744
-type bigBed 9
-itemRgb on
-
-track NEO745
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO745.bb
-shortLabel NEO745
-longLabel NEO745
-type bigBed 9
-itemRgb on
-
-track NEO746
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO746.bb
-shortLabel NEO746
-longLabel NEO746
-type bigBed 9
-itemRgb on
-
-track NEO747
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO747.bb
-shortLabel NEO747
-longLabel NEO747
-type bigBed 9
-itemRgb on
-
-track NEO749
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO749.bb
-shortLabel NEO749
-longLabel NEO749
-type bigBed 9
-itemRgb on
-
-track NEO75
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO75.bb
-shortLabel NEO75
-longLabel NEO75
-type bigBed 9
-itemRgb on
-
-track NEO751
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO751.bb
-shortLabel NEO751
-longLabel NEO751
-type bigBed 9
-itemRgb on
-
-track NEO752
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO752.bb
-shortLabel NEO752
-longLabel NEO752
-type bigBed 9
-itemRgb on
-
-track NEO753
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO753.bb
-shortLabel NEO753
-longLabel NEO753
-type bigBed 9
-itemRgb on
-
-track NEO757
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO757.bb
-shortLabel NEO757
-longLabel NEO757
-type bigBed 9
-itemRgb on
-
-track NEO759
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO759.bb
-shortLabel NEO759
-longLabel NEO759
-type bigBed 9
-itemRgb on
-
-track NEO77
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO77.bb
-shortLabel NEO77
-longLabel NEO77
-type bigBed 9
-itemRgb on
-
-track NEO78
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO78.bb
-shortLabel NEO78
-longLabel NEO78
-type bigBed 9
-itemRgb on
-
-track NEO79
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO79.bb
-shortLabel NEO79
-longLabel NEO79
-type bigBed 9
-itemRgb on
-
-track NEO790
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO790.bb
-shortLabel NEO790
-longLabel NEO790
-type bigBed 9
-itemRgb on
-
-track NEO791
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO791.bb
-shortLabel NEO791
-longLabel NEO791
-type bigBed 9
-itemRgb on
-
-track NEO792
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO792.bb
-shortLabel NEO792
-longLabel NEO792
-type bigBed 9
-itemRgb on
-
-track NEO80
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO80.bb
-shortLabel NEO80
-longLabel NEO80
-type bigBed 9
-itemRgb on
-
-track NEO806
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO806.bb
-shortLabel NEO806
-longLabel NEO806
-type bigBed 9
-itemRgb on
-
-track NEO81
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO81.bb
-shortLabel NEO81
-longLabel NEO81
-type bigBed 9
-itemRgb on
-
-track NEO812
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO812.bb
-shortLabel NEO812
-longLabel NEO812
-type bigBed 9
-itemRgb on
-
-track NEO813
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO813.bb
-shortLabel NEO813
-longLabel NEO813
-type bigBed 9
-itemRgb on
-
-track NEO815
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO815.bb
-shortLabel NEO815
-longLabel NEO815
-type bigBed 9
-itemRgb on
-
-track NEO816
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO816.bb
-shortLabel NEO816
-longLabel NEO816
-type bigBed 9
-itemRgb on
-
-track NEO819
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO819.bb
-shortLabel NEO819
-longLabel NEO819
-type bigBed 9
-itemRgb on
-
-track NEO823
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO823.bb
-shortLabel NEO823
-longLabel NEO823
-type bigBed 9
-itemRgb on
-
-track NEO83
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO83.bb
-shortLabel NEO83
-longLabel NEO83
-type bigBed 9
-itemRgb on
-
-track NEO830
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO830.bb
-shortLabel NEO830
-longLabel NEO830
-type bigBed 9
-itemRgb on
-
-track NEO843
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO843.bb
-shortLabel NEO843
-longLabel NEO843
-type bigBed 9
-itemRgb on
-
-track NEO847
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO847.bb
-shortLabel NEO847
-longLabel NEO847
-type bigBed 9
-itemRgb on
-
-track NEO852
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO852.bb
-shortLabel NEO852
-longLabel NEO852
-type bigBed 9
-itemRgb on
-
-track NEO853
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO853.bb
-shortLabel NEO853
-longLabel NEO853
-type bigBed 9
-itemRgb on
-
-track NEO855
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO855.bb
-shortLabel NEO855
-longLabel NEO855
-type bigBed 9
-itemRgb on
-
-track NEO856
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO856.bb
-shortLabel NEO856
-longLabel NEO856
-type bigBed 9
-itemRgb on
-
-track NEO860
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO860.bb
-shortLabel NEO860
-longLabel NEO860
-type bigBed 9
-itemRgb on
-
-track NEO861
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO861.bb
-shortLabel NEO861
-longLabel NEO861
-type bigBed 9
-itemRgb on
-
-track NEO866
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO866.bb
-shortLabel NEO866
-longLabel NEO866
-type bigBed 9
-itemRgb on
-
-track NEO87
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO87.bb
-shortLabel NEO87
-longLabel NEO87
-type bigBed 9
-itemRgb on
-
-track NEO870
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO870.bb
-shortLabel NEO870
-longLabel NEO870
-type bigBed 9
-itemRgb on
-
-track NEO875
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO875.bb
-shortLabel NEO875
-longLabel NEO875
-type bigBed 9
-itemRgb on
-
-track NEO878
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO878.bb
-shortLabel NEO878
-longLabel NEO878
-type bigBed 9
-itemRgb on
-
-track NEO88
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO88.bb
-shortLabel NEO88
-longLabel NEO88
-type bigBed 9
-itemRgb on
-
-track NEO886
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO886.bb
-shortLabel NEO886
-longLabel NEO886
-type bigBed 9
-itemRgb on
-
-track NEO891
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO891.bb
-shortLabel NEO891
-longLabel NEO891
-type bigBed 9
-itemRgb on
-
-track NEO896
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO896.bb
-shortLabel NEO896
-longLabel NEO896
-type bigBed 9
-itemRgb on
-
-track NEO898
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO898.bb
-shortLabel NEO898
-longLabel NEO898
-type bigBed 9
-itemRgb on
-
-track NEO899
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO899.bb
-shortLabel NEO899
-longLabel NEO899
-type bigBed 9
-itemRgb on
-
-track NEO900
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO900.bb
-shortLabel NEO900
-longLabel NEO900
-type bigBed 9
-itemRgb on
-
-track NEO901
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO901.bb
-shortLabel NEO901
-longLabel NEO901
-type bigBed 9
-itemRgb on
-
-track NEO904
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO904.bb
-shortLabel NEO904
-longLabel NEO904
-type bigBed 9
-itemRgb on
-
-track NEO907
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO907.bb
-shortLabel NEO907
-longLabel NEO907
-type bigBed 9
-itemRgb on
-
-track NEO91
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO91.bb
-shortLabel NEO91
-longLabel NEO91
-type bigBed 9
-itemRgb on
-
-track NEO910
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO910.bb
-shortLabel NEO910
-longLabel NEO910
-type bigBed 9
-itemRgb on
-
-track NEO911
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO911.bb
-shortLabel NEO911
-longLabel NEO911
-type bigBed 9
-itemRgb on
-
-track NEO912
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO912.bb
-shortLabel NEO912
-longLabel NEO912
-type bigBed 9
-itemRgb on
-
-track NEO917
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO917.bb
-shortLabel NEO917
-longLabel NEO917
-type bigBed 9
-itemRgb on
-
-track NEO918
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO918.bb
-shortLabel NEO918
-longLabel NEO918
-type bigBed 9
-itemRgb on
-
-track NEO92
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO92.bb
-shortLabel NEO92
-longLabel NEO92
-type bigBed 9
-itemRgb on
-
-track NEO921
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO921.bb
-shortLabel NEO921
-longLabel NEO921
-type bigBed 9
-itemRgb on
-
-track NEO922
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO922.bb
-shortLabel NEO922
-longLabel NEO922
-type bigBed 9
-itemRgb on
-
-track NEO923
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO923.bb
-shortLabel NEO923
-longLabel NEO923
-type bigBed 9
-itemRgb on
-
-track NEO925
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO925.bb
-shortLabel NEO925
-longLabel NEO925
-type bigBed 9
-itemRgb on
-
-track NEO93
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO93.bb
-shortLabel NEO93
-longLabel NEO93
-type bigBed 9
-itemRgb on
-
-track NEO932
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO932.bb
-shortLabel NEO932
-longLabel NEO932
-type bigBed 9
-itemRgb on
-
-track NEO933
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO933.bb
-shortLabel NEO933
-longLabel NEO933
-type bigBed 9
-itemRgb on
-
-track NEO935
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO935.bb
-shortLabel NEO935
-longLabel NEO935
-type bigBed 9
-itemRgb on
-
-track NEO938
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO938.bb
-shortLabel NEO938
-longLabel NEO938
-type bigBed 9
-itemRgb on
-
-track NEO941
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO941.bb
-shortLabel NEO941
-longLabel NEO941
-type bigBed 9
-itemRgb on
-
-track NEO942
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO942.bb
-shortLabel NEO942
-longLabel NEO942
-type bigBed 9
-itemRgb on
-
-track NEO943
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO943.bb
-shortLabel NEO943
-longLabel NEO943
-type bigBed 9
-itemRgb on
-
-track NEO945
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO945.bb
-shortLabel NEO945
-longLabel NEO945
-type bigBed 9
-itemRgb on
-
-track NEO946
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO946.bb
-shortLabel NEO946
-longLabel NEO946
-type bigBed 9
-itemRgb on
-
-track NEO951
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO951.bb
-shortLabel NEO951
-longLabel NEO951
-type bigBed 9
-itemRgb on
-
-track NEO957
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO957.bb
-shortLabel NEO957
-longLabel NEO957
-type bigBed 9
-itemRgb on
-
-track NEO960
-bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO960.bb
-shortLabel NEO960
-longLabel NEO960
-type bigBed 9
-itemRgb on
-
-=======
-ta
->>>>>>> 8824bd4e3db4b92f0ee4bce5ba769861a2cfd4ba
+track Ancient_RepMasked_Decoy
+compositeTrack on
+visibility dense
+subGroup1 sub1 REGION A1=WestAsia B1=Europe C1=SteppeRussiaCaucasus D1=Siberia E1=UNKNOWN
+subGroup2 sub2 ERA A2=Neolithic B2=Mesolithic C2=BronzeAge D2=UpperPaleolithic E2=UNKNOWN
+dimensions dimX=sub1 dimY=sub2
+sortOrder sub1=+ sub2=+
+shortLabel Ancient DNA
+longLabel Ancient DNA
+type bigBed 9
+allButtonPair on
+dragAndDrop subTracks
+
+	track NEO100
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO100.bb
+	shortLabel NEO100
+	longLabel NEO100_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO113
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO113.bb
+	shortLabel NEO113
+	longLabel NEO113_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO115
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=D1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO115.bb
+	shortLabel Siberia_6943
+	longLabel NEO115_Siberia_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO116
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=D1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO116.bb
+	shortLabel Siberia_7378
+	longLabel NEO116_Siberia_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO117
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO117.bb
+	shortLabel NEO117
+	longLabel NEO117_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO119
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO119.bb
+	shortLabel NEO119
+	longLabel NEO119_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO120
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO120.bb
+	shortLabel NEO120
+	longLabel NEO120_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO121
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO121.bb
+	shortLabel Europe_4002
+	longLabel NEO121_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO122
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO122.bb
+	shortLabel Europe_7415
+	longLabel NEO122_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO123
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO123.bb
+	shortLabel NEO123
+	longLabel NEO123_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO130
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO130.bb
+	shortLabel NEO130
+	longLabel NEO130_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO137
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO137.bb
+	shortLabel NEO137
+	longLabel NEO137_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO140
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO140.bb
+	shortLabel NEO140
+	longLabel NEO140_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO142
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO142.bb
+	shortLabel Europe_5839
+	longLabel NEO142_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO145
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO145.bb
+	shortLabel NEO145
+	longLabel NEO145_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO147
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO147.bb
+	shortLabel NEO147
+	longLabel NEO147_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO158
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO158.bb
+	shortLabel NEO158
+	longLabel NEO158_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO160
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO160.bb
+	shortLabel SteppeRusCaucasus_5101
+	longLabel NEO160_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO162
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO162.bb
+	shortLabel NEO162
+	longLabel NEO162_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO163
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO163.bb
+	shortLabel NEO163
+	longLabel NEO163_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO164
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO164.bb
+	shortLabel NEO164
+	longLabel NEO164_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO166
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO166.bb
+	shortLabel SteppeRusCaucasus_5500
+	longLabel NEO166_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO167
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO167.bb
+	shortLabel SteppeRusCaucasus_5166
+	longLabel NEO167_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO17
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO17.bb
+	shortLabel Europe_8446
+	longLabel NEO17_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO170
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO170.bb
+	shortLabel NEO170
+	longLabel NEO170_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO171
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO171.bb
+	shortLabel SteppeRusCaucasus_5500
+	longLabel NEO171_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO173
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO173.bb
+	shortLabel SteppeRusCaucasus_5789
+	longLabel NEO173_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO174
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO174.bb
+	shortLabel SteppeRusCaucasus_4865
+	longLabel NEO174_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO175
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO175.bb
+	shortLabel NEO175
+	longLabel NEO175_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO178
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO178.bb
+	shortLabel NEO178
+	longLabel NEO178_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO179
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO179.bb
+	shortLabel SteppeRusCaucasus_4919
+	longLabel NEO179_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO18
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO18.bb
+	shortLabel Europe_8835
+	longLabel NEO18_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO180
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO180.bb
+	shortLabel NEO180
+	longLabel NEO180_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO184
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO184.bb
+	shortLabel SteppeRusCaucasus_5014
+	longLabel NEO184_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO185
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO185.bb
+	shortLabel SteppeRusCaucasus_6393
+	longLabel NEO185_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO186
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO186.bb
+	shortLabel NEO186
+	longLabel NEO186_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO187
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO187.bb
+	shortLabel NEO187
+	longLabel NEO187_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO189
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO189.bb
+	shortLabel SteppeRusCaucasus_5157
+	longLabel NEO189_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO19
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO19.bb
+	shortLabel Europe_7542
+	longLabel NEO19_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO192
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO192.bb
+	shortLabel NEO192
+	longLabel NEO192_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO193
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO193.bb
+	shortLabel NEO193
+	longLabel NEO193_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO194
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO194.bb
+	shortLabel SteppeRusCaucasus_5143
+	longLabel NEO194_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO195
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO195.bb
+	shortLabel SteppeRusCaucasus_5118
+	longLabel NEO195_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO197
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO197.bb
+	shortLabel SteppeRusCaucasus_4827
+	longLabel NEO197_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO199
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=D1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO199.bb
+	shortLabel Siberia_7011
+	longLabel NEO199_Siberia_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO200
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=D1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO200.bb
+	shortLabel Siberia_6833
+	longLabel NEO200_Siberia_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO201
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=D1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO201.bb
+	shortLabel Siberia_6883
+	longLabel NEO201_Siberia_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO202
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO202.bb
+	shortLabel SteppeRusCaucasus_10030
+	longLabel NEO202_SteppeRussiaCaucasus_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO212
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO212.bb
+	shortLabel SteppeRusCaucasus_6730
+	longLabel NEO212_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO220
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO220.bb
+	shortLabel Europe_3654
+	longLabel NEO220_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO224
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO224.bb
+	shortLabel NEO224
+	longLabel NEO224_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO225
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO225.bb
+	shortLabel Europe_3491
+	longLabel NEO225_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO226
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO226.bb
+	shortLabel NEO226
+	longLabel NEO226_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO227
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO227.bb
+	shortLabel NEO227
+	longLabel NEO227_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO228
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO228.bb
+	shortLabel NEO228
+	longLabel NEO228_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO23
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO23.bb
+	shortLabel Europe_4799
+	longLabel NEO23_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO25
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO25.bb
+	shortLabel NEO25
+	longLabel NEO25_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO254
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO254.bb
+	shortLabel NEO254
+	longLabel NEO254_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO260
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO260.bb
+	shortLabel Europe_5259
+	longLabel NEO260_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO261
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO261.bb
+	shortLabel Europe_3659
+	longLabel NEO261_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO27
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO27.bb
+	shortLabel Europe_8645
+	longLabel NEO27_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO270
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO270.bb
+	shortLabel NEO270
+	longLabel NEO270_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO28
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO28.bb
+	shortLabel Europe_4771
+	longLabel NEO28_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO281
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO281.bb
+	shortLabel SteppeRusCaucasus_8735
+	longLabel NEO281_SteppeRussiaCaucasus_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO283
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=D2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO283.bb
+	shortLabel SteppeRusCaucasus_21412
+	longLabel NEO283_SteppeRussiaCaucasus_UpperPaleolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO29
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO29.bb
+	shortLabel Europe_4843
+	longLabel NEO29_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO292
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=D1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO292.bb
+	shortLabel Siberia_5448
+	longLabel NEO292_Siberia_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO300
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO300.bb
+	shortLabel SteppeRusCaucasus_6340
+	longLabel NEO300_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO302
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO302.bb
+	shortLabel SteppeRusCaucasus_6459
+	longLabel NEO302_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO304
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO304.bb
+	shortLabel SteppeRusCaucasus_6568
+	longLabel NEO304_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO305
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO305.bb
+	shortLabel SteppeRusCaucasus_6269
+	longLabel NEO305_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO306
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO306.bb
+	shortLabel Europe_3995
+	longLabel NEO306_Europe_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO307
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO307.bb
+	shortLabel NEO307
+	longLabel NEO307_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO309
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO309.bb
+	shortLabel SteppeRusCaucasus_5575
+	longLabel NEO309_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO310
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=A1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO310.bb
+	shortLabel WestAsia_Neo
+	longLabel NEO310_WestAsia_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO36
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO36.bb
+	shortLabel Europe_4530
+	longLabel NEO36_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO39
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO39.bb
+	shortLabel NEO39
+	longLabel NEO39_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO43
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO43.bb
+	shortLabel NEO43
+	longLabel NEO43_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO44
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO44.bb
+	shortLabel NEO44
+	longLabel NEO44_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO46
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO46.bb
+	shortLabel NEO46
+	longLabel NEO46_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO497
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO497.bb
+	shortLabel NEO497
+	longLabel NEO497_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO498
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO498.bb
+	shortLabel SteppeRusCaucasus_6623
+	longLabel NEO498_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO5
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO5.bb
+	shortLabel NEO5
+	longLabel NEO5_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO501
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO501.bb
+	shortLabel NEO501
+	longLabel NEO501_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO502
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO502.bb
+	shortLabel SteppeRusCaucasus_6283
+	longLabel NEO502_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO503
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO503.bb
+	shortLabel NEO503
+	longLabel NEO503_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO507
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO507.bb
+	shortLabel NEO507
+	longLabel NEO507_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO509
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO509.bb
+	shortLabel SteppeRusCaucasus_4184
+	longLabel NEO509_SteppeRussiaCaucasus_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO51
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO51.bb
+	shortLabel Europe_3900
+	longLabel NEO51_Europe_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO516
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO516.bb
+	shortLabel NEO516
+	longLabel NEO516_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO518
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO518.bb
+	shortLabel NEO518
+	longLabel NEO518_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO52
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO52.bb
+	shortLabel NEO52
+	longLabel NEO52_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO521
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO521.bb
+	shortLabel NEO521
+	longLabel NEO521_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO524
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO524.bb
+	shortLabel NEO524
+	longLabel NEO524_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO528
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO528.bb
+	shortLabel NEO528
+	longLabel NEO528_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO536
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO536.bb
+	shortLabel NEO536
+	longLabel NEO536_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO537
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO537.bb
+	shortLabel NEO537
+	longLabel NEO537_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO538
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO538.bb
+	shortLabel SteppeRusCaucasus_2748
+	longLabel NEO538_SteppeRussiaCaucasus_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO539
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO539.bb
+	shortLabel NEO539
+	longLabel NEO539_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO552
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO552.bb
+	shortLabel NEO552
+	longLabel NEO552_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO555
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO555.bb
+	shortLabel SteppeRusCaucasus_7709
+	longLabel NEO555_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO556
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO556.bb
+	shortLabel SteppeRusCaucasus_6627
+	longLabel NEO556_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO557
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO557.bb
+	shortLabel SteppeRusCaucasus_7615
+	longLabel NEO557_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO558
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO558.bb
+	shortLabel SteppeRusCaucasus_7540
+	longLabel NEO558_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO559
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO559.bb
+	shortLabel SteppeRusCaucasus_7690
+	longLabel NEO559_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO560
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO560.bb
+	shortLabel SteppeRusCaucasus_7337
+	longLabel NEO560_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO561
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO561.bb
+	shortLabel SteppeRusCaucasus_7632
+	longLabel NEO561_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO563
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO563.bb
+	shortLabel Europe_3210
+	longLabel NEO563_Europe_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO568
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO568.bb
+	shortLabel Europe_5981
+	longLabel NEO568_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO569
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO569.bb
+	shortLabel Europe_5611
+	longLabel NEO569_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO57
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO57.bb
+	shortLabel NEO57
+	longLabel NEO57_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO570
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO570.bb
+	shortLabel Europe_5911
+	longLabel NEO570_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO583
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO583.bb
+	shortLabel NEO583
+	longLabel NEO583_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO586
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO586.bb
+	shortLabel NEO586
+	longLabel NEO586_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO587
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO587.bb
+	shortLabel Europe_8060
+	longLabel NEO587_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO589
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO589.bb
+	shortLabel Europe_6760
+	longLabel NEO589_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO590
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO590.bb
+	shortLabel Europe_3114
+	longLabel NEO590_Europe_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO595
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO595.bb
+	shortLabel NEO595
+	longLabel NEO595_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO597
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO597.bb
+	shortLabel NEO597
+	longLabel NEO597_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO598
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO598.bb
+	shortLabel Europe_5553
+	longLabel NEO598_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO599
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO599.bb
+	shortLabel NEO599
+	longLabel NEO599_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO60
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO60.bb
+	shortLabel NEO60
+	longLabel NEO60_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO600
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO600.bb
+	shortLabel NEO600
+	longLabel NEO600_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO609
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO609.bb
+	shortLabel NEO609
+	longLabel NEO609_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO62
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO62.bb
+	shortLabel SteppeRusCaucasus_3301
+	longLabel NEO62_SteppeRussiaCaucasus_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO624
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO624.bb
+	shortLabel Europe_4368
+	longLabel NEO624_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO625
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO625.bb
+	shortLabel Europe_4532
+	longLabel NEO625_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO626
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO626.bb
+	shortLabel NEO626
+	longLabel NEO626_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO627
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO627.bb
+	shortLabel NEO627
+	longLabel NEO627_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO630
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO630.bb
+	shortLabel NEO630
+	longLabel NEO630_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO631
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO631.bb
+	shortLabel Europe_6237
+	longLabel NEO631_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO632
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO632.bb
+	shortLabel Europe_6415
+	longLabel NEO632_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO64
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO64.bb
+	shortLabel NEO64
+	longLabel NEO64_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO640
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO640.bb
+	shortLabel NEO640
+	longLabel NEO640_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO641
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO641.bb
+	shortLabel NEO641
+	longLabel NEO641_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO645
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO645.bb
+	shortLabel NEO645
+	longLabel NEO645_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO646
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO646.bb
+	shortLabel Europe_7642
+	longLabel NEO646_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO648
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO648.bb
+	shortLabel Europe_6812
+	longLabel NEO648_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO649
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO649.bb
+	shortLabel NEO649
+	longLabel NEO649_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO65
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO65.bb
+	shortLabel SteppeRusCaucasus_4516
+	longLabel NEO65_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO653
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO653.bb
+	shortLabel NEO653
+	longLabel NEO653_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO655
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO655.bb
+	shortLabel NEO655
+	longLabel NEO655_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO657
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO657.bb
+	shortLabel NEO657
+	longLabel NEO657_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO658
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO658.bb
+	shortLabel Europe_Meso
+	longLabel NEO658_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO669
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO669.bb
+	shortLabel NEO669
+	longLabel NEO669_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO67
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO67.bb
+	shortLabel NEO67
+	longLabel NEO67_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO671
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO671.bb
+	shortLabel NEO671
+	longLabel NEO671_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO672
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO672.bb
+	shortLabel NEO672
+	longLabel NEO672_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO674
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO674.bb
+	shortLabel NEO674
+	longLabel NEO674_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO677
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO677.bb
+	shortLabel NEO677
+	longLabel NEO677_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO679
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO679.bb
+	shortLabel NEO679
+	longLabel NEO679_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO683
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO683.bb
+	shortLabel Europe_6905
+	longLabel NEO683_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO687
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO687.bb
+	shortLabel NEO687
+	longLabel NEO687_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO694
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO694.bb
+	shortLabel NEO694
+	longLabel NEO694_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO695
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO695.bb
+	shortLabel NEO695
+	longLabel NEO695_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO70
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO70.bb
+	shortLabel SteppeRusCaucasus_2880
+	longLabel NEO70_SteppeRussiaCaucasus_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO702
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO702.bb
+	shortLabel NEO702
+	longLabel NEO702_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO717
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO717.bb
+	shortLabel NEO717
+	longLabel NEO717_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO72
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO72.bb
+	shortLabel NEO72
+	longLabel NEO72_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO721
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO721.bb
+	shortLabel NEO721
+	longLabel NEO721_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO73
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO73.bb
+	shortLabel SteppeRusCaucasus_7317
+	longLabel NEO73_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO732
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO732.bb
+	shortLabel NEO732
+	longLabel NEO732_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO733
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO733.bb
+	shortLabel Europe_6158
+	longLabel NEO733_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO735
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO735.bb
+	shortLabel Europe_3671
+	longLabel NEO735_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO737
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO737.bb
+	shortLabel NEO737
+	longLabel NEO737_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO738
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO738.bb
+	shortLabel Europe_3810
+	longLabel NEO738_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO739
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO739.bb
+	shortLabel Europe_3691
+	longLabel NEO739_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO744
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO744.bb
+	shortLabel NEO744
+	longLabel NEO744_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO745
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO745.bb
+	shortLabel NEO745
+	longLabel NEO745_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO746
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO746.bb
+	shortLabel NEO746
+	longLabel NEO746_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO747
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO747.bb
+	shortLabel NEO747
+	longLabel NEO747_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO749
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO749.bb
+	shortLabel Europe_6260
+	longLabel NEO749_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO75
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO75.bb
+	shortLabel NEO75
+	longLabel NEO75_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO751
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO751.bb
+	shortLabel NEO751
+	longLabel NEO751_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO752
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO752.bb
+	shortLabel Europe_3523
+	longLabel NEO752_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO753
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO753.bb
+	shortLabel NEO753
+	longLabel NEO753_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO757
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO757.bb
+	shortLabel NEO757
+	longLabel NEO757_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO759
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO759.bb
+	shortLabel Europe_8234
+	longLabel NEO759_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO77
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO77.bb
+	shortLabel NEO77
+	longLabel NEO77_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO78
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO78.bb
+	shortLabel SteppeRusCaucasus_6560
+	longLabel NEO78_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO79
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO79.bb
+	shortLabel SteppeRusCaucasus_4591
+	longLabel NEO79_SteppeRussiaCaucasus_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO790
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO790.bb
+	shortLabel Europe_4959
+	longLabel NEO790_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO791
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO791.bb
+	shortLabel Europe_6263
+	longLabel NEO791_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO792
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO792.bb
+	shortLabel NEO792
+	longLabel NEO792_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO80
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO80.bb
+	shortLabel NEO80
+	longLabel NEO80_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO806
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=C2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO806.bb
+	shortLabel Europe_3014
+	longLabel NEO806_Europe_BronzeAge
+	type bigBed 9
+	itemRgb on
+
+	track NEO81
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO81.bb
+	shortLabel NEO81
+	longLabel NEO81_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO812
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO812.bb
+	shortLabel Europe_5740
+	longLabel NEO812_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO813
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO813.bb
+	shortLabel Europe_5740
+	longLabel NEO813_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO815
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO815.bb
+	shortLabel NEO815
+	longLabel NEO815_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO816
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=A1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO816.bb
+	shortLabel WestAsia_8700
+	longLabel NEO816_WestAsia_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO819
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO819.bb
+	shortLabel NEO819
+	longLabel NEO819_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO823
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO823.bb
+	shortLabel NEO823
+	longLabel NEO823_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO83
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO83.bb
+	shortLabel SteppeRusCaucasus_5433
+	longLabel NEO83_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO830
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO830.bb
+	shortLabel NEO830
+	longLabel NEO830_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO843
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=D1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO843.bb
+	shortLabel Siberia_6678
+	longLabel NEO843_Siberia_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO847
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO847.bb
+	shortLabel Europe_4767
+	longLabel NEO847_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO852
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO852.bb
+	shortLabel NEO852
+	longLabel NEO852_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO853
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO853.bb
+	shortLabel Europe_5496
+	longLabel NEO853_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO855
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO855.bb
+	shortLabel Europe_5821
+	longLabel NEO855_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO856
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO856.bb
+	shortLabel Europe_6289
+	longLabel NEO856_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO860
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO860.bb
+	shortLabel NEO860
+	longLabel NEO860_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO861
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO861.bb
+	shortLabel NEO861
+	longLabel NEO861_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO866
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO866.bb
+	shortLabel Europe_4743
+	longLabel NEO866_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO87
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO87.bb
+	shortLabel NEO87
+	longLabel NEO87_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO870
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO870.bb
+	shortLabel Europe_3837
+	longLabel NEO870_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO875
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO875.bb
+	shortLabel NEO875
+	longLabel NEO875_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO878
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO878.bb
+	shortLabel NEO878
+	longLabel NEO878_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO88
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO88.bb
+	shortLabel SteppeRusCaucasus_7533
+	longLabel NEO88_SteppeRussiaCaucasus_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO886
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO886.bb
+	shortLabel NEO886
+	longLabel NEO886_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO891
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO891.bb
+	shortLabel Europe_4939
+	longLabel NEO891_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO896
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO896.bb
+	shortLabel NEO896
+	longLabel NEO896_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO898
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO898.bb
+	shortLabel Europe_4539
+	longLabel NEO898_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO899
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO899.bb
+	shortLabel NEO899
+	longLabel NEO899_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO900
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO900.bb
+	shortLabel NEO900
+	longLabel NEO900_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO901
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO901.bb
+	shortLabel NEO901
+	longLabel NEO901_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO904
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO904.bb
+	shortLabel NEO904
+	longLabel NEO904_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO907
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO907.bb
+	shortLabel SteppeRusCaucasus_5390
+	longLabel NEO907_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO91
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO91.bb
+	shortLabel Europe_8213
+	longLabel NEO91_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO910
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO910.bb
+	shortLabel NEO910
+	longLabel NEO910_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO911
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO911.bb
+	shortLabel SteppeRusCaucasus_6451
+	longLabel NEO911_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO912
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO912.bb
+	shortLabel SteppeRusCaucasus_5309
+	longLabel NEO912_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO917
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=C1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO917.bb
+	shortLabel SteppeRusCaucasus_5269
+	longLabel NEO917_SteppeRussiaCaucasus_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO918
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO918.bb
+	shortLabel NEO918
+	longLabel NEO918_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO92
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO92.bb
+	shortLabel Europe_3803
+	longLabel NEO92_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO921
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO921.bb
+	shortLabel NEO921
+	longLabel NEO921_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO922
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO922.bb
+	shortLabel NEO922
+	longLabel NEO922_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO923
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO923.bb
+	shortLabel NEO923
+	longLabel NEO923_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO925
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO925.bb
+	shortLabel NEO925
+	longLabel NEO925_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO93
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO93.bb
+	shortLabel Europe_3512
+	longLabel NEO93_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO932
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO932.bb
+	shortLabel Europe_6794
+	longLabel NEO932_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO933
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO933.bb
+	shortLabel Europe_4688
+	longLabel NEO933_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO935
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO935.bb
+	shortLabel Europe_4662
+	longLabel NEO935_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO938
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO938.bb
+	shortLabel NEO938
+	longLabel NEO938_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO941
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO941.bb
+	shortLabel NEO941
+	longLabel NEO941_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO942
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO942.bb
+	shortLabel Europe_4846
+	longLabel NEO942_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO943
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO943.bb
+	shortLabel Europe_4072
+	longLabel NEO943_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO945
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO945.bb
+	shortLabel Europe_4674
+	longLabel NEO945_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO946
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO946.bb
+	shortLabel Europe_2982
+	longLabel NEO946_Europe_Neolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO951
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO951.bb
+	shortLabel NEO951
+	longLabel NEO951_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
+
+	track NEO957
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=B1 sub2=B2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO957.bb
+	shortLabel Europe_5466
+	longLabel NEO957_Europe_Mesolithic
+	type bigBed 9
+	itemRgb on
+
+	track NEO960
+	parent Ancient_RepMasked_Decoy on
+	subGroups sub1=E1 sub2=E2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy/hg38/NEO960.bb
+	shortLabel NEO960
+	longLabel NEO960_UNKNOWN_UNKNOWN
+	type bigBed 9
+	itemRgb on
