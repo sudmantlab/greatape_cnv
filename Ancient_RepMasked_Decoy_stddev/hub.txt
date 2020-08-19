@@ -1,0 +1,5 @@
+hub Ancient_RepMasked_Decoy_stddev
+shortLabel Ancient DNA
+longLabel Ancient DNA (Repeat Masked, hg38 Decoy)
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Ancient_RepMasked_Decoy_stddev/genomes.txt
+email almahalgren@berkeley.edu
