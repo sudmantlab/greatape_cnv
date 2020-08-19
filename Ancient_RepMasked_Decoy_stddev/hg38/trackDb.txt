@@ -3,12 +3,10 @@ compositeTrack on
 visibility dense
 subGroup1 sub1 GRP A=group1
 dimensions dimX=sub1
-sortOrder sub1=+
 shortLabel Ancient DNA Std Dev
 longLabel Ancient DNA Std Dev
 type bigBed 9
 allButtonPair on
-dragAndDrop subTracks
 
 	track NEO62
 	parent Ancient_RepMasked_Decoy_stddev on
