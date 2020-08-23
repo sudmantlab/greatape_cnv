@@ -1,0 +1,1955 @@
+track Humans_EAS
+compositeTrack on
+visibility dense
+subGroup1 sub1 REGION A1=Han A2=Japanese A3=Cambodian A4=Xibo A5=Yi A6=Miao A7=Oroqen A8=Daur A9=Tujia A10=Northern Han A11=Lahu A12=She A13=Tu A14=Dai A15=Hezhen A16=Naxi A17=Korean A18=Ami A19=Uygur A20=Atayal A21=Kinh A22=Burmese A23=Thai
+dimensions dimX=sub1
+sortOrder sub1=+
+shortLabel East Asia
+longLabel East Asia
+type bigBed 9
+allButtonPair on
+dragAndDrop subTracks
+
+	track HGDP00782
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00782.bb
+	shortLabel HGDP00782
+	longLabel HGDP00782 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00821
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00821.bb
+	shortLabel HGDP00821
+	longLabel HGDP00821 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00814
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00814.bb
+	shortLabel HGDP00814
+	longLabel HGDP00814 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00819
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00819.bb
+	shortLabel HGDP00819
+	longLabel HGDP00819 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01021
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01021.bb
+	shortLabel HGDP01021
+	longLabel HGDP01021 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00977
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00977.bb
+	shortLabel HGDP00977
+	longLabel HGDP00977 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00774
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00774.bb
+	shortLabel HGDP00774
+	longLabel HGDP00774 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00779
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00779.bb
+	shortLabel HGDP00779
+	longLabel HGDP00779 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00972
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00972.bb
+	shortLabel HGDP00972
+	longLabel HGDP00972 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00813
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00813.bb
+	shortLabel HGDP00813
+	longLabel HGDP00813 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00818
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00818.bb
+	shortLabel HGDP00818
+	longLabel HGDP00818 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00820
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00820.bb
+	shortLabel HGDP00820
+	longLabel HGDP00820 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00781
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00781.bb
+	shortLabel HGDP00781
+	longLabel HGDP00781 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00786
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00786.bb
+	shortLabel HGDP00786
+	longLabel HGDP00786 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00971
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00971.bb
+	shortLabel HGDP00971
+	longLabel HGDP00971 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00976
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00976.bb
+	shortLabel HGDP00976
+	longLabel HGDP00976 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00784
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00784.bb
+	shortLabel HGDP00784
+	longLabel HGDP00784 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00777
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00777.bb
+	shortLabel HGDP00777
+	longLabel HGDP00777 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00811
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00811.bb
+	shortLabel HGDP00811
+	longLabel HGDP00811 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00974
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00974.bb
+	shortLabel HGDP00974
+	longLabel HGDP00974 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01023
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01023.bb
+	shortLabel HGDP01023
+	longLabel HGDP01023 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00776
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00776.bb
+	shortLabel HGDP00776
+	longLabel HGDP00776 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00815
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00815.bb
+	shortLabel HGDP00815
+	longLabel HGDP00815 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00822
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00822.bb
+	shortLabel HGDP00822
+	longLabel HGDP00822 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00973
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00973.bb
+	shortLabel HGDP00973
+	longLabel HGDP00973 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00812
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00812.bb
+	shortLabel HGDP00812
+	longLabel HGDP00812 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00817
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00817.bb
+	shortLabel HGDP00817
+	longLabel HGDP00817 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00780
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00780.bb
+	shortLabel HGDP00780
+	longLabel HGDP00780 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00975
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00975.bb
+	shortLabel HGDP00975
+	longLabel HGDP00975 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01024
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01024.bb
+	shortLabel HGDP01024
+	longLabel HGDP01024 Han
+	type bigBed 9
+	itemRgb on
+
+	track SS6004469
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/SS6004469.bb
+	shortLabel SS6004469
+	longLabel SS6004469 Han
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_C05
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_C05.bb
+	shortLabel LP6005441-DNA_C05
+	longLabel LP6005441-DNA_C05 Han
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D05
+	parent Humans_EAS on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_D05.bb
+	shortLabel LP6005441-DNA_D05
+	longLabel LP6005441-DNA_D05 Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00751
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00751.bb
+	shortLabel HGDP00751
+	longLabel HGDP00751 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00756
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00756.bb
+	shortLabel HGDP00756
+	longLabel HGDP00756 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00763
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00763.bb
+	shortLabel HGDP00763
+	longLabel HGDP00763 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00768
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00768.bb
+	shortLabel HGDP00768
+	longLabel HGDP00768 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00767
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00767.bb
+	shortLabel HGDP00767
+	longLabel HGDP00767 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00748
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00748.bb
+	shortLabel HGDP00748
+	longLabel HGDP00748 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00750
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00750.bb
+	shortLabel HGDP00750
+	longLabel HGDP00750 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00755
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00755.bb
+	shortLabel HGDP00755
+	longLabel HGDP00755 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00762
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00762.bb
+	shortLabel HGDP00762
+	longLabel HGDP00762 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00753
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00753.bb
+	shortLabel HGDP00753
+	longLabel HGDP00753 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00758
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00758.bb
+	shortLabel HGDP00758
+	longLabel HGDP00758 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00760
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00760.bb
+	shortLabel HGDP00760
+	longLabel HGDP00760 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00765
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00765.bb
+	shortLabel HGDP00765
+	longLabel HGDP00765 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00828
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00828.bb
+	shortLabel HGDP00828
+	longLabel HGDP00828 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00791
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00791.bb
+	shortLabel HGDP00791
+	longLabel HGDP00791 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00772
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00772.bb
+	shortLabel HGDP00772
+	longLabel HGDP00772 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00752
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00752.bb
+	shortLabel HGDP00752
+	longLabel HGDP00752 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00769
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00769.bb
+	shortLabel HGDP00769
+	longLabel HGDP00769 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00771
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00771.bb
+	shortLabel HGDP00771
+	longLabel HGDP00771 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00790
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00790.bb
+	shortLabel HGDP00790
+	longLabel HGDP00790 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00757
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00757.bb
+	shortLabel HGDP00757
+	longLabel HGDP00757 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00764
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00764.bb
+	shortLabel HGDP00764
+	longLabel HGDP00764 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00759
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00759.bb
+	shortLabel HGDP00759
+	longLabel HGDP00759 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00761
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00761.bb
+	shortLabel HGDP00761
+	longLabel HGDP00761 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00747
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00747.bb
+	shortLabel HGDP00747
+	longLabel HGDP00747 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00754
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00754.bb
+	shortLabel HGDP00754
+	longLabel HGDP00754 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00766
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00766.bb
+	shortLabel HGDP00766
+	longLabel HGDP00766 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_C02
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005592-DNA_C02.bb
+	shortLabel LP6005592-DNA_C02
+	longLabel LP6005592-DNA_C02 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D06
+	parent Humans_EAS on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_D06.bb
+	shortLabel LP6005441-DNA_D06
+	longLabel LP6005441-DNA_D06 Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00720
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00720.bb
+	shortLabel HGDP00720
+	longLabel HGDP00720 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00712
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00712.bb
+	shortLabel HGDP00712
+	longLabel HGDP00712 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00715
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00715.bb
+	shortLabel HGDP00715
+	longLabel HGDP00715 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00714
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00714.bb
+	shortLabel HGDP00714
+	longLabel HGDP00714 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00719
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00719.bb
+	shortLabel HGDP00719
+	longLabel HGDP00719 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00721
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00721.bb
+	shortLabel HGDP00721
+	longLabel HGDP00721 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00711
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00711.bb
+	shortLabel HGDP00711
+	longLabel HGDP00711 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00716
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP00716.bb
+	shortLabel HGDP00716
+	longLabel HGDP00716 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H03
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_H03.bb
+	shortLabel LP6005441-DNA_H03
+	longLabel LP6005441-DNA_H03 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G03
+	parent Humans_EAS on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_G03.bb
+	shortLabel LP6005441-DNA_G03
+	longLabel LP6005441-DNA_G03 Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01247
+	parent Humans_EAS on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01247.bb
+	shortLabel HGDP01247
+	longLabel HGDP01247 Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01249
+	parent Humans_EAS on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01249.bb
+	shortLabel HGDP01249
+	longLabel HGDP01249 Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01251
+	parent Humans_EAS on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01251.bb
+	shortLabel HGDP01251
+	longLabel HGDP01251 Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01244
+	parent Humans_EAS on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01244.bb
+	shortLabel HGDP01244
+	longLabel HGDP01244 Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01248
+	parent Humans_EAS on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01248.bb
+	shortLabel HGDP01248
+	longLabel HGDP01248 Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01243
+	parent Humans_EAS on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01243.bb
+	shortLabel HGDP01243
+	longLabel HGDP01243 Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01245
+	parent Humans_EAS on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01245.bb
+	shortLabel HGDP01245
+	longLabel HGDP01245 Xibo
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_C02
+	parent Humans_EAS on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_C02.bb
+	shortLabel LP6005443-DNA_C02
+	longLabel LP6005443-DNA_C02 Xibo
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_D01
+	parent Humans_EAS on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005442-DNA_D01.bb
+	shortLabel LP6005442-DNA_D01
+	longLabel LP6005442-DNA_D01 Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01184
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01184.bb
+	shortLabel HGDP01184
+	longLabel HGDP01184 Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01183
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01183.bb
+	shortLabel HGDP01183
+	longLabel HGDP01183 Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01181
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01181.bb
+	shortLabel HGDP01181
+	longLabel HGDP01181 Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01186
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01186.bb
+	shortLabel HGDP01186
+	longLabel HGDP01186 Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01180
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01180.bb
+	shortLabel HGDP01180
+	longLabel HGDP01180 Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01185
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01185.bb
+	shortLabel HGDP01185
+	longLabel HGDP01185 Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01187
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01187.bb
+	shortLabel HGDP01187
+	longLabel HGDP01187 Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01182
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01182.bb
+	shortLabel HGDP01182
+	longLabel HGDP01182 Yi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_H01
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005442-DNA_H01.bb
+	shortLabel LP6005442-DNA_H01
+	longLabel LP6005442-DNA_H01 Yi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_G01
+	parent Humans_EAS on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005442-DNA_G01.bb
+	shortLabel LP6005442-DNA_G01
+	longLabel LP6005442-DNA_G01 Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01196
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01196.bb
+	shortLabel HGDP01196
+	longLabel HGDP01196 Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01189
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01189.bb
+	shortLabel HGDP01189
+	longLabel HGDP01189 Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01190
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01190.bb
+	shortLabel HGDP01190
+	longLabel HGDP01190 Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01195
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01195.bb
+	shortLabel HGDP01195
+	longLabel HGDP01195 Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01193
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01193.bb
+	shortLabel HGDP01193
+	longLabel HGDP01193 Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01197
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01197.bb
+	shortLabel HGDP01197
+	longLabel HGDP01197 Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01192
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01192.bb
+	shortLabel HGDP01192
+	longLabel HGDP01192 Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01194
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01194.bb
+	shortLabel HGDP01194
+	longLabel HGDP01194 Miao
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D08
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_D08.bb
+	shortLabel LP6005441-DNA_D08
+	longLabel LP6005441-DNA_D08 Miao
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_C08
+	parent Humans_EAS on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_C08.bb
+	shortLabel LP6005441-DNA_C08
+	longLabel LP6005441-DNA_C08 Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01209
+	parent Humans_EAS on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01209.bb
+	shortLabel HGDP01209
+	longLabel HGDP01209 Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01204
+	parent Humans_EAS on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01204.bb
+	shortLabel HGDP01204
+	longLabel HGDP01204 Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01208
+	parent Humans_EAS on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01208.bb
+	shortLabel HGDP01208
+	longLabel HGDP01208 Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01206
+	parent Humans_EAS on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01206.bb
+	shortLabel HGDP01206
+	longLabel HGDP01206 Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01205
+	parent Humans_EAS on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01205.bb
+	shortLabel HGDP01205
+	longLabel HGDP01205 Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01212
+	parent Humans_EAS on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01212.bb
+	shortLabel HGDP01212
+	longLabel HGDP01212 Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01207
+	parent Humans_EAS on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01207.bb
+	shortLabel HGDP01207
+	longLabel HGDP01207 Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F09
+	parent Humans_EAS on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_F09.bb
+	shortLabel LP6005441-DNA_F09
+	longLabel LP6005441-DNA_F09 Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_E09
+	parent Humans_EAS on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_E09.bb
+	shortLabel LP6005441-DNA_E09
+	longLabel LP6005441-DNA_E09 Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01216
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01216.bb
+	shortLabel HGDP01216
+	longLabel HGDP01216 Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01222
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01222.bb
+	shortLabel HGDP01222
+	longLabel HGDP01222 Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01213
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01213.bb
+	shortLabel HGDP01213
+	longLabel HGDP01213 Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01218
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01218.bb
+	shortLabel HGDP01218
+	longLabel HGDP01218 Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01220
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01220.bb
+	shortLabel HGDP01220
+	longLabel HGDP01220 Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01217
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01217.bb
+	shortLabel HGDP01217
+	longLabel HGDP01217 Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01214
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01214.bb
+	shortLabel HGDP01214
+	longLabel HGDP01214 Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01219
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01219.bb
+	shortLabel HGDP01219
+	longLabel HGDP01219 Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01221
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01221.bb
+	shortLabel HGDP01221
+	longLabel HGDP01221 Daur
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F04
+	parent Humans_EAS on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_F04.bb
+	shortLabel LP6005441-DNA_F04
+	longLabel LP6005441-DNA_F04 Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01103
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01103.bb
+	shortLabel HGDP01103
+	longLabel HGDP01103 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01099
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01099.bb
+	shortLabel HGDP01099
+	longLabel HGDP01099 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01102
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01102.bb
+	shortLabel HGDP01102
+	longLabel HGDP01102 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01097
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01097.bb
+	shortLabel HGDP01097
+	longLabel HGDP01097 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01100
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01100.bb
+	shortLabel HGDP01100
+	longLabel HGDP01100 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01096
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01096.bb
+	shortLabel HGDP01096
+	longLabel HGDP01096 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01104
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01104.bb
+	shortLabel HGDP01104
+	longLabel HGDP01104 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01101
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01101.bb
+	shortLabel HGDP01101
+	longLabel HGDP01101 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_A02
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_A02.bb
+	shortLabel LP6005443-DNA_A02
+	longLabel LP6005443-DNA_A02 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F12
+	parent Humans_EAS on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_F12.bb
+	shortLabel LP6005441-DNA_F12
+	longLabel LP6005441-DNA_F12 Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01292
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01292.bb
+	shortLabel HGDP01292
+	longLabel HGDP01292 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01289
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01289.bb
+	shortLabel HGDP01289
+	longLabel HGDP01289 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01291
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01291.bb
+	shortLabel HGDP01291
+	longLabel HGDP01291 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01296
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01296.bb
+	shortLabel HGDP01296
+	longLabel HGDP01296 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01287
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01287.bb
+	shortLabel HGDP01287
+	longLabel HGDP01287 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01294
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01294.bb
+	shortLabel HGDP01294
+	longLabel HGDP01294 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01293
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01293.bb
+	shortLabel HGDP01293
+	longLabel HGDP01293 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01288
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01288.bb
+	shortLabel HGDP01288
+	longLabel HGDP01288 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01290
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01290.bb
+	shortLabel HGDP01290
+	longLabel HGDP01290 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01295
+	parent Humans_EAS on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01295.bb
+	shortLabel HGDP01295
+	longLabel HGDP01295 Northern Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01317
+	parent Humans_EAS on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01317.bb
+	shortLabel HGDP01317
+	longLabel HGDP01317 Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01319
+	parent Humans_EAS on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01319.bb
+	shortLabel HGDP01319
+	longLabel HGDP01319 Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01321
+	parent Humans_EAS on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01321.bb
+	shortLabel HGDP01321
+	longLabel HGDP01321 Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01326
+	parent Humans_EAS on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01326.bb
+	shortLabel HGDP01326
+	longLabel HGDP01326 Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01318
+	parent Humans_EAS on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01318.bb
+	shortLabel HGDP01318
+	longLabel HGDP01318 Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01322
+	parent Humans_EAS on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01322.bb
+	shortLabel HGDP01322
+	longLabel HGDP01322 Lahu
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_E01
+	parent Humans_EAS on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_E01.bb
+	shortLabel LP6005443-DNA_E01
+	longLabel LP6005443-DNA_E01 Lahu
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B07
+	parent Humans_EAS on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_B07.bb
+	shortLabel LP6005441-DNA_B07
+	longLabel LP6005441-DNA_B07 Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01336
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01336.bb
+	shortLabel HGDP01336
+	longLabel HGDP01336 She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01329
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01329.bb
+	shortLabel HGDP01329
+	longLabel HGDP01329 She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01331
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01331.bb
+	shortLabel HGDP01331
+	longLabel HGDP01331 She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01328
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01328.bb
+	shortLabel HGDP01328
+	longLabel HGDP01328 She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01330
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01330.bb
+	shortLabel HGDP01330
+	longLabel HGDP01330 She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01332
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01332.bb
+	shortLabel HGDP01332
+	longLabel HGDP01332 She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01327
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01327.bb
+	shortLabel HGDP01327
+	longLabel HGDP01327 She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01334
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01334.bb
+	shortLabel HGDP01334
+	longLabel HGDP01334 She
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_G01
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_G01.bb
+	shortLabel LP6005443-DNA_G01
+	longLabel LP6005443-DNA_G01 She
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_F01
+	parent Humans_EAS on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_F01.bb
+	shortLabel LP6005443-DNA_F01
+	longLabel LP6005443-DNA_F01 She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01348
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01348.bb
+	shortLabel HGDP01348
+	longLabel HGDP01348 Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01354
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01354.bb
+	shortLabel HGDP01354
+	longLabel HGDP01354 Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01347
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01347.bb
+	shortLabel HGDP01347
+	longLabel HGDP01347 Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01352
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01352.bb
+	shortLabel HGDP01352
+	longLabel HGDP01352 Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01349
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01349.bb
+	shortLabel HGDP01349
+	longLabel HGDP01349 Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01351
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01351.bb
+	shortLabel HGDP01351
+	longLabel HGDP01351 Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01356
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01356.bb
+	shortLabel HGDP01356
+	longLabel HGDP01356 Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01353
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01353.bb
+	shortLabel HGDP01353
+	longLabel HGDP01353 Tu
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_H01
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_H01.bb
+	shortLabel LP6005443-DNA_H01
+	longLabel LP6005443-DNA_H01 Tu
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D12
+	parent Humans_EAS on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_D12.bb
+	shortLabel LP6005441-DNA_D12
+	longLabel LP6005441-DNA_D12 Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01309
+	parent Humans_EAS on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01309.bb
+	shortLabel HGDP01309
+	longLabel HGDP01309 Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01311
+	parent Humans_EAS on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01311.bb
+	shortLabel HGDP01311
+	longLabel HGDP01311 Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01316
+	parent Humans_EAS on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01316.bb
+	shortLabel HGDP01316
+	longLabel HGDP01316 Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01313
+	parent Humans_EAS on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01313.bb
+	shortLabel HGDP01313
+	longLabel HGDP01313 Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01310
+	parent Humans_EAS on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01310.bb
+	shortLabel HGDP01310
+	longLabel HGDP01310 Dai
+	type bigBed 9
+	itemRgb on
+
+	track SS6004467
+	parent Humans_EAS on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/SS6004467.bb
+	shortLabel SS6004467
+	longLabel SS6004467 Dai
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_D03
+	parent Humans_EAS on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005592-DNA_D03.bb
+	shortLabel LP6005592-DNA_D03
+	longLabel LP6005592-DNA_D03 Dai
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_B01
+	parent Humans_EAS on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_B01.bb
+	shortLabel LP6005443-DNA_B01
+	longLabel LP6005443-DNA_B01 Dai
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D04
+	parent Humans_EAS on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_D04.bb
+	shortLabel LP6005441-DNA_D04
+	longLabel LP6005441-DNA_D04 Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01234
+	parent Humans_EAS on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01234.bb
+	shortLabel HGDP01234
+	longLabel HGDP01234 Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01239
+	parent Humans_EAS on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01239.bb
+	shortLabel HGDP01239
+	longLabel HGDP01239 Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01241
+	parent Humans_EAS on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01241.bb
+	shortLabel HGDP01241
+	longLabel HGDP01241 Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01237
+	parent Humans_EAS on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01237.bb
+	shortLabel HGDP01237
+	longLabel HGDP01237 Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01236
+	parent Humans_EAS on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01236.bb
+	shortLabel HGDP01236
+	longLabel HGDP01236 Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01233
+	parent Humans_EAS on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01233.bb
+	shortLabel HGDP01233
+	longLabel HGDP01233 Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01238
+	parent Humans_EAS on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01238.bb
+	shortLabel HGDP01238
+	longLabel HGDP01238 Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G05
+	parent Humans_EAS on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_G05.bb
+	shortLabel LP6005441-DNA_G05
+	longLabel LP6005441-DNA_G05 Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H05
+	parent Humans_EAS on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_H05.bb
+	shortLabel LP6005441-DNA_H05
+	longLabel LP6005441-DNA_H05 Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01342
+	parent Humans_EAS on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01342.bb
+	shortLabel HGDP01342
+	longLabel HGDP01342 Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01340
+	parent Humans_EAS on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01340.bb
+	shortLabel HGDP01340
+	longLabel HGDP01340 Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01337
+	parent Humans_EAS on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01337.bb
+	shortLabel HGDP01337
+	longLabel HGDP01337 Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01339
+	parent Humans_EAS on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01339.bb
+	shortLabel HGDP01339
+	longLabel HGDP01339 Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01341
+	parent Humans_EAS on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01341.bb
+	shortLabel HGDP01341
+	longLabel HGDP01341 Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01346
+	parent Humans_EAS on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01346.bb
+	shortLabel HGDP01346
+	longLabel HGDP01346 Naxi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_E09
+	parent Humans_EAS on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_E09.bb
+	shortLabel LP6005443-DNA_E09
+	longLabel LP6005443-DNA_E09 Naxi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B09
+	parent Humans_EAS on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_B09.bb
+	shortLabel LP6005441-DNA_B09
+	longLabel LP6005441-DNA_B09 Naxi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_A09
+	parent Humans_EAS on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005441-DNA_A09.bb
+	shortLabel LP6005441-DNA_A09
+	longLabel LP6005441-DNA_A09 Naxi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_D06
+	parent Humans_EAS on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_D06.bb
+	shortLabel LP6005443-DNA_D06
+	longLabel LP6005443-DNA_D06 Korean
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_C06
+	parent Humans_EAS on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_C06.bb
+	shortLabel LP6005443-DNA_C06
+	longLabel LP6005443-DNA_C06 Korean
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_G05
+	parent Humans_EAS on
+	subGroups sub1=A18
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_G05.bb
+	shortLabel LP6005443-DNA_G05
+	longLabel LP6005443-DNA_G05 Ami
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_C07
+	parent Humans_EAS on
+	subGroups sub1=A18
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005442-DNA_C07.bb
+	shortLabel LP6005442-DNA_C07
+	longLabel LP6005442-DNA_C07 Ami
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01300
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01300.bb
+	shortLabel HGDP01300
+	longLabel HGDP01300 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01305
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01305.bb
+	shortLabel HGDP01305
+	longLabel HGDP01305 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01304
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01304.bb
+	shortLabel HGDP01304
+	longLabel HGDP01304 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01299
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01299.bb
+	shortLabel HGDP01299
+	longLabel HGDP01299 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01302
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01302.bb
+	shortLabel HGDP01302
+	longLabel HGDP01302 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01298
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01298.bb
+	shortLabel HGDP01298
+	longLabel HGDP01298 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01301
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01301.bb
+	shortLabel HGDP01301
+	longLabel HGDP01301 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01303
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/HGDP01303.bb
+	shortLabel HGDP01303
+	longLabel HGDP01303 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_B02
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_B02.bb
+	shortLabel LP6005443-DNA_B02
+	longLabel LP6005443-DNA_B02 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_B01
+	parent Humans_EAS on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005442-DNA_B01.bb
+	shortLabel LP6005442-DNA_B01
+	longLabel LP6005442-DNA_B01 Uygur
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_E07
+	parent Humans_EAS on
+	subGroups sub1=A20
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005442-DNA_E07.bb
+	shortLabel LP6005442-DNA_E07
+	longLabel LP6005442-DNA_E07 Atayal
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_C11
+	parent Humans_EAS on
+	subGroups sub1=A21
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005442-DNA_C11.bb
+	shortLabel LP6005442-DNA_C11
+	longLabel LP6005442-DNA_C11 Kinh
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_D11
+	parent Humans_EAS on
+	subGroups sub1=A21
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005442-DNA_D11.bb
+	shortLabel LP6005442-DNA_D11
+	longLabel LP6005442-DNA_D11 Kinh
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_B06
+	parent Humans_EAS on
+	subGroups sub1=A22
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005519-DNA_B06.bb
+	shortLabel LP6005519-DNA_B06
+	longLabel LP6005519-DNA_B06 Burmese
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_A06
+	parent Humans_EAS on
+	subGroups sub1=A22
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005519-DNA_A06.bb
+	shortLabel LP6005519-DNA_A06
+	longLabel LP6005519-DNA_A06 Burmese
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_B07
+	parent Humans_EAS on
+	subGroups sub1=A23
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_B07.bb
+	shortLabel LP6005443-DNA_B07
+	longLabel LP6005443-DNA_B07 Thai
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_A07
+	parent Humans_EAS on
+	subGroups sub1=A23
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/hg38/LP6005443-DNA_A07.bb
+	shortLabel LP6005443-DNA_A07
+	longLabel LP6005443-DNA_A07 Thai
+	type bigBed 9
+	itemRgb on
