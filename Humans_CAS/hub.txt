@@ -1,0 +1,5 @@
+hub Humans_CAS
+shortLabel Central Asia and Siberia
+longLabel Central Asia and Siberia
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_CAS/genomes.txt
+email almahalgren@berkeley.edu
