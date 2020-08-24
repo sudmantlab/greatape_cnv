@@ -1,5 +1,0 @@
-hub Humans_AMR
-shortLabel America
-longLabel America
-genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AMR/genomes.txt
-email almahalgren@berkeley.edu

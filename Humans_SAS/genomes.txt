@@ -1,2 +1,0 @@
-genome hg38
-trackDb https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_SAS/hg38/trackDb.txt

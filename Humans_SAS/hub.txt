@@ -1,5 +1,0 @@
-hub Humans_SAS
-shortLabel South Asia
-longLabel South Asia
-genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_SAS/genomes.txt
-email almahalgren@berkeley.edu

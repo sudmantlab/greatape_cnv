@@ -1,0 +1,5 @@
+hub Humans_Africa
+shortLabel Africa
+longLabel SGDP and HGDP Genomes - Africa
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Africa/genomes.txt
+email almahalgren@berkeley.edu

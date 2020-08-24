@@ -1,5 +1,0 @@
-hub Humans_OCE
-shortLabel Oceania
-longLabel Oceania
-genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_OCE/genomes.txt
-email almahalgren@berkeley.edu

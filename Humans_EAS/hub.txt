@@ -1,5 +1,0 @@
-hub Humans_EAS
-shortLabel East Asia
-longLabel East Asia
-genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EAS/genomes.txt
-email almahalgren@berkeley.edu
