@@ -1,0 +1,5 @@
+hub Humans_AFR
+shortLabel Africa
+longLabel Africa
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/genomes.txt
+email almahalgren@berkeley.edu

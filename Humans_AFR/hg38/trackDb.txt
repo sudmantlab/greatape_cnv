@@ -1,0 +1,1181 @@
+track Humans_AFR
+compositeTrack on
+visibility dense
+subGroup1 sub1 REGION A1=Biaka A2=Mbuti A3=Bantu South Africa A4=Yoruba A5=Mandenka A6=Bantu Kenya A7=San A8=Gambian A9=Luhya A10=Somali A11=Masai A12=Ju|'hoan North A13=Luo A14=Dinka A15=Saharawi A16=Mende A17=Esan A18=Bantu Herero A19=Khomani San A20=Bantu Tswana
+dimensions dimX=sub1
+sortOrder sub1=+
+shortLabel Africa
+longLabel Africa
+type bigBed 9
+allButtonPair on
+dragAndDrop subTracks
+
+	track HGDP00453
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00453.bb
+	shortLabel HGDP00453
+	longLabel HGDP00453 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00458
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00458.bb
+	shortLabel HGDP00458
+	longLabel HGDP00458 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00460
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00460.bb
+	shortLabel HGDP00460
+	longLabel HGDP00460 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00465
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00465.bb
+	shortLabel HGDP00465
+	longLabel HGDP00465 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00472
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00472.bb
+	shortLabel HGDP00472
+	longLabel HGDP00472 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00464
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00464.bb
+	shortLabel HGDP00464
+	longLabel HGDP00464 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00469
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00469.bb
+	shortLabel HGDP00469
+	longLabel HGDP00469 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00452
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00452.bb
+	shortLabel HGDP00452
+	longLabel HGDP00452 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01090
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01090.bb
+	shortLabel HGDP01090
+	longLabel HGDP01090 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01094
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01094.bb
+	shortLabel HGDP01094
+	longLabel HGDP01094 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01087
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01087.bb
+	shortLabel HGDP01087
+	longLabel HGDP01087 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00455
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00455.bb
+	shortLabel HGDP00455
+	longLabel HGDP00455 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00479
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00479.bb
+	shortLabel HGDP00479
+	longLabel HGDP00479 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00981
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00981.bb
+	shortLabel HGDP00981
+	longLabel HGDP00981 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00986
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00986.bb
+	shortLabel HGDP00986
+	longLabel HGDP00986 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01092
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01092.bb
+	shortLabel HGDP01092
+	longLabel HGDP01092 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00454
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00454.bb
+	shortLabel HGDP00454
+	longLabel HGDP00454 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00459
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00459.bb
+	shortLabel HGDP00459
+	longLabel HGDP00459 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00466
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00466.bb
+	shortLabel HGDP00466
+	longLabel HGDP00466 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00473
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00473.bb
+	shortLabel HGDP00473
+	longLabel HGDP00473 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00985
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00985.bb
+	shortLabel HGDP00985
+	longLabel HGDP00985 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00470
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00470.bb
+	shortLabel HGDP00470
+	longLabel HGDP00470 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00475
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00475.bb
+	shortLabel HGDP00475
+	longLabel HGDP00475 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01086
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01086.bb
+	shortLabel HGDP01086
+	longLabel HGDP01086 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H02
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_H02.bb
+	shortLabel LP6005441-DNA_H02
+	longLabel LP6005441-DNA_H02 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G02
+	parent Humans_AFR on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_G02.bb
+	shortLabel LP6005441-DNA_G02
+	longLabel LP6005441-DNA_G02 Biaka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00471
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00471.bb
+	shortLabel HGDP00471
+	longLabel HGDP00471 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00984
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00984.bb
+	shortLabel HGDP00984
+	longLabel HGDP00984 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00983
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00983.bb
+	shortLabel HGDP00983
+	longLabel HGDP00983 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00450
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00450.bb
+	shortLabel HGDP00450
+	longLabel HGDP00450 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00462
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00462.bb
+	shortLabel HGDP00462
+	longLabel HGDP00462 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00467
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00467.bb
+	shortLabel HGDP00467
+	longLabel HGDP00467 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00478
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00478.bb
+	shortLabel HGDP00478
+	longLabel HGDP00478 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00468
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00468.bb
+	shortLabel HGDP00468
+	longLabel HGDP00468 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00463
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00463.bb
+	shortLabel HGDP00463
+	longLabel HGDP00463 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01081
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01081.bb
+	shortLabel HGDP01081
+	longLabel HGDP01081 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track SS6004471
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/SS6004471.bb
+	shortLabel SS6004471
+	longLabel SS6004471 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_C03
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005592-DNA_C03.bb
+	shortLabel LP6005592-DNA_C03
+	longLabel LP6005592-DNA_C03 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_A08
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_A08.bb
+	shortLabel LP6005441-DNA_A08
+	longLabel LP6005441-DNA_A08 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B08
+	parent Humans_AFR on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_B08.bb
+	shortLabel LP6005441-DNA_B08
+	longLabel LP6005441-DNA_B08 Mbuti
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01033
+	parent Humans_AFR on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01033.bb
+	shortLabel HGDP01033
+	longLabel HGDP01033 Bantu South Africa
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00993
+	parent Humans_AFR on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00993.bb
+	shortLabel HGDP00993
+	longLabel HGDP00993 Bantu South Africa
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01031
+	parent Humans_AFR on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01031.bb
+	shortLabel HGDP01031
+	longLabel HGDP01031 Bantu South Africa
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00994
+	parent Humans_AFR on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00994.bb
+	shortLabel HGDP00994
+	longLabel HGDP00994 Bantu South Africa
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00934
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00934.bb
+	shortLabel HGDP00934
+	longLabel HGDP00934 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00939
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00939.bb
+	shortLabel HGDP00939
+	longLabel HGDP00939 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00941
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00941.bb
+	shortLabel HGDP00941
+	longLabel HGDP00941 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00926
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00926.bb
+	shortLabel HGDP00926
+	longLabel HGDP00926 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00933
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00933.bb
+	shortLabel HGDP00933
+	longLabel HGDP00933 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00938
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00938.bb
+	shortLabel HGDP00938
+	longLabel HGDP00938 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00940
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00940.bb
+	shortLabel HGDP00940
+	longLabel HGDP00940 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00924
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00924.bb
+	shortLabel HGDP00924
+	longLabel HGDP00924 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00929
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00929.bb
+	shortLabel HGDP00929
+	longLabel HGDP00929 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00931
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00931.bb
+	shortLabel HGDP00931
+	longLabel HGDP00931 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00943
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00943.bb
+	shortLabel HGDP00943
+	longLabel HGDP00943 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00935
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00935.bb
+	shortLabel HGDP00935
+	longLabel HGDP00935 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00942
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00942.bb
+	shortLabel HGDP00942
+	longLabel HGDP00942 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00930
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00930.bb
+	shortLabel HGDP00930
+	longLabel HGDP00930 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00920
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00920.bb
+	shortLabel HGDP00920
+	longLabel HGDP00920 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00925
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00925.bb
+	shortLabel HGDP00925
+	longLabel HGDP00925 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00937
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00937.bb
+	shortLabel HGDP00937
+	longLabel HGDP00937 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00944
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00944.bb
+	shortLabel HGDP00944
+	longLabel HGDP00944 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track SS6004475
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/SS6004475.bb
+	shortLabel SS6004475
+	longLabel SS6004475 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_A02
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_A02.bb
+	shortLabel LP6005442-DNA_A02
+	longLabel LP6005442-DNA_A02 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_B02
+	parent Humans_AFR on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_B02.bb
+	shortLabel LP6005442-DNA_B02
+	longLabel LP6005442-DNA_B02 Yoruba
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00910
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00910.bb
+	shortLabel HGDP00910
+	longLabel HGDP00910 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00908
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00908.bb
+	shortLabel HGDP00908
+	longLabel HGDP00908 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00907
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00907.bb
+	shortLabel HGDP00907
+	longLabel HGDP00907 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00919
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00919.bb
+	shortLabel HGDP00919
+	longLabel HGDP00919 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01285
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01285.bb
+	shortLabel HGDP01285
+	longLabel HGDP01285 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00914
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00914.bb
+	shortLabel HGDP00914
+	longLabel HGDP00914 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00905
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00905.bb
+	shortLabel HGDP00905
+	longLabel HGDP00905 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00912
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00912.bb
+	shortLabel HGDP00912
+	longLabel HGDP00912 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00917
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00917.bb
+	shortLabel HGDP00917
+	longLabel HGDP00917 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01201
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01201.bb
+	shortLabel HGDP01201
+	longLabel HGDP01201 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00909
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00909.bb
+	shortLabel HGDP00909
+	longLabel HGDP00909 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00911
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00911.bb
+	shortLabel HGDP00911
+	longLabel HGDP00911 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00916
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00916.bb
+	shortLabel HGDP00916
+	longLabel HGDP00916 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00904
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00904.bb
+	shortLabel HGDP00904
+	longLabel HGDP00904 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01200
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01200.bb
+	shortLabel HGDP01200
+	longLabel HGDP01200 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00906
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00906.bb
+	shortLabel HGDP00906
+	longLabel HGDP00906 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00913
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00913.bb
+	shortLabel HGDP00913
+	longLabel HGDP00913 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00918
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00918.bb
+	shortLabel HGDP00918
+	longLabel HGDP00918 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01202
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01202.bb
+	shortLabel HGDP01202
+	longLabel HGDP01202 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01283
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01283.bb
+	shortLabel HGDP01283
+	longLabel HGDP01283 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track SS6004470
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/SS6004470.bb
+	shortLabel SS6004470
+	longLabel SS6004470 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F07
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_F07.bb
+	shortLabel LP6005441-DNA_F07
+	longLabel LP6005441-DNA_F07 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_E07
+	parent Humans_AFR on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_E07.bb
+	shortLabel LP6005441-DNA_E07
+	longLabel LP6005441-DNA_E07 Mandenka
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01418
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01418.bb
+	shortLabel HGDP01418
+	longLabel HGDP01418 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01406
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01406.bb
+	shortLabel HGDP01406
+	longLabel HGDP01406 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01413
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01413.bb
+	shortLabel HGDP01413
+	longLabel HGDP01413 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01405
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01405.bb
+	shortLabel HGDP01405
+	longLabel HGDP01405 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01412
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01412.bb
+	shortLabel HGDP01412
+	longLabel HGDP01412 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01408
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01408.bb
+	shortLabel HGDP01408
+	longLabel HGDP01408 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01415
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01415.bb
+	shortLabel HGDP01415
+	longLabel HGDP01415 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01419
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01419.bb
+	shortLabel HGDP01419
+	longLabel HGDP01419 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01411
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01411.bb
+	shortLabel HGDP01411
+	longLabel HGDP01411 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01416
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01416.bb
+	shortLabel HGDP01416
+	longLabel HGDP01416 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_A01
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005443-DNA_A01.bb
+	shortLabel LP6005443-DNA_A01
+	longLabel LP6005443-DNA_A01 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B02
+	parent Humans_AFR on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_B02.bb
+	shortLabel LP6005441-DNA_B02
+	longLabel LP6005441-DNA_B02 Bantu Kenya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00992
+	parent Humans_AFR on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP00992.bb
+	shortLabel HGDP00992
+	longLabel HGDP00992 San
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01029
+	parent Humans_AFR on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/HGDP01029.bb
+	shortLabel HGDP01029
+	longLabel HGDP01029 San
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_H10
+	parent Humans_AFR on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_H10.bb
+	shortLabel LP6005442-DNA_H10
+	longLabel LP6005442-DNA_H10 Gambian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_G10
+	parent Humans_AFR on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_G10.bb
+	shortLabel LP6005442-DNA_G10
+	longLabel LP6005442-DNA_G10 Gambian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_F11
+	parent Humans_AFR on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_F11.bb
+	shortLabel LP6005442-DNA_F11
+	longLabel LP6005442-DNA_F11 Luhya
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_E11
+	parent Humans_AFR on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_E11.bb
+	shortLabel LP6005442-DNA_E11
+	longLabel LP6005442-DNA_E11 Luhya
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_D09
+	parent Humans_AFR on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_D09.bb
+	shortLabel LP6005442-DNA_D09
+	longLabel LP6005442-DNA_D09 Somali
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_F06
+	parent Humans_AFR on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005443-DNA_F06.bb
+	shortLabel LP6005443-DNA_F06
+	longLabel LP6005443-DNA_F06 Masai
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_E06
+	parent Humans_AFR on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005443-DNA_E06.bb
+	shortLabel LP6005443-DNA_E06
+	longLabel LP6005443-DNA_E06 Masai
+	type bigBed 9
+	itemRgb on
+
+	track SS6004473
+	parent Humans_AFR on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/SS6004473.bb
+	shortLabel SS6004473
+	longLabel SS6004473 Ju|'hoan North
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_G08
+	parent Humans_AFR on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005443-DNA_G08.bb
+	shortLabel LP6005443-DNA_G08
+	longLabel LP6005443-DNA_G08 Ju|'hoan North
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_A11
+	parent Humans_AFR on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_A11.bb
+	shortLabel LP6005441-DNA_A11
+	longLabel LP6005441-DNA_A11 Ju|'hoan North
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B11
+	parent Humans_AFR on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_B11.bb
+	shortLabel LP6005441-DNA_B11
+	longLabel LP6005441-DNA_B11 Ju|'hoan North
+	type bigBed 9
+	itemRgb on
+
+	track LP6005677-DNA_G01
+	parent Humans_AFR on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005677-DNA_G01.bb
+	shortLabel LP6005677-DNA_G01
+	longLabel LP6005677-DNA_G01 Luo
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_F09
+	parent Humans_AFR on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_F09.bb
+	shortLabel LP6005442-DNA_F09
+	longLabel LP6005442-DNA_F09 Luo
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_H08
+	parent Humans_AFR on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005443-DNA_H08.bb
+	shortLabel LP6005443-DNA_H08
+	longLabel LP6005443-DNA_H08 Dinka
+	type bigBed 9
+	itemRgb on
+
+	track SS6004480
+	parent Humans_AFR on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/SS6004480.bb
+	shortLabel SS6004480
+	longLabel SS6004480 Dinka
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_B09
+	parent Humans_AFR on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005443-DNA_B09.bb
+	shortLabel LP6005443-DNA_B09
+	longLabel LP6005443-DNA_B09 Dinka
+	type bigBed 9
+	itemRgb on
+
+	track LP6005619-DNA_C01
+	parent Humans_AFR on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005619-DNA_C01.bb
+	shortLabel LP6005619-DNA_C01
+	longLabel LP6005619-DNA_C01 Saharawi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005619-DNA_B01
+	parent Humans_AFR on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005619-DNA_B01.bb
+	shortLabel LP6005619-DNA_B01
+	longLabel LP6005619-DNA_B01 Saharawi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_H11
+	parent Humans_AFR on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_H11.bb
+	shortLabel LP6005442-DNA_H11
+	longLabel LP6005442-DNA_H11 Mende
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_G11
+	parent Humans_AFR on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_G11.bb
+	shortLabel LP6005442-DNA_G11
+	longLabel LP6005442-DNA_G11 Mende
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_B10
+	parent Humans_AFR on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_B10.bb
+	shortLabel LP6005442-DNA_B10
+	longLabel LP6005442-DNA_B10 Esan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_A10
+	parent Humans_AFR on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005442-DNA_A10.bb
+	shortLabel LP6005442-DNA_A10
+	longLabel LP6005442-DNA_A10 Esan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_E02
+	parent Humans_AFR on
+	subGroups sub1=A18
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005443-DNA_E02.bb
+	shortLabel LP6005443-DNA_E02
+	longLabel LP6005443-DNA_E02 Bantu Herero
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F01
+	parent Humans_AFR on
+	subGroups sub1=A18
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005441-DNA_F01.bb
+	shortLabel LP6005441-DNA_F01
+	longLabel LP6005441-DNA_F01 Bantu Herero
+	type bigBed 9
+	itemRgb on
+
+	track LP6005677-DNA_D03
+	parent Humans_AFR on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005677-DNA_D03.bb
+	shortLabel LP6005677-DNA_D03
+	longLabel LP6005677-DNA_D03 Khomani San
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_C05
+	parent Humans_AFR on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005592-DNA_C05.bb
+	shortLabel LP6005592-DNA_C05
+	longLabel LP6005592-DNA_C05 Khomani San
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_G02
+	parent Humans_AFR on
+	subGroups sub1=A20
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005443-DNA_G02.bb
+	shortLabel LP6005443-DNA_G02
+	longLabel LP6005443-DNA_G02 Bantu Tswana
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_F02
+	parent Humans_AFR on
+	subGroups sub1=A20
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_AFR/hg38/LP6005443-DNA_F02.bb
+	shortLabel LP6005443-DNA_F02
+	longLabel LP6005443-DNA_F02 Bantu Tswana
+	type bigBed 9
+	itemRgb on
