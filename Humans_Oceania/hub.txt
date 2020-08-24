@@ -1,0 +1,5 @@
+hub Humans_Oceania
+shortLabel Oceania
+longLabel SGDP and HGDP Genomes - Oceania
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/genomes.txt
+email almahalgren@berkeley.edu

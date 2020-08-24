@@ -1,0 +1,344 @@
+track Humans_Oceania
+compositeTrack on
+visibility dense
+subGroup1 sub1 REGION A1=Bougainville A2=Australian A3=Papuan A4=Igorot A5=Dusun A6=Maori A7=Hawaiian
+dimensions dimX=sub1
+sortOrder sub1=+
+shortLabel Oceania
+longLabel SGDP and HGDP Genomes - Oceania
+type bigBed 9
+allButtonPair on
+dragAndDrop subTracks
+
+	track HGDP00491
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00491.bb
+	shortLabel HGDP00491_Bougainville
+	longLabel HGDP00491_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00655
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00655.bb
+	shortLabel HGDP00655_Bougainville
+	longLabel HGDP00655_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00662
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00662.bb
+	shortLabel HGDP00662_Bougainville
+	longLabel HGDP00662_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00490
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00490.bb
+	shortLabel HGDP00490_Bougainville
+	longLabel HGDP00490_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00787
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00787.bb
+	shortLabel HGDP00787_Bougainville
+	longLabel HGDP00787_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00661
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00661.bb
+	shortLabel HGDP00661_Bougainville
+	longLabel HGDP00661_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00664
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00664.bb
+	shortLabel HGDP00664_Bougainville
+	longLabel HGDP00664_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00823
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00823.bb
+	shortLabel HGDP00823_Bougainville
+	longLabel HGDP00823_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00663
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00663.bb
+	shortLabel HGDP00663_Bougainville
+	longLabel HGDP00663_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00788
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00788.bb
+	shortLabel HGDP00788_Bougainville
+	longLabel HGDP00788_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01027
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP01027.bb
+	shortLabel HGDP01027_Bougainville
+	longLabel HGDP01027_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_A03
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005441-DNA_A03.bb
+	shortLabel LP6005441-DNA_A03_Bougainville
+	longLabel LP6005441-DNA_A03_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B03
+	parent Humans_Oceania on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005441-DNA_B03.bb
+	shortLabel LP6005441-DNA_B03_Bougainville
+	longLabel LP6005441-DNA_B03_Bougainville
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_A09
+	parent Humans_Oceania on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005442-DNA_A09.bb
+	shortLabel LP6005442-DNA_A09_Australian
+	longLabel LP6005442-DNA_A09_Australian
+	type bigBed 9
+	itemRgb on
+
+	track SS6004477
+	parent Humans_Oceania on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/SS6004477.bb
+	shortLabel SS6004477_Australian
+	longLabel SS6004477_Australian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00542
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00542.bb
+	shortLabel HGDP00542_Papuan
+	longLabel HGDP00542_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00547
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00547.bb
+	shortLabel HGDP00547_Papuan
+	longLabel HGDP00547_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00541
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00541.bb
+	shortLabel HGDP00541_Papuan
+	longLabel HGDP00541_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00546
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00546.bb
+	shortLabel HGDP00546_Papuan
+	longLabel HGDP00546_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00544
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00544.bb
+	shortLabel HGDP00544_Papuan
+	longLabel HGDP00544_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00543
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00543.bb
+	shortLabel HGDP00543_Papuan
+	longLabel HGDP00543_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00540
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00540.bb
+	shortLabel HGDP00540_Papuan
+	longLabel HGDP00540_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00545
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00545.bb
+	shortLabel HGDP00545_Papuan
+	longLabel HGDP00545_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00553
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00553.bb
+	shortLabel HGDP00553_Papuan
+	longLabel HGDP00553_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00549
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00549.bb
+	shortLabel HGDP00549_Papuan
+	longLabel HGDP00549_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00551
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00551.bb
+	shortLabel HGDP00551_Papuan
+	longLabel HGDP00551_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00556
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00556.bb
+	shortLabel HGDP00556_Papuan
+	longLabel HGDP00556_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00550
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00550.bb
+	shortLabel HGDP00550_Papuan
+	longLabel HGDP00550_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00555
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/HGDP00555.bb
+	shortLabel HGDP00555_Papuan
+	longLabel HGDP00555_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_F07
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005443-DNA_F07.bb
+	shortLabel LP6005443-DNA_F07_Papuan
+	longLabel LP6005443-DNA_F07_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_E08
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005443-DNA_E08.bb
+	shortLabel LP6005443-DNA_E08_Papuan
+	longLabel LP6005443-DNA_E08_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_D08
+	parent Humans_Oceania on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005443-DNA_D08.bb
+	shortLabel LP6005443-DNA_D08_Papuan
+	longLabel LP6005443-DNA_D08_Papuan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_D06
+	parent Humans_Oceania on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005519-DNA_D06.bb
+	shortLabel LP6005519-DNA_D06_Igorot
+	longLabel LP6005519-DNA_D06_Igorot
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_C06
+	parent Humans_Oceania on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005519-DNA_C06.bb
+	shortLabel LP6005519-DNA_C06_Igorot
+	longLabel LP6005519-DNA_C06_Igorot
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_E06
+	parent Humans_Oceania on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005519-DNA_E06.bb
+	shortLabel LP6005519-DNA_E06_Dusun
+	longLabel LP6005519-DNA_E06_Dusun
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_B02
+	parent Humans_Oceania on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005592-DNA_B02.bb
+	shortLabel LP6005592-DNA_B02_Maori
+	longLabel LP6005592-DNA_B02_Maori
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_H03
+	parent Humans_Oceania on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_Oceania/hg38/LP6005592-DNA_H03.bb
+	shortLabel LP6005592-DNA_H03_Hawaiian
+	longLabel LP6005592-DNA_H03_Hawaiian
+	type bigBed 9
+	itemRgb on
