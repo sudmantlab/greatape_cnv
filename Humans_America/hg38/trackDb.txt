@@ -1,0 +1,668 @@
+track Humans_America
+compositeTrack on
+visibility dense
+subGroup1 sub1 REGION A1=Surui A2=Karitiana A3=Maya A4=Pima A5=Colombian A6=Quechua A7=Mixe A8=Mayan A9=Piapoco A10=Mixtec A11=Zapotec A12=Chane
+dimensions dimX=sub1
+sortOrder sub1=+
+shortLabel America
+longLabel SGDP and HGDP Genomes - America
+type bigBed 9
+allButtonPair on
+dragAndDrop subTracks
+
+	track HGDP00838
+	parent Humans_America on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00838.bb
+	shortLabel HGDP00838_Surui
+	longLabel HGDP00838_Surui
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00845
+	parent Humans_America on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00845.bb
+	shortLabel HGDP00845_Surui
+	longLabel HGDP00845_Surui
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00832
+	parent Humans_America on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00832.bb
+	shortLabel HGDP00832_Surui
+	longLabel HGDP00832_Surui
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00837
+	parent Humans_America on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00837.bb
+	shortLabel HGDP00837_Surui
+	longLabel HGDP00837_Surui
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00849
+	parent Humans_America on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00849.bb
+	shortLabel HGDP00849_Surui
+	longLabel HGDP00849_Surui
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00843
+	parent Humans_America on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00843.bb
+	shortLabel HGDP00843_Surui
+	longLabel HGDP00843_Surui
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B12
+	parent Humans_America on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_B12.bb
+	shortLabel LP6005441-DNA_B12_Surui
+	longLabel LP6005441-DNA_B12_Surui
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_A12
+	parent Humans_America on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_A12.bb
+	shortLabel LP6005441-DNA_A12_Surui
+	longLabel LP6005441-DNA_A12_Surui
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01014
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01014.bb
+	shortLabel HGDP01014_Karitiana
+	longLabel HGDP01014_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01019
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01019.bb
+	shortLabel HGDP01019_Karitiana
+	longLabel HGDP01019_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00995
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00995.bb
+	shortLabel HGDP00995_Karitiana
+	longLabel HGDP00995_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01001
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01001.bb
+	shortLabel HGDP01001_Karitiana
+	longLabel HGDP01001_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01006
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01006.bb
+	shortLabel HGDP01006_Karitiana
+	longLabel HGDP01006_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01013
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01013.bb
+	shortLabel HGDP01013_Karitiana
+	longLabel HGDP01013_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01009
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01009.bb
+	shortLabel HGDP01009_Karitiana
+	longLabel HGDP01009_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01010
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01010.bb
+	shortLabel HGDP01010_Karitiana
+	longLabel HGDP01010_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00999
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00999.bb
+	shortLabel HGDP00999_Karitiana
+	longLabel HGDP00999_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track SS6004476
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/SS6004476.bb
+	shortLabel SS6004476_Karitiana
+	longLabel SS6004476_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H06
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_H06.bb
+	shortLabel LP6005441-DNA_H06_Karitiana
+	longLabel LP6005441-DNA_H06_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G06
+	parent Humans_America on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_G06.bb
+	shortLabel LP6005441-DNA_G06_Karitiana
+	longLabel LP6005441-DNA_G06_Karitiana
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00869
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00869.bb
+	shortLabel HGDP00869_Maya
+	longLabel HGDP00869_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00871
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00871.bb
+	shortLabel HGDP00871_Maya
+	longLabel HGDP00871_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00876
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00876.bb
+	shortLabel HGDP00876_Maya
+	longLabel HGDP00876_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00864
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00864.bb
+	shortLabel HGDP00864_Maya
+	longLabel HGDP00864_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00868
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00868.bb
+	shortLabel HGDP00868_Maya
+	longLabel HGDP00868_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00870
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00870.bb
+	shortLabel HGDP00870_Maya
+	longLabel HGDP00870_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00875
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00875.bb
+	shortLabel HGDP00875_Maya
+	longLabel HGDP00875_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00856
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00856.bb
+	shortLabel HGDP00856_Maya
+	longLabel HGDP00856_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00863
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00863.bb
+	shortLabel HGDP00863_Maya
+	longLabel HGDP00863_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00854
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00854.bb
+	shortLabel HGDP00854_Maya
+	longLabel HGDP00854_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00859
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00859.bb
+	shortLabel HGDP00859_Maya
+	longLabel HGDP00859_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00861
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00861.bb
+	shortLabel HGDP00861_Maya
+	longLabel HGDP00861_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00873
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00873.bb
+	shortLabel HGDP00873_Maya
+	longLabel HGDP00873_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00858
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00858.bb
+	shortLabel HGDP00858_Maya
+	longLabel HGDP00858_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00860
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00860.bb
+	shortLabel HGDP00860_Maya
+	longLabel HGDP00860_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00865
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00865.bb
+	shortLabel HGDP00865_Maya
+	longLabel HGDP00865_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00872
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00872.bb
+	shortLabel HGDP00872_Maya
+	longLabel HGDP00872_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00877
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00877.bb
+	shortLabel HGDP00877_Maya
+	longLabel HGDP00877_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00862
+	parent Humans_America on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00862.bb
+	shortLabel HGDP00862_Maya
+	longLabel HGDP00862_Maya
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01057
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01057.bb
+	shortLabel HGDP01057_Pima
+	longLabel HGDP01057_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01056
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01056.bb
+	shortLabel HGDP01056_Pima
+	longLabel HGDP01056_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01037
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01037.bb
+	shortLabel HGDP01037_Pima
+	longLabel HGDP01037_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01051
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01051.bb
+	shortLabel HGDP01051_Pima
+	longLabel HGDP01051_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01059
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01059.bb
+	shortLabel HGDP01059_Pima
+	longLabel HGDP01059_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01041
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01041.bb
+	shortLabel HGDP01041_Pima
+	longLabel HGDP01041_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01053
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01053.bb
+	shortLabel HGDP01053_Pima
+	longLabel HGDP01053_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01058
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01058.bb
+	shortLabel HGDP01058_Pima
+	longLabel HGDP01058_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01060
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01060.bb
+	shortLabel HGDP01060_Pima
+	longLabel HGDP01060_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01043
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01043.bb
+	shortLabel HGDP01043_Pima
+	longLabel HGDP01043_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01050
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01050.bb
+	shortLabel HGDP01050_Pima
+	longLabel HGDP01050_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01055
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP01055.bb
+	shortLabel HGDP01055_Pima
+	longLabel HGDP01055_Pima
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F10
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_F10.bb
+	shortLabel LP6005441-DNA_F10_Pima
+	longLabel LP6005441-DNA_F10_Pima
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_E10
+	parent Humans_America on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_E10.bb
+	shortLabel LP6005441-DNA_E10_Pima
+	longLabel LP6005441-DNA_E10_Pima
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00703
+	parent Humans_America on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00703.bb
+	shortLabel HGDP00703_Colombian
+	longLabel HGDP00703_Colombian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00708
+	parent Humans_America on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00708.bb
+	shortLabel HGDP00708_Colombian
+	longLabel HGDP00708_Colombian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00710
+	parent Humans_America on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00710.bb
+	shortLabel HGDP00710_Colombian
+	longLabel HGDP00710_Colombian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00704
+	parent Humans_America on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00704.bb
+	shortLabel HGDP00704_Colombian
+	longLabel HGDP00704_Colombian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00970
+	parent Humans_America on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/HGDP00970.bb
+	shortLabel HGDP00970_Colombian
+	longLabel HGDP00970_Colombian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005677-DNA_F01
+	parent Humans_America on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005677-DNA_F01.bb
+	shortLabel LP6005677-DNA_F01_Quechua
+	longLabel LP6005677-DNA_F01_Quechua
+	type bigBed 9
+	itemRgb on
+
+	track LP6005677-DNA_E01
+	parent Humans_America on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005677-DNA_E01.bb
+	shortLabel LP6005677-DNA_E01_Quechua
+	longLabel LP6005677-DNA_E01_Quechua
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_G02
+	parent Humans_America on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005519-DNA_G02.bb
+	shortLabel LP6005519-DNA_G02_Quechua
+	longLabel LP6005519-DNA_G02_Quechua
+	type bigBed 9
+	itemRgb on
+
+	track SS6004479
+	parent Humans_America on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/SS6004479.bb
+	shortLabel SS6004479_Mixe
+	longLabel SS6004479_Mixe
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_F11
+	parent Humans_America on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005443-DNA_F11.bb
+	shortLabel LP6005443-DNA_F11_Mixe
+	longLabel LP6005443-DNA_F11_Mixe
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_E11
+	parent Humans_America on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005443-DNA_E11.bb
+	shortLabel LP6005443-DNA_E11_Mixe
+	longLabel LP6005443-DNA_E11_Mixe
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H07
+	parent Humans_America on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_H07.bb
+	shortLabel LP6005441-DNA_H07_Mayan
+	longLabel LP6005441-DNA_H07_Mayan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G07
+	parent Humans_America on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_G07.bb
+	shortLabel LP6005441-DNA_G07_Mayan
+	longLabel LP6005441-DNA_G07_Mayan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B04
+	parent Humans_America on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_B04.bb
+	shortLabel LP6005441-DNA_B04_Piapoco
+	longLabel LP6005441-DNA_B04_Piapoco
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_A04
+	parent Humans_America on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005441-DNA_A04.bb
+	shortLabel LP6005441-DNA_A04_Piapoco
+	longLabel LP6005441-DNA_A04_Piapoco
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_H11
+	parent Humans_America on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005443-DNA_H11.bb
+	shortLabel LP6005443-DNA_H11_Mixtec
+	longLabel LP6005443-DNA_H11_Mixtec
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_G11
+	parent Humans_America on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005443-DNA_G11.bb
+	shortLabel LP6005443-DNA_G11_Mixtec
+	longLabel LP6005443-DNA_G11_Mixtec
+	type bigBed 9
+	itemRgb on
+
+	track LP6005677-DNA_D01
+	parent Humans_America on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005677-DNA_D01.bb
+	shortLabel LP6005677-DNA_D01_Zapotec
+	longLabel LP6005677-DNA_D01_Zapotec
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_A12
+	parent Humans_America on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005443-DNA_A12.bb
+	shortLabel LP6005443-DNA_A12_Zapotec
+	longLabel LP6005443-DNA_A12_Zapotec
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_D01
+	parent Humans_America on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/hg38/LP6005519-DNA_D01.bb
+	shortLabel LP6005519-DNA_D01_Chane
+	longLabel LP6005519-DNA_D01_Chane
+	type bigBed 9
+	itemRgb on

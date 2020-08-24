@@ -1,0 +1,5 @@
+hub Humans_America
+shortLabel America
+longLabel SGDP and HGDP Genomes - America
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_America/genomes.txt
+email almahalgren@berkeley.edu
