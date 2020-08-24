@@ -1,0 +1,5 @@
+hub Humans_WEA
+shortLabel West Eurasia
+longLabel West Eurasia
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WEA/genomes.txt
+email almahalgren@berkeley.edu
