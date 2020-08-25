@@ -1,0 +1,5 @@
+hub Humans_EastAsia
+shortLabel East Asia
+longLabel SGDP and HGDP Genomes - East Asia
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/genomes.txt
+email almahalgren@berkeley.edu

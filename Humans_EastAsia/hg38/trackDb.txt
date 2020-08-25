@@ -1,0 +1,1955 @@
+track Humans_EastAsia
+compositeTrack on
+visibility dense
+subGroup1 sub1 REGION A1=Han A2=Japanese A3=Cambodian A4=Xibo A5=Yi A6=Miao A7=Oroqen A8=Daur A9=Tujia A10=NorthernHan A11=Lahu A12=She A13=Tu A14=Dai A15=Hezhen A16=Naxi A17=Korean A18=Ami A19=Uygur A20=Atayal A21=Kinh A22=Burmese A23=Thai
+dimensions dimX=sub1
+sortOrder sub1=+
+shortLabel East Asia
+longLabel SGDP and HGDP Genomes - East Asia
+type bigBed 9
+allButtonPair on
+dragAndDrop subTracks
+
+	track HGDP00782
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00782.bb
+	shortLabel HGDP00782_Han
+	longLabel HGDP00782_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00821
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00821.bb
+	shortLabel HGDP00821_Han
+	longLabel HGDP00821_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00814
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00814.bb
+	shortLabel HGDP00814_Han
+	longLabel HGDP00814_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00819
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00819.bb
+	shortLabel HGDP00819_Han
+	longLabel HGDP00819_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01021
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01021.bb
+	shortLabel HGDP01021_Han
+	longLabel HGDP01021_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00977
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00977.bb
+	shortLabel HGDP00977_Han
+	longLabel HGDP00977_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00774
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00774.bb
+	shortLabel HGDP00774_Han
+	longLabel HGDP00774_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00779
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00779.bb
+	shortLabel HGDP00779_Han
+	longLabel HGDP00779_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00972
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00972.bb
+	shortLabel HGDP00972_Han
+	longLabel HGDP00972_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00813
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00813.bb
+	shortLabel HGDP00813_Han
+	longLabel HGDP00813_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00818
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00818.bb
+	shortLabel HGDP00818_Han
+	longLabel HGDP00818_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00820
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00820.bb
+	shortLabel HGDP00820_Han
+	longLabel HGDP00820_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00781
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00781.bb
+	shortLabel HGDP00781_Han
+	longLabel HGDP00781_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00786
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00786.bb
+	shortLabel HGDP00786_Han
+	longLabel HGDP00786_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00971
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00971.bb
+	shortLabel HGDP00971_Han
+	longLabel HGDP00971_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00976
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00976.bb
+	shortLabel HGDP00976_Han
+	longLabel HGDP00976_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00784
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00784.bb
+	shortLabel HGDP00784_Han
+	longLabel HGDP00784_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00777
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00777.bb
+	shortLabel HGDP00777_Han
+	longLabel HGDP00777_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00811
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00811.bb
+	shortLabel HGDP00811_Han
+	longLabel HGDP00811_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00974
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00974.bb
+	shortLabel HGDP00974_Han
+	longLabel HGDP00974_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01023
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01023.bb
+	shortLabel HGDP01023_Han
+	longLabel HGDP01023_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00776
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00776.bb
+	shortLabel HGDP00776_Han
+	longLabel HGDP00776_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00815
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00815.bb
+	shortLabel HGDP00815_Han
+	longLabel HGDP00815_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00822
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00822.bb
+	shortLabel HGDP00822_Han
+	longLabel HGDP00822_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00973
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00973.bb
+	shortLabel HGDP00973_Han
+	longLabel HGDP00973_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00812
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00812.bb
+	shortLabel HGDP00812_Han
+	longLabel HGDP00812_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00817
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00817.bb
+	shortLabel HGDP00817_Han
+	longLabel HGDP00817_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00780
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00780.bb
+	shortLabel HGDP00780_Han
+	longLabel HGDP00780_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00975
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00975.bb
+	shortLabel HGDP00975_Han
+	longLabel HGDP00975_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01024
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01024.bb
+	shortLabel HGDP01024_Han
+	longLabel HGDP01024_Han
+	type bigBed 9
+	itemRgb on
+
+	track SS6004469
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/SS6004469.bb
+	shortLabel SS6004469_Han
+	longLabel SS6004469_Han
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_C05
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_C05.bb
+	shortLabel LP6005441-DNA_C05_Han
+	longLabel LP6005441-DNA_C05_Han
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D05
+	parent Humans_EastAsia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_D05.bb
+	shortLabel LP6005441-DNA_D05_Han
+	longLabel LP6005441-DNA_D05_Han
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00751
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00751.bb
+	shortLabel HGDP00751_Japanese
+	longLabel HGDP00751_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00756
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00756.bb
+	shortLabel HGDP00756_Japanese
+	longLabel HGDP00756_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00763
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00763.bb
+	shortLabel HGDP00763_Japanese
+	longLabel HGDP00763_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00768
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00768.bb
+	shortLabel HGDP00768_Japanese
+	longLabel HGDP00768_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00767
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00767.bb
+	shortLabel HGDP00767_Japanese
+	longLabel HGDP00767_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00748
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00748.bb
+	shortLabel HGDP00748_Japanese
+	longLabel HGDP00748_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00750
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00750.bb
+	shortLabel HGDP00750_Japanese
+	longLabel HGDP00750_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00755
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00755.bb
+	shortLabel HGDP00755_Japanese
+	longLabel HGDP00755_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00762
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00762.bb
+	shortLabel HGDP00762_Japanese
+	longLabel HGDP00762_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00753
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00753.bb
+	shortLabel HGDP00753_Japanese
+	longLabel HGDP00753_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00758
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00758.bb
+	shortLabel HGDP00758_Japanese
+	longLabel HGDP00758_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00760
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00760.bb
+	shortLabel HGDP00760_Japanese
+	longLabel HGDP00760_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00765
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00765.bb
+	shortLabel HGDP00765_Japanese
+	longLabel HGDP00765_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00828
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00828.bb
+	shortLabel HGDP00828_Japanese
+	longLabel HGDP00828_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00791
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00791.bb
+	shortLabel HGDP00791_Japanese
+	longLabel HGDP00791_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00772
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00772.bb
+	shortLabel HGDP00772_Japanese
+	longLabel HGDP00772_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00752
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00752.bb
+	shortLabel HGDP00752_Japanese
+	longLabel HGDP00752_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00769
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00769.bb
+	shortLabel HGDP00769_Japanese
+	longLabel HGDP00769_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00771
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00771.bb
+	shortLabel HGDP00771_Japanese
+	longLabel HGDP00771_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00790
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00790.bb
+	shortLabel HGDP00790_Japanese
+	longLabel HGDP00790_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00757
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00757.bb
+	shortLabel HGDP00757_Japanese
+	longLabel HGDP00757_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00764
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00764.bb
+	shortLabel HGDP00764_Japanese
+	longLabel HGDP00764_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00759
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00759.bb
+	shortLabel HGDP00759_Japanese
+	longLabel HGDP00759_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00761
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00761.bb
+	shortLabel HGDP00761_Japanese
+	longLabel HGDP00761_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00747
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00747.bb
+	shortLabel HGDP00747_Japanese
+	longLabel HGDP00747_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00754
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00754.bb
+	shortLabel HGDP00754_Japanese
+	longLabel HGDP00754_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00766
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00766.bb
+	shortLabel HGDP00766_Japanese
+	longLabel HGDP00766_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_C02
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005592-DNA_C02.bb
+	shortLabel LP6005592-DNA_C02_Japanese
+	longLabel LP6005592-DNA_C02_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D06
+	parent Humans_EastAsia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_D06.bb
+	shortLabel LP6005441-DNA_D06_Japanese
+	longLabel LP6005441-DNA_D06_Japanese
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00720
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00720.bb
+	shortLabel HGDP00720_Cambodian
+	longLabel HGDP00720_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00712
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00712.bb
+	shortLabel HGDP00712_Cambodian
+	longLabel HGDP00712_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00715
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00715.bb
+	shortLabel HGDP00715_Cambodian
+	longLabel HGDP00715_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00714
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00714.bb
+	shortLabel HGDP00714_Cambodian
+	longLabel HGDP00714_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00719
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00719.bb
+	shortLabel HGDP00719_Cambodian
+	longLabel HGDP00719_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00721
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00721.bb
+	shortLabel HGDP00721_Cambodian
+	longLabel HGDP00721_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00711
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00711.bb
+	shortLabel HGDP00711_Cambodian
+	longLabel HGDP00711_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00716
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP00716.bb
+	shortLabel HGDP00716_Cambodian
+	longLabel HGDP00716_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H03
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_H03.bb
+	shortLabel LP6005441-DNA_H03_Cambodian
+	longLabel LP6005441-DNA_H03_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G03
+	parent Humans_EastAsia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_G03.bb
+	shortLabel LP6005441-DNA_G03_Cambodian
+	longLabel LP6005441-DNA_G03_Cambodian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01247
+	parent Humans_EastAsia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01247.bb
+	shortLabel HGDP01247_Xibo
+	longLabel HGDP01247_Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01249
+	parent Humans_EastAsia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01249.bb
+	shortLabel HGDP01249_Xibo
+	longLabel HGDP01249_Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01251
+	parent Humans_EastAsia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01251.bb
+	shortLabel HGDP01251_Xibo
+	longLabel HGDP01251_Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01244
+	parent Humans_EastAsia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01244.bb
+	shortLabel HGDP01244_Xibo
+	longLabel HGDP01244_Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01248
+	parent Humans_EastAsia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01248.bb
+	shortLabel HGDP01248_Xibo
+	longLabel HGDP01248_Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01243
+	parent Humans_EastAsia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01243.bb
+	shortLabel HGDP01243_Xibo
+	longLabel HGDP01243_Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01245
+	parent Humans_EastAsia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01245.bb
+	shortLabel HGDP01245_Xibo
+	longLabel HGDP01245_Xibo
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_C02
+	parent Humans_EastAsia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_C02.bb
+	shortLabel LP6005443-DNA_C02_Xibo
+	longLabel LP6005443-DNA_C02_Xibo
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_D01
+	parent Humans_EastAsia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005442-DNA_D01.bb
+	shortLabel LP6005442-DNA_D01_Xibo
+	longLabel LP6005442-DNA_D01_Xibo
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01184
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01184.bb
+	shortLabel HGDP01184_Yi
+	longLabel HGDP01184_Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01183
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01183.bb
+	shortLabel HGDP01183_Yi
+	longLabel HGDP01183_Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01181
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01181.bb
+	shortLabel HGDP01181_Yi
+	longLabel HGDP01181_Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01186
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01186.bb
+	shortLabel HGDP01186_Yi
+	longLabel HGDP01186_Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01180
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01180.bb
+	shortLabel HGDP01180_Yi
+	longLabel HGDP01180_Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01185
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01185.bb
+	shortLabel HGDP01185_Yi
+	longLabel HGDP01185_Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01187
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01187.bb
+	shortLabel HGDP01187_Yi
+	longLabel HGDP01187_Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01182
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01182.bb
+	shortLabel HGDP01182_Yi
+	longLabel HGDP01182_Yi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_H01
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005442-DNA_H01.bb
+	shortLabel LP6005442-DNA_H01_Yi
+	longLabel LP6005442-DNA_H01_Yi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_G01
+	parent Humans_EastAsia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005442-DNA_G01.bb
+	shortLabel LP6005442-DNA_G01_Yi
+	longLabel LP6005442-DNA_G01_Yi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01196
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01196.bb
+	shortLabel HGDP01196_Miao
+	longLabel HGDP01196_Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01189
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01189.bb
+	shortLabel HGDP01189_Miao
+	longLabel HGDP01189_Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01190
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01190.bb
+	shortLabel HGDP01190_Miao
+	longLabel HGDP01190_Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01195
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01195.bb
+	shortLabel HGDP01195_Miao
+	longLabel HGDP01195_Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01193
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01193.bb
+	shortLabel HGDP01193_Miao
+	longLabel HGDP01193_Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01197
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01197.bb
+	shortLabel HGDP01197_Miao
+	longLabel HGDP01197_Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01192
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01192.bb
+	shortLabel HGDP01192_Miao
+	longLabel HGDP01192_Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01194
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01194.bb
+	shortLabel HGDP01194_Miao
+	longLabel HGDP01194_Miao
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D08
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_D08.bb
+	shortLabel LP6005441-DNA_D08_Miao
+	longLabel LP6005441-DNA_D08_Miao
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_C08
+	parent Humans_EastAsia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_C08.bb
+	shortLabel LP6005441-DNA_C08_Miao
+	longLabel LP6005441-DNA_C08_Miao
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01209
+	parent Humans_EastAsia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01209.bb
+	shortLabel HGDP01209_Oroqen
+	longLabel HGDP01209_Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01204
+	parent Humans_EastAsia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01204.bb
+	shortLabel HGDP01204_Oroqen
+	longLabel HGDP01204_Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01208
+	parent Humans_EastAsia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01208.bb
+	shortLabel HGDP01208_Oroqen
+	longLabel HGDP01208_Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01206
+	parent Humans_EastAsia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01206.bb
+	shortLabel HGDP01206_Oroqen
+	longLabel HGDP01206_Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01205
+	parent Humans_EastAsia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01205.bb
+	shortLabel HGDP01205_Oroqen
+	longLabel HGDP01205_Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01212
+	parent Humans_EastAsia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01212.bb
+	shortLabel HGDP01212_Oroqen
+	longLabel HGDP01212_Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01207
+	parent Humans_EastAsia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01207.bb
+	shortLabel HGDP01207_Oroqen
+	longLabel HGDP01207_Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F09
+	parent Humans_EastAsia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_F09.bb
+	shortLabel LP6005441-DNA_F09_Oroqen
+	longLabel LP6005441-DNA_F09_Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_E09
+	parent Humans_EastAsia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_E09.bb
+	shortLabel LP6005441-DNA_E09_Oroqen
+	longLabel LP6005441-DNA_E09_Oroqen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01216
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01216.bb
+	shortLabel HGDP01216_Daur
+	longLabel HGDP01216_Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01222
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01222.bb
+	shortLabel HGDP01222_Daur
+	longLabel HGDP01222_Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01213
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01213.bb
+	shortLabel HGDP01213_Daur
+	longLabel HGDP01213_Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01218
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01218.bb
+	shortLabel HGDP01218_Daur
+	longLabel HGDP01218_Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01220
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01220.bb
+	shortLabel HGDP01220_Daur
+	longLabel HGDP01220_Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01217
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01217.bb
+	shortLabel HGDP01217_Daur
+	longLabel HGDP01217_Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01214
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01214.bb
+	shortLabel HGDP01214_Daur
+	longLabel HGDP01214_Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01219
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01219.bb
+	shortLabel HGDP01219_Daur
+	longLabel HGDP01219_Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01221
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01221.bb
+	shortLabel HGDP01221_Daur
+	longLabel HGDP01221_Daur
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F04
+	parent Humans_EastAsia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_F04.bb
+	shortLabel LP6005441-DNA_F04_Daur
+	longLabel LP6005441-DNA_F04_Daur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01103
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01103.bb
+	shortLabel HGDP01103_Tujia
+	longLabel HGDP01103_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01099
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01099.bb
+	shortLabel HGDP01099_Tujia
+	longLabel HGDP01099_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01102
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01102.bb
+	shortLabel HGDP01102_Tujia
+	longLabel HGDP01102_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01097
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01097.bb
+	shortLabel HGDP01097_Tujia
+	longLabel HGDP01097_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01100
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01100.bb
+	shortLabel HGDP01100_Tujia
+	longLabel HGDP01100_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01096
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01096.bb
+	shortLabel HGDP01096_Tujia
+	longLabel HGDP01096_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01104
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01104.bb
+	shortLabel HGDP01104_Tujia
+	longLabel HGDP01104_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01101
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01101.bb
+	shortLabel HGDP01101_Tujia
+	longLabel HGDP01101_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_A02
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_A02.bb
+	shortLabel LP6005443-DNA_A02_Tujia
+	longLabel LP6005443-DNA_A02_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F12
+	parent Humans_EastAsia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_F12.bb
+	shortLabel LP6005441-DNA_F12_Tujia
+	longLabel LP6005441-DNA_F12_Tujia
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01292
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01292.bb
+	shortLabel HGDP01292_NorthernHan
+	longLabel HGDP01292_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01289
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01289.bb
+	shortLabel HGDP01289_NorthernHan
+	longLabel HGDP01289_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01291
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01291.bb
+	shortLabel HGDP01291_NorthernHan
+	longLabel HGDP01291_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01296
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01296.bb
+	shortLabel HGDP01296_NorthernHan
+	longLabel HGDP01296_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01287
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01287.bb
+	shortLabel HGDP01287_NorthernHan
+	longLabel HGDP01287_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01294
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01294.bb
+	shortLabel HGDP01294_NorthernHan
+	longLabel HGDP01294_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01293
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01293.bb
+	shortLabel HGDP01293_NorthernHan
+	longLabel HGDP01293_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01288
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01288.bb
+	shortLabel HGDP01288_NorthernHan
+	longLabel HGDP01288_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01290
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01290.bb
+	shortLabel HGDP01290_NorthernHan
+	longLabel HGDP01290_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01295
+	parent Humans_EastAsia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01295.bb
+	shortLabel HGDP01295_NorthernHan
+	longLabel HGDP01295_NorthernHan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01317
+	parent Humans_EastAsia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01317.bb
+	shortLabel HGDP01317_Lahu
+	longLabel HGDP01317_Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01319
+	parent Humans_EastAsia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01319.bb
+	shortLabel HGDP01319_Lahu
+	longLabel HGDP01319_Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01321
+	parent Humans_EastAsia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01321.bb
+	shortLabel HGDP01321_Lahu
+	longLabel HGDP01321_Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01326
+	parent Humans_EastAsia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01326.bb
+	shortLabel HGDP01326_Lahu
+	longLabel HGDP01326_Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01318
+	parent Humans_EastAsia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01318.bb
+	shortLabel HGDP01318_Lahu
+	longLabel HGDP01318_Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01322
+	parent Humans_EastAsia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01322.bb
+	shortLabel HGDP01322_Lahu
+	longLabel HGDP01322_Lahu
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_E01
+	parent Humans_EastAsia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_E01.bb
+	shortLabel LP6005443-DNA_E01_Lahu
+	longLabel LP6005443-DNA_E01_Lahu
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B07
+	parent Humans_EastAsia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_B07.bb
+	shortLabel LP6005441-DNA_B07_Lahu
+	longLabel LP6005441-DNA_B07_Lahu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01336
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01336.bb
+	shortLabel HGDP01336_She
+	longLabel HGDP01336_She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01329
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01329.bb
+	shortLabel HGDP01329_She
+	longLabel HGDP01329_She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01331
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01331.bb
+	shortLabel HGDP01331_She
+	longLabel HGDP01331_She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01328
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01328.bb
+	shortLabel HGDP01328_She
+	longLabel HGDP01328_She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01330
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01330.bb
+	shortLabel HGDP01330_She
+	longLabel HGDP01330_She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01332
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01332.bb
+	shortLabel HGDP01332_She
+	longLabel HGDP01332_She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01327
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01327.bb
+	shortLabel HGDP01327_She
+	longLabel HGDP01327_She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01334
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01334.bb
+	shortLabel HGDP01334_She
+	longLabel HGDP01334_She
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_G01
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_G01.bb
+	shortLabel LP6005443-DNA_G01_She
+	longLabel LP6005443-DNA_G01_She
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_F01
+	parent Humans_EastAsia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_F01.bb
+	shortLabel LP6005443-DNA_F01_She
+	longLabel LP6005443-DNA_F01_She
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01348
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01348.bb
+	shortLabel HGDP01348_Tu
+	longLabel HGDP01348_Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01354
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01354.bb
+	shortLabel HGDP01354_Tu
+	longLabel HGDP01354_Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01347
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01347.bb
+	shortLabel HGDP01347_Tu
+	longLabel HGDP01347_Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01352
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01352.bb
+	shortLabel HGDP01352_Tu
+	longLabel HGDP01352_Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01349
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01349.bb
+	shortLabel HGDP01349_Tu
+	longLabel HGDP01349_Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01351
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01351.bb
+	shortLabel HGDP01351_Tu
+	longLabel HGDP01351_Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01356
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01356.bb
+	shortLabel HGDP01356_Tu
+	longLabel HGDP01356_Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01353
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01353.bb
+	shortLabel HGDP01353_Tu
+	longLabel HGDP01353_Tu
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_H01
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_H01.bb
+	shortLabel LP6005443-DNA_H01_Tu
+	longLabel LP6005443-DNA_H01_Tu
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D12
+	parent Humans_EastAsia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_D12.bb
+	shortLabel LP6005441-DNA_D12_Tu
+	longLabel LP6005441-DNA_D12_Tu
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01309
+	parent Humans_EastAsia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01309.bb
+	shortLabel HGDP01309_Dai
+	longLabel HGDP01309_Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01311
+	parent Humans_EastAsia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01311.bb
+	shortLabel HGDP01311_Dai
+	longLabel HGDP01311_Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01316
+	parent Humans_EastAsia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01316.bb
+	shortLabel HGDP01316_Dai
+	longLabel HGDP01316_Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01313
+	parent Humans_EastAsia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01313.bb
+	shortLabel HGDP01313_Dai
+	longLabel HGDP01313_Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01310
+	parent Humans_EastAsia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01310.bb
+	shortLabel HGDP01310_Dai
+	longLabel HGDP01310_Dai
+	type bigBed 9
+	itemRgb on
+
+	track SS6004467
+	parent Humans_EastAsia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/SS6004467.bb
+	shortLabel SS6004467_Dai
+	longLabel SS6004467_Dai
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_D03
+	parent Humans_EastAsia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005592-DNA_D03.bb
+	shortLabel LP6005592-DNA_D03_Dai
+	longLabel LP6005592-DNA_D03_Dai
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_B01
+	parent Humans_EastAsia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_B01.bb
+	shortLabel LP6005443-DNA_B01_Dai
+	longLabel LP6005443-DNA_B01_Dai
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D04
+	parent Humans_EastAsia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_D04.bb
+	shortLabel LP6005441-DNA_D04_Dai
+	longLabel LP6005441-DNA_D04_Dai
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01234
+	parent Humans_EastAsia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01234.bb
+	shortLabel HGDP01234_Hezhen
+	longLabel HGDP01234_Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01239
+	parent Humans_EastAsia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01239.bb
+	shortLabel HGDP01239_Hezhen
+	longLabel HGDP01239_Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01241
+	parent Humans_EastAsia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01241.bb
+	shortLabel HGDP01241_Hezhen
+	longLabel HGDP01241_Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01237
+	parent Humans_EastAsia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01237.bb
+	shortLabel HGDP01237_Hezhen
+	longLabel HGDP01237_Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01236
+	parent Humans_EastAsia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01236.bb
+	shortLabel HGDP01236_Hezhen
+	longLabel HGDP01236_Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01233
+	parent Humans_EastAsia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01233.bb
+	shortLabel HGDP01233_Hezhen
+	longLabel HGDP01233_Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01238
+	parent Humans_EastAsia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01238.bb
+	shortLabel HGDP01238_Hezhen
+	longLabel HGDP01238_Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G05
+	parent Humans_EastAsia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_G05.bb
+	shortLabel LP6005441-DNA_G05_Hezhen
+	longLabel LP6005441-DNA_G05_Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H05
+	parent Humans_EastAsia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_H05.bb
+	shortLabel LP6005441-DNA_H05_Hezhen
+	longLabel LP6005441-DNA_H05_Hezhen
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01342
+	parent Humans_EastAsia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01342.bb
+	shortLabel HGDP01342_Naxi
+	longLabel HGDP01342_Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01340
+	parent Humans_EastAsia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01340.bb
+	shortLabel HGDP01340_Naxi
+	longLabel HGDP01340_Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01337
+	parent Humans_EastAsia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01337.bb
+	shortLabel HGDP01337_Naxi
+	longLabel HGDP01337_Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01339
+	parent Humans_EastAsia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01339.bb
+	shortLabel HGDP01339_Naxi
+	longLabel HGDP01339_Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01341
+	parent Humans_EastAsia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01341.bb
+	shortLabel HGDP01341_Naxi
+	longLabel HGDP01341_Naxi
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01346
+	parent Humans_EastAsia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01346.bb
+	shortLabel HGDP01346_Naxi
+	longLabel HGDP01346_Naxi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_E09
+	parent Humans_EastAsia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_E09.bb
+	shortLabel LP6005443-DNA_E09_Naxi
+	longLabel LP6005443-DNA_E09_Naxi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B09
+	parent Humans_EastAsia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_B09.bb
+	shortLabel LP6005441-DNA_B09_Naxi
+	longLabel LP6005441-DNA_B09_Naxi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_A09
+	parent Humans_EastAsia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005441-DNA_A09.bb
+	shortLabel LP6005441-DNA_A09_Naxi
+	longLabel LP6005441-DNA_A09_Naxi
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_D06
+	parent Humans_EastAsia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_D06.bb
+	shortLabel LP6005443-DNA_D06_Korean
+	longLabel LP6005443-DNA_D06_Korean
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_C06
+	parent Humans_EastAsia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_C06.bb
+	shortLabel LP6005443-DNA_C06_Korean
+	longLabel LP6005443-DNA_C06_Korean
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_G05
+	parent Humans_EastAsia on
+	subGroups sub1=A18
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_G05.bb
+	shortLabel LP6005443-DNA_G05_Ami
+	longLabel LP6005443-DNA_G05_Ami
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_C07
+	parent Humans_EastAsia on
+	subGroups sub1=A18
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005442-DNA_C07.bb
+	shortLabel LP6005442-DNA_C07_Ami
+	longLabel LP6005442-DNA_C07_Ami
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01300
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01300.bb
+	shortLabel HGDP01300_Uygur
+	longLabel HGDP01300_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01305
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01305.bb
+	shortLabel HGDP01305_Uygur
+	longLabel HGDP01305_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01304
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01304.bb
+	shortLabel HGDP01304_Uygur
+	longLabel HGDP01304_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01299
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01299.bb
+	shortLabel HGDP01299_Uygur
+	longLabel HGDP01299_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01302
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01302.bb
+	shortLabel HGDP01302_Uygur
+	longLabel HGDP01302_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01298
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01298.bb
+	shortLabel HGDP01298_Uygur
+	longLabel HGDP01298_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01301
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01301.bb
+	shortLabel HGDP01301_Uygur
+	longLabel HGDP01301_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01303
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/HGDP01303.bb
+	shortLabel HGDP01303_Uygur
+	longLabel HGDP01303_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_B02
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_B02.bb
+	shortLabel LP6005443-DNA_B02_Uygur
+	longLabel LP6005443-DNA_B02_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_B01
+	parent Humans_EastAsia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005442-DNA_B01.bb
+	shortLabel LP6005442-DNA_B01_Uygur
+	longLabel LP6005442-DNA_B01_Uygur
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_E07
+	parent Humans_EastAsia on
+	subGroups sub1=A20
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005442-DNA_E07.bb
+	shortLabel LP6005442-DNA_E07_Atayal
+	longLabel LP6005442-DNA_E07_Atayal
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_C11
+	parent Humans_EastAsia on
+	subGroups sub1=A21
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005442-DNA_C11.bb
+	shortLabel LP6005442-DNA_C11_Kinh
+	longLabel LP6005442-DNA_C11_Kinh
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_D11
+	parent Humans_EastAsia on
+	subGroups sub1=A21
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005442-DNA_D11.bb
+	shortLabel LP6005442-DNA_D11_Kinh
+	longLabel LP6005442-DNA_D11_Kinh
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_B06
+	parent Humans_EastAsia on
+	subGroups sub1=A22
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005519-DNA_B06.bb
+	shortLabel LP6005519-DNA_B06_Burmese
+	longLabel LP6005519-DNA_B06_Burmese
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_A06
+	parent Humans_EastAsia on
+	subGroups sub1=A22
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005519-DNA_A06.bb
+	shortLabel LP6005519-DNA_A06_Burmese
+	longLabel LP6005519-DNA_A06_Burmese
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_B07
+	parent Humans_EastAsia on
+	subGroups sub1=A23
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_B07.bb
+	shortLabel LP6005443-DNA_B07_Thai
+	longLabel LP6005443-DNA_B07_Thai
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_A07
+	parent Humans_EastAsia on
+	subGroups sub1=A23
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_EastAsia/hg38/LP6005443-DNA_A07.bb
+	shortLabel LP6005443-DNA_A07_Thai
+	longLabel LP6005443-DNA_A07_Thai
+	type bigBed 9
+	itemRgb on
