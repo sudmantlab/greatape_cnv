@@ -1,0 +1,5 @@
+hub Humans_SouthAsia
+shortLabel South Asia
+longLabel SGDP and HGDP Genomes - South Asia
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_SouthAsia/genomes.txt
+email almahalgren@berkeley.edu
