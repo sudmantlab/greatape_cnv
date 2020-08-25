@@ -1,0 +1,5 @@
+hub Humans_CentralAsiaandSiberia
+shortLabel Central Asia and Siberia
+longLabel SGDP and HGDP Genomes - Central Asia and Siberia
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_CentralAsiaandSiberia/genomes.txt
+email almahalgren@berkeley.edu
