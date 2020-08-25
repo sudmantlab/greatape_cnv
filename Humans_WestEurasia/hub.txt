@@ -1,0 +1,5 @@
+hub Humans_WestEurasia
+shortLabel West Eurasia
+longLabel SGDP and HGDP Genomes - West Eurasia
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/genomes.txt
+email almahalgren@berkeley.edu

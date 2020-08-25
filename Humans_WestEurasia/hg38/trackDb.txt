@@ -1,0 +1,3305 @@
+track Humans_WestEurasia
+compositeTrack on
+visibility dense
+subGroup1 sub1 REGION A1=Spanish A2=French A3=Bedouin A4=Druze A5=Palestinian A6=Orcadian A7=Sardinian A8=Russian A9=Mozabite A10=Basque A11=Adygei A12=Tuscan A13=English A14=Finnish A15=Polish A16=Greek A17=BergamoItalian A18=Icelandic A19=Lezgin A20=Jordanian A21=NorthOssetian A22=Tajik A23=Abkhasian A24=IraqiJew A25=Georgian A26=Saami A27=Turkish A28=YemeniteJew A29=IberianSpanish A30=Albanian A31=Crete A32=Iranian A33=Hungarian A34=Chechen A35=Armenian A36=Estonian A37=Bulgarian A38=Samaritan A39=Norwegian A40=Czech
+dimensions dimX=sub1
+sortOrder sub1=+
+shortLabel West Eurasia
+longLabel SGDP and HGDP Genomes - West Eurasia
+type bigBed 9
+allButtonPair on
+dragAndDrop subTracks
+
+	track LP6005442-DNA_B11
+	parent Humans_WestEurasia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_B11.bb
+	shortLabel LP6005442-DNA_B11_Spanish
+	longLabel LP6005442-DNA_B11_Spanish
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_A11
+	parent Humans_WestEurasia on
+	subGroups sub1=A1
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_A11.bb
+	shortLabel LP6005442-DNA_A11_Spanish
+	longLabel LP6005442-DNA_A11_Spanish
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00511
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00511.bb
+	shortLabel HGDP00511_French
+	longLabel HGDP00511_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00528
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00528.bb
+	shortLabel HGDP00528_French
+	longLabel HGDP00528_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00535
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00535.bb
+	shortLabel HGDP00535_French
+	longLabel HGDP00535_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00516
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00516.bb
+	shortLabel HGDP00516_French
+	longLabel HGDP00516_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00523
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00523.bb
+	shortLabel HGDP00523_French
+	longLabel HGDP00523_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00515
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00515.bb
+	shortLabel HGDP00515_French
+	longLabel HGDP00515_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00534
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00534.bb
+	shortLabel HGDP00534_French
+	longLabel HGDP00534_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00539
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00539.bb
+	shortLabel HGDP00539_French
+	longLabel HGDP00539_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00522
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00522.bb
+	shortLabel HGDP00522_French
+	longLabel HGDP00522_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00527
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00527.bb
+	shortLabel HGDP00527_French
+	longLabel HGDP00527_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00513
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00513.bb
+	shortLabel HGDP00513_French
+	longLabel HGDP00513_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00518
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00518.bb
+	shortLabel HGDP00518_French
+	longLabel HGDP00518_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00520
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00520.bb
+	shortLabel HGDP00520_French
+	longLabel HGDP00520_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00525
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00525.bb
+	shortLabel HGDP00525_French
+	longLabel HGDP00525_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00537
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00537.bb
+	shortLabel HGDP00537_French
+	longLabel HGDP00537_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00512
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00512.bb
+	shortLabel HGDP00512_French
+	longLabel HGDP00512_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00529
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00529.bb
+	shortLabel HGDP00529_French
+	longLabel HGDP00529_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00531
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00531.bb
+	shortLabel HGDP00531_French
+	longLabel HGDP00531_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00536
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00536.bb
+	shortLabel HGDP00536_French
+	longLabel HGDP00536_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00517
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00517.bb
+	shortLabel HGDP00517_French
+	longLabel HGDP00517_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00524
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00524.bb
+	shortLabel HGDP00524_French
+	longLabel HGDP00524_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00538
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00538.bb
+	shortLabel HGDP00538_French
+	longLabel HGDP00538_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00514
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00514.bb
+	shortLabel HGDP00514_French
+	longLabel HGDP00514_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00519
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00519.bb
+	shortLabel HGDP00519_French
+	longLabel HGDP00519_French
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_A05
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_A05.bb
+	shortLabel LP6005441-DNA_A05_French
+	longLabel LP6005441-DNA_A05_French
+	type bigBed 9
+	itemRgb on
+
+	track SS6004468
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/SS6004468.bb
+	shortLabel SS6004468_French
+	longLabel SS6004468_French
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B05
+	parent Humans_WestEurasia on
+	subGroups sub1=A2
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_B05.bb
+	shortLabel LP6005441-DNA_B05_French
+	longLabel LP6005441-DNA_B05_French
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00643
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00643.bb
+	shortLabel HGDP00643_Bedouin
+	longLabel HGDP00643_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00648
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00648.bb
+	shortLabel HGDP00648_Bedouin
+	longLabel HGDP00648_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00631
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00631.bb
+	shortLabel HGDP00631_Bedouin
+	longLabel HGDP00631_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00636
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00636.bb
+	shortLabel HGDP00636_Bedouin
+	longLabel HGDP00636_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00624
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00624.bb
+	shortLabel HGDP00624_Bedouin
+	longLabel HGDP00624_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00629
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00629.bb
+	shortLabel HGDP00629_Bedouin
+	longLabel HGDP00629_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00612
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00612.bb
+	shortLabel HGDP00612_Bedouin
+	longLabel HGDP00612_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00701
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00701.bb
+	shortLabel HGDP00701_Bedouin
+	longLabel HGDP00701_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00630
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00630.bb
+	shortLabel HGDP00630_Bedouin
+	longLabel HGDP00630_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00635
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00635.bb
+	shortLabel HGDP00635_Bedouin
+	longLabel HGDP00635_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00623
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00623.bb
+	shortLabel HGDP00623_Bedouin
+	longLabel HGDP00623_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00628
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00628.bb
+	shortLabel HGDP00628_Bedouin
+	longLabel HGDP00628_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00609
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00609.bb
+	shortLabel HGDP00609_Bedouin
+	longLabel HGDP00609_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00611
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00611.bb
+	shortLabel HGDP00611_Bedouin
+	longLabel HGDP00611_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00654
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00654.bb
+	shortLabel HGDP00654_Bedouin
+	longLabel HGDP00654_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00642
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00642.bb
+	shortLabel HGDP00642_Bedouin
+	longLabel HGDP00642_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00647
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00647.bb
+	shortLabel HGDP00647_Bedouin
+	longLabel HGDP00647_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00607
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00607.bb
+	shortLabel HGDP00607_Bedouin
+	longLabel HGDP00607_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00614
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00614.bb
+	shortLabel HGDP00614_Bedouin
+	longLabel HGDP00614_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00619
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00619.bb
+	shortLabel HGDP00619_Bedouin
+	longLabel HGDP00619_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00640
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00640.bb
+	shortLabel HGDP00640_Bedouin
+	longLabel HGDP00640_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00645
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00645.bb
+	shortLabel HGDP00645_Bedouin
+	longLabel HGDP00645_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00621
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00621.bb
+	shortLabel HGDP00621_Bedouin
+	longLabel HGDP00621_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00626
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00626.bb
+	shortLabel HGDP00626_Bedouin
+	longLabel HGDP00626_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00638
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00638.bb
+	shortLabel HGDP00638_Bedouin
+	longLabel HGDP00638_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00649
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00649.bb
+	shortLabel HGDP00649_Bedouin
+	longLabel HGDP00649_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00651
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00651.bb
+	shortLabel HGDP00651_Bedouin
+	longLabel HGDP00651_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00613
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00613.bb
+	shortLabel HGDP00613_Bedouin
+	longLabel HGDP00613_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00618
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00618.bb
+	shortLabel HGDP00618_Bedouin
+	longLabel HGDP00618_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00620
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00620.bb
+	shortLabel HGDP00620_Bedouin
+	longLabel HGDP00620_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00632
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00632.bb
+	shortLabel HGDP00632_Bedouin
+	longLabel HGDP00632_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00637
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00637.bb
+	shortLabel HGDP00637_Bedouin
+	longLabel HGDP00637_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00644
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00644.bb
+	shortLabel HGDP00644_Bedouin
+	longLabel HGDP00644_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00625
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00625.bb
+	shortLabel HGDP00625_Bedouin
+	longLabel HGDP00625_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00608
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00608.bb
+	shortLabel HGDP00608_Bedouin
+	longLabel HGDP00608_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00610
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00610.bb
+	shortLabel HGDP00610_Bedouin
+	longLabel HGDP00610_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00615
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00615.bb
+	shortLabel HGDP00615_Bedouin
+	longLabel HGDP00615_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00634
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00634.bb
+	shortLabel HGDP00634_Bedouin
+	longLabel HGDP00634_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00639
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00639.bb
+	shortLabel HGDP00639_Bedouin
+	longLabel HGDP00639_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00641
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00641.bb
+	shortLabel HGDP00641_Bedouin
+	longLabel HGDP00641_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00646
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00646.bb
+	shortLabel HGDP00646_Bedouin
+	longLabel HGDP00646_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00622
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00622.bb
+	shortLabel HGDP00622_Bedouin
+	longLabel HGDP00622_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00627
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00627.bb
+	shortLabel HGDP00627_Bedouin
+	longLabel HGDP00627_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00653
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00653.bb
+	shortLabel HGDP00653_Bedouin
+	longLabel HGDP00653_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_E02
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_E02.bb
+	shortLabel LP6005441-DNA_E02_Bedouin
+	longLabel LP6005441-DNA_E02_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_F02
+	parent Humans_WestEurasia on
+	subGroups sub1=A3
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_F02.bb
+	shortLabel LP6005441-DNA_F02_Bedouin
+	longLabel LP6005441-DNA_F02_Bedouin
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00578
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00578.bb
+	shortLabel HGDP00578_Druze
+	longLabel HGDP00578_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00580
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00580.bb
+	shortLabel HGDP00580_Druze
+	longLabel HGDP00580_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00559
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00559.bb
+	shortLabel HGDP00559_Druze
+	longLabel HGDP00559_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00561
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00561.bb
+	shortLabel HGDP00561_Druze
+	longLabel HGDP00561_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00566
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00566.bb
+	shortLabel HGDP00566_Druze
+	longLabel HGDP00566_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00573
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00573.bb
+	shortLabel HGDP00573_Druze
+	longLabel HGDP00573_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00600
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00600.bb
+	shortLabel HGDP00600_Druze
+	longLabel HGDP00600_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00558
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00558.bb
+	shortLabel HGDP00558_Druze
+	longLabel HGDP00558_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00560
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00560.bb
+	shortLabel HGDP00560_Druze
+	longLabel HGDP00560_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00565
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00565.bb
+	shortLabel HGDP00565_Druze
+	longLabel HGDP00565_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00572
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00572.bb
+	shortLabel HGDP00572_Druze
+	longLabel HGDP00572_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00584
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00584.bb
+	shortLabel HGDP00584_Druze
+	longLabel HGDP00584_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00591
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00591.bb
+	shortLabel HGDP00591_Druze
+	longLabel HGDP00591_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00577
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00577.bb
+	shortLabel HGDP00577_Druze
+	longLabel HGDP00577_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00604
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00604.bb
+	shortLabel HGDP00604_Druze
+	longLabel HGDP00604_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00563
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00563.bb
+	shortLabel HGDP00563_Druze
+	longLabel HGDP00563_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00599
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00599.bb
+	shortLabel HGDP00599_Druze
+	longLabel HGDP00599_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00602
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00602.bb
+	shortLabel HGDP00602_Druze
+	longLabel HGDP00602_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00582
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00582.bb
+	shortLabel HGDP00582_Druze
+	longLabel HGDP00582_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00587
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00587.bb
+	shortLabel HGDP00587_Druze
+	longLabel HGDP00587_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00594
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00594.bb
+	shortLabel HGDP00594_Druze
+	longLabel HGDP00594_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00575
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00575.bb
+	shortLabel HGDP00575_Druze
+	longLabel HGDP00575_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00568
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00568.bb
+	shortLabel HGDP00568_Druze
+	longLabel HGDP00568_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00562
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00562.bb
+	shortLabel HGDP00562_Druze
+	longLabel HGDP00562_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00579
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00579.bb
+	shortLabel HGDP00579_Druze
+	longLabel HGDP00579_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00581
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00581.bb
+	shortLabel HGDP00581_Druze
+	longLabel HGDP00581_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00567
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00567.bb
+	shortLabel HGDP00567_Druze
+	longLabel HGDP00567_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00574
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00574.bb
+	shortLabel HGDP00574_Druze
+	longLabel HGDP00574_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00598
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00598.bb
+	shortLabel HGDP00598_Druze
+	longLabel HGDP00598_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00601
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00601.bb
+	shortLabel HGDP00601_Druze
+	longLabel HGDP00601_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00606
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00606.bb
+	shortLabel HGDP00606_Druze
+	longLabel HGDP00606_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00586
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00586.bb
+	shortLabel HGDP00586_Druze
+	longLabel HGDP00586_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00583
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00583.bb
+	shortLabel HGDP00583_Druze
+	longLabel HGDP00583_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00588
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00588.bb
+	shortLabel HGDP00588_Druze
+	longLabel HGDP00588_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00590
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00590.bb
+	shortLabel HGDP00590_Druze
+	longLabel HGDP00590_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00595
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00595.bb
+	shortLabel HGDP00595_Druze
+	longLabel HGDP00595_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00564
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00564.bb
+	shortLabel HGDP00564_Druze
+	longLabel HGDP00564_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00571
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00571.bb
+	shortLabel HGDP00571_Druze
+	longLabel HGDP00571_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00557
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00557.bb
+	shortLabel HGDP00557_Druze
+	longLabel HGDP00557_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00576
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00576.bb
+	shortLabel HGDP00576_Druze
+	longLabel HGDP00576_Druze
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_D01
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005443-DNA_D01.bb
+	shortLabel LP6005443-DNA_D01_Druze
+	longLabel LP6005443-DNA_D01_Druze
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G04
+	parent Humans_WestEurasia on
+	subGroups sub1=A4
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_G04.bb
+	shortLabel LP6005441-DNA_G04_Druze
+	longLabel LP6005441-DNA_G04_Druze
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00679
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00679.bb
+	shortLabel HGDP00679_Palestinian
+	longLabel HGDP00679_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00686
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00686.bb
+	shortLabel HGDP00686_Palestinian
+	longLabel HGDP00686_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00693
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00693.bb
+	shortLabel HGDP00693_Palestinian
+	longLabel HGDP00693_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00698
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00698.bb
+	shortLabel HGDP00698_Palestinian
+	longLabel HGDP00698_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00744
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00744.bb
+	shortLabel HGDP00744_Palestinian
+	longLabel HGDP00744_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00732
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00732.bb
+	shortLabel HGDP00732_Palestinian
+	longLabel HGDP00732_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00678
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00678.bb
+	shortLabel HGDP00678_Palestinian
+	longLabel HGDP00678_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00680
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00680.bb
+	shortLabel HGDP00680_Palestinian
+	longLabel HGDP00680_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00685
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00685.bb
+	shortLabel HGDP00685_Palestinian
+	longLabel HGDP00685_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00724
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00724.bb
+	shortLabel HGDP00724_Palestinian
+	longLabel HGDP00724_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00729
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00729.bb
+	shortLabel HGDP00729_Palestinian
+	longLabel HGDP00729_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00731
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00731.bb
+	shortLabel HGDP00731_Palestinian
+	longLabel HGDP00731_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00697
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00697.bb
+	shortLabel HGDP00697_Palestinian
+	longLabel HGDP00697_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00700
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00700.bb
+	shortLabel HGDP00700_Palestinian
+	longLabel HGDP00700_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00736
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00736.bb
+	shortLabel HGDP00736_Palestinian
+	longLabel HGDP00736_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00692
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00692.bb
+	shortLabel HGDP00692_Palestinian
+	longLabel HGDP00692_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00676
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00676.bb
+	shortLabel HGDP00676_Palestinian
+	longLabel HGDP00676_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00734
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00734.bb
+	shortLabel HGDP00734_Palestinian
+	longLabel HGDP00734_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00739
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00739.bb
+	shortLabel HGDP00739_Palestinian
+	longLabel HGDP00739_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00741
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00741.bb
+	shortLabel HGDP00741_Palestinian
+	longLabel HGDP00741_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00746
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00746.bb
+	shortLabel HGDP00746_Palestinian
+	longLabel HGDP00746_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00688
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00688.bb
+	shortLabel HGDP00688_Palestinian
+	longLabel HGDP00688_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00690
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00690.bb
+	shortLabel HGDP00690_Palestinian
+	longLabel HGDP00690_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00683
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00683.bb
+	shortLabel HGDP00683_Palestinian
+	longLabel HGDP00683_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00727
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00727.bb
+	shortLabel HGDP00727_Palestinian
+	longLabel HGDP00727_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00675
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00675.bb
+	shortLabel HGDP00675_Palestinian
+	longLabel HGDP00675_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00682
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00682.bb
+	shortLabel HGDP00682_Palestinian
+	longLabel HGDP00682_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00745
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00745.bb
+	shortLabel HGDP00745_Palestinian
+	longLabel HGDP00745_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00738
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00738.bb
+	shortLabel HGDP00738_Palestinian
+	longLabel HGDP00738_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00740
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00740.bb
+	shortLabel HGDP00740_Palestinian
+	longLabel HGDP00740_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00687
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00687.bb
+	shortLabel HGDP00687_Palestinian
+	longLabel HGDP00687_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00694
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00694.bb
+	shortLabel HGDP00694_Palestinian
+	longLabel HGDP00694_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00726
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00726.bb
+	shortLabel HGDP00726_Palestinian
+	longLabel HGDP00726_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00733
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00733.bb
+	shortLabel HGDP00733_Palestinian
+	longLabel HGDP00733_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00699
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00699.bb
+	shortLabel HGDP00699_Palestinian
+	longLabel HGDP00699_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00689
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00689.bb
+	shortLabel HGDP00689_Palestinian
+	longLabel HGDP00689_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00691
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00691.bb
+	shortLabel HGDP00691_Palestinian
+	longLabel HGDP00691_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00696
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00696.bb
+	shortLabel HGDP00696_Palestinian
+	longLabel HGDP00696_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00677
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00677.bb
+	shortLabel HGDP00677_Palestinian
+	longLabel HGDP00677_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00684
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00684.bb
+	shortLabel HGDP00684_Palestinian
+	longLabel HGDP00684_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00723
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00723.bb
+	shortLabel HGDP00723_Palestinian
+	longLabel HGDP00723_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00735
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00735.bb
+	shortLabel HGDP00735_Palestinian
+	longLabel HGDP00735_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00730
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00730.bb
+	shortLabel HGDP00730_Palestinian
+	longLabel HGDP00730_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_B03
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_B03.bb
+	shortLabel LP6005592-DNA_B03_Palestinian
+	longLabel LP6005592-DNA_B03_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G09
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_G09.bb
+	shortLabel LP6005441-DNA_G09_Palestinian
+	longLabel LP6005441-DNA_G09_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H09
+	parent Humans_WestEurasia on
+	subGroups sub1=A5
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_H09.bb
+	shortLabel LP6005441-DNA_H09_Palestinian
+	longLabel LP6005441-DNA_H09_Palestinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00794
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00794.bb
+	shortLabel HGDP00794_Orcadian
+	longLabel HGDP00794_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00799
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00799.bb
+	shortLabel HGDP00799_Orcadian
+	longLabel HGDP00799_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00802
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00802.bb
+	shortLabel HGDP00802_Orcadian
+	longLabel HGDP00802_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00807
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00807.bb
+	shortLabel HGDP00807_Orcadian
+	longLabel HGDP00807_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00806
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00806.bb
+	shortLabel HGDP00806_Orcadian
+	longLabel HGDP00806_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00804
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00804.bb
+	shortLabel HGDP00804_Orcadian
+	longLabel HGDP00804_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00795
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00795.bb
+	shortLabel HGDP00795_Orcadian
+	longLabel HGDP00795_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00803
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00803.bb
+	shortLabel HGDP00803_Orcadian
+	longLabel HGDP00803_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00808
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00808.bb
+	shortLabel HGDP00808_Orcadian
+	longLabel HGDP00808_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00810
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00810.bb
+	shortLabel HGDP00810_Orcadian
+	longLabel HGDP00810_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00797
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00797.bb
+	shortLabel HGDP00797_Orcadian
+	longLabel HGDP00797_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00800
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00800.bb
+	shortLabel HGDP00800_Orcadian
+	longLabel HGDP00800_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00805
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00805.bb
+	shortLabel HGDP00805_Orcadian
+	longLabel HGDP00805_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D09
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_D09.bb
+	shortLabel LP6005441-DNA_D09_Orcadian
+	longLabel LP6005441-DNA_D09_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_C09
+	parent Humans_WestEurasia on
+	subGroups sub1=A6
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_C09.bb
+	shortLabel LP6005441-DNA_C09_Orcadian
+	longLabel LP6005441-DNA_C09_Orcadian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00667
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00667.bb
+	shortLabel HGDP00667_Sardinian
+	longLabel HGDP00667_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00674
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00674.bb
+	shortLabel HGDP00674_Sardinian
+	longLabel HGDP00674_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00666
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00666.bb
+	shortLabel HGDP00666_Sardinian
+	longLabel HGDP00666_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01064
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01064.bb
+	shortLabel HGDP01064_Sardinian
+	longLabel HGDP01064_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01069
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01069.bb
+	shortLabel HGDP01069_Sardinian
+	longLabel HGDP01069_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01071
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01071.bb
+	shortLabel HGDP01071_Sardinian
+	longLabel HGDP01071_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00673
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00673.bb
+	shortLabel HGDP00673_Sardinian
+	longLabel HGDP00673_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01075
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01075.bb
+	shortLabel HGDP01075_Sardinian
+	longLabel HGDP01075_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01063
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01063.bb
+	shortLabel HGDP01063_Sardinian
+	longLabel HGDP01063_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01068
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01068.bb
+	shortLabel HGDP01068_Sardinian
+	longLabel HGDP01068_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01070
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01070.bb
+	shortLabel HGDP01070_Sardinian
+	longLabel HGDP01070_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00669
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00669.bb
+	shortLabel HGDP00669_Sardinian
+	longLabel HGDP00669_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00671
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00671.bb
+	shortLabel HGDP00671_Sardinian
+	longLabel HGDP00671_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01066
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01066.bb
+	shortLabel HGDP01066_Sardinian
+	longLabel HGDP01066_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01073
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01073.bb
+	shortLabel HGDP01073_Sardinian
+	longLabel HGDP01073_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00668
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00668.bb
+	shortLabel HGDP00668_Sardinian
+	longLabel HGDP00668_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00670
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00670.bb
+	shortLabel HGDP00670_Sardinian
+	longLabel HGDP00670_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01065
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01065.bb
+	shortLabel HGDP01065_Sardinian
+	longLabel HGDP01065_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01072
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01072.bb
+	shortLabel HGDP01072_Sardinian
+	longLabel HGDP01072_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01077
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01077.bb
+	shortLabel HGDP01077_Sardinian
+	longLabel HGDP01077_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00672
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00672.bb
+	shortLabel HGDP00672_Sardinian
+	longLabel HGDP00672_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01074
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01074.bb
+	shortLabel HGDP01074_Sardinian
+	longLabel HGDP01074_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01062
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01062.bb
+	shortLabel HGDP01062_Sardinian
+	longLabel HGDP01062_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01067
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01067.bb
+	shortLabel HGDP01067_Sardinian
+	longLabel HGDP01067_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track SS6004474
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/SS6004474.bb
+	shortLabel SS6004474_Sardinian
+	longLabel SS6004474_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D11
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_D11.bb
+	shortLabel LP6005441-DNA_D11_Sardinian
+	longLabel LP6005441-DNA_D11_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_C11
+	parent Humans_WestEurasia on
+	subGroups sub1=A7
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_C11.bb
+	shortLabel LP6005441-DNA_C11_Sardinian
+	longLabel LP6005441-DNA_C11_Sardinian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00888
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00888.bb
+	shortLabel HGDP00888_Russian
+	longLabel HGDP00888_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00890
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00890.bb
+	shortLabel HGDP00890_Russian
+	longLabel HGDP00890_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00895
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00895.bb
+	shortLabel HGDP00895_Russian
+	longLabel HGDP00895_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00883
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00883.bb
+	shortLabel HGDP00883_Russian
+	longLabel HGDP00883_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00899
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00899.bb
+	shortLabel HGDP00899_Russian
+	longLabel HGDP00899_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00902
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00902.bb
+	shortLabel HGDP00902_Russian
+	longLabel HGDP00902_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00894
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00894.bb
+	shortLabel HGDP00894_Russian
+	longLabel HGDP00894_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00882
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00882.bb
+	shortLabel HGDP00882_Russian
+	longLabel HGDP00882_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00880
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00880.bb
+	shortLabel HGDP00880_Russian
+	longLabel HGDP00880_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00885
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00885.bb
+	shortLabel HGDP00885_Russian
+	longLabel HGDP00885_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00900
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00900.bb
+	shortLabel HGDP00900_Russian
+	longLabel HGDP00900_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00892
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00892.bb
+	shortLabel HGDP00892_Russian
+	longLabel HGDP00892_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00897
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00897.bb
+	shortLabel HGDP00897_Russian
+	longLabel HGDP00897_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00889
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00889.bb
+	shortLabel HGDP00889_Russian
+	longLabel HGDP00889_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00891
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00891.bb
+	shortLabel HGDP00891_Russian
+	longLabel HGDP00891_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00896
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00896.bb
+	shortLabel HGDP00896_Russian
+	longLabel HGDP00896_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00884
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00884.bb
+	shortLabel HGDP00884_Russian
+	longLabel HGDP00884_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00898
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00898.bb
+	shortLabel HGDP00898_Russian
+	longLabel HGDP00898_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00901
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00901.bb
+	shortLabel HGDP00901_Russian
+	longLabel HGDP00901_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00879
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00879.bb
+	shortLabel HGDP00879_Russian
+	longLabel HGDP00879_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00881
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00881.bb
+	shortLabel HGDP00881_Russian
+	longLabel HGDP00881_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00886
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00886.bb
+	shortLabel HGDP00886_Russian
+	longLabel HGDP00886_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP00893
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP00893.bb
+	shortLabel HGDP00893_Russian
+	longLabel HGDP00893_Russian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H10
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_H10.bb
+	shortLabel LP6005441-DNA_H10_Russian
+	longLabel LP6005441-DNA_H10_Russian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G10
+	parent Humans_WestEurasia on
+	subGroups sub1=A8
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_G10.bb
+	shortLabel LP6005441-DNA_G10_Russian
+	longLabel LP6005441-DNA_G10_Russian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01261
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01261.bb
+	shortLabel HGDP01261_Mozabite
+	longLabel HGDP01261_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01266
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01266.bb
+	shortLabel HGDP01266_Mozabite
+	longLabel HGDP01266_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01254
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01254.bb
+	shortLabel HGDP01254_Mozabite
+	longLabel HGDP01254_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01259
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01259.bb
+	shortLabel HGDP01259_Mozabite
+	longLabel HGDP01259_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01273
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01273.bb
+	shortLabel HGDP01273_Mozabite
+	longLabel HGDP01273_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01280
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01280.bb
+	shortLabel HGDP01280_Mozabite
+	longLabel HGDP01280_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01272
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01272.bb
+	shortLabel HGDP01272_Mozabite
+	longLabel HGDP01272_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01277
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01277.bb
+	shortLabel HGDP01277_Mozabite
+	longLabel HGDP01277_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01258
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01258.bb
+	shortLabel HGDP01258_Mozabite
+	longLabel HGDP01258_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01260
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01260.bb
+	shortLabel HGDP01260_Mozabite
+	longLabel HGDP01260_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01265
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01265.bb
+	shortLabel HGDP01265_Mozabite
+	longLabel HGDP01265_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01256
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01256.bb
+	shortLabel HGDP01256_Mozabite
+	longLabel HGDP01256_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01263
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01263.bb
+	shortLabel HGDP01263_Mozabite
+	longLabel HGDP01263_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01268
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01268.bb
+	shortLabel HGDP01268_Mozabite
+	longLabel HGDP01268_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01270
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01270.bb
+	shortLabel HGDP01270_Mozabite
+	longLabel HGDP01270_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01275
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01275.bb
+	shortLabel HGDP01275_Mozabite
+	longLabel HGDP01275_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01282
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01282.bb
+	shortLabel HGDP01282_Mozabite
+	longLabel HGDP01282_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01255
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01255.bb
+	shortLabel HGDP01255_Mozabite
+	longLabel HGDP01255_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01262
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01262.bb
+	shortLabel HGDP01262_Mozabite
+	longLabel HGDP01262_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01267
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01267.bb
+	shortLabel HGDP01267_Mozabite
+	longLabel HGDP01267_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01279
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01279.bb
+	shortLabel HGDP01279_Mozabite
+	longLabel HGDP01279_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01257
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01257.bb
+	shortLabel HGDP01257_Mozabite
+	longLabel HGDP01257_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01271
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01271.bb
+	shortLabel HGDP01271_Mozabite
+	longLabel HGDP01271_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01276
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01276.bb
+	shortLabel HGDP01276_Mozabite
+	longLabel HGDP01276_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01264
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01264.bb
+	shortLabel HGDP01264_Mozabite
+	longLabel HGDP01264_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01269
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01269.bb
+	shortLabel HGDP01269_Mozabite
+	longLabel HGDP01269_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H08
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_H08.bb
+	shortLabel LP6005441-DNA_H08_Mozabite
+	longLabel LP6005441-DNA_H08_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G08
+	parent Humans_WestEurasia on
+	subGroups sub1=A9
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_G08.bb
+	shortLabel LP6005441-DNA_G08_Mozabite
+	longLabel LP6005441-DNA_G08_Mozabite
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01374
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01374.bb
+	shortLabel HGDP01374_Basque
+	longLabel HGDP01374_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01379
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01379.bb
+	shortLabel HGDP01379_Basque
+	longLabel HGDP01379_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01362
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01362.bb
+	shortLabel HGDP01362_Basque
+	longLabel HGDP01362_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01367
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01367.bb
+	shortLabel HGDP01367_Basque
+	longLabel HGDP01367_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01359
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01359.bb
+	shortLabel HGDP01359_Basque
+	longLabel HGDP01359_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01361
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01361.bb
+	shortLabel HGDP01361_Basque
+	longLabel HGDP01361_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01378
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01378.bb
+	shortLabel HGDP01378_Basque
+	longLabel HGDP01378_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01380
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01380.bb
+	shortLabel HGDP01380_Basque
+	longLabel HGDP01380_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01366
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01366.bb
+	shortLabel HGDP01366_Basque
+	longLabel HGDP01366_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01373
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01373.bb
+	shortLabel HGDP01373_Basque
+	longLabel HGDP01373_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01357
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01357.bb
+	shortLabel HGDP01357_Basque
+	longLabel HGDP01357_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01369
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01369.bb
+	shortLabel HGDP01369_Basque
+	longLabel HGDP01369_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01371
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01371.bb
+	shortLabel HGDP01371_Basque
+	longLabel HGDP01371_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01376
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01376.bb
+	shortLabel HGDP01376_Basque
+	longLabel HGDP01376_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01375
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01375.bb
+	shortLabel HGDP01375_Basque
+	longLabel HGDP01375_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01363
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01363.bb
+	shortLabel HGDP01363_Basque
+	longLabel HGDP01363_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01368
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01368.bb
+	shortLabel HGDP01368_Basque
+	longLabel HGDP01368_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01370
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01370.bb
+	shortLabel HGDP01370_Basque
+	longLabel HGDP01370_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01358
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01358.bb
+	shortLabel HGDP01358_Basque
+	longLabel HGDP01358_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01360
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01360.bb
+	shortLabel HGDP01360_Basque
+	longLabel HGDP01360_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01372
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01372.bb
+	shortLabel HGDP01372_Basque
+	longLabel HGDP01372_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01377
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01377.bb
+	shortLabel HGDP01377_Basque
+	longLabel HGDP01377_Basque
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_D02
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_D02.bb
+	shortLabel LP6005441-DNA_D02_Basque
+	longLabel LP6005441-DNA_D02_Basque
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_C02
+	parent Humans_WestEurasia on
+	subGroups sub1=A10
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_C02.bb
+	shortLabel LP6005441-DNA_C02_Basque
+	longLabel LP6005441-DNA_C02_Basque
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01381
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01381.bb
+	shortLabel HGDP01381_Adygei
+	longLabel HGDP01381_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01386
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01386.bb
+	shortLabel HGDP01386_Adygei
+	longLabel HGDP01386_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01398
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01398.bb
+	shortLabel HGDP01398_Adygei
+	longLabel HGDP01398_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01385
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01385.bb
+	shortLabel HGDP01385_Adygei
+	longLabel HGDP01385_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01397
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01397.bb
+	shortLabel HGDP01397_Adygei
+	longLabel HGDP01397_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01400
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01400.bb
+	shortLabel HGDP01400_Adygei
+	longLabel HGDP01400_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01403
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01403.bb
+	shortLabel HGDP01403_Adygei
+	longLabel HGDP01403_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01383
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01383.bb
+	shortLabel HGDP01383_Adygei
+	longLabel HGDP01383_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01388
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01388.bb
+	shortLabel HGDP01388_Adygei
+	longLabel HGDP01388_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01382
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01382.bb
+	shortLabel HGDP01382_Adygei
+	longLabel HGDP01382_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01387
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01387.bb
+	shortLabel HGDP01387_Adygei
+	longLabel HGDP01387_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01399
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01399.bb
+	shortLabel HGDP01399_Adygei
+	longLabel HGDP01399_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01404
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01404.bb
+	shortLabel HGDP01404_Adygei
+	longLabel HGDP01404_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01384
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01384.bb
+	shortLabel HGDP01384_Adygei
+	longLabel HGDP01384_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01396
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01396.bb
+	shortLabel HGDP01396_Adygei
+	longLabel HGDP01396_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B01
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_B01.bb
+	shortLabel LP6005441-DNA_B01_Adygei
+	longLabel LP6005441-DNA_B01_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_A01
+	parent Humans_WestEurasia on
+	subGroups sub1=A11
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_A01.bb
+	shortLabel LP6005441-DNA_A01_Adygei
+	longLabel LP6005441-DNA_A01_Adygei
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01164
+	parent Humans_WestEurasia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01164.bb
+	shortLabel HGDP01164_Tuscan
+	longLabel HGDP01164_Tuscan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01169
+	parent Humans_WestEurasia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01169.bb
+	shortLabel HGDP01169_Tuscan
+	longLabel HGDP01169_Tuscan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01167
+	parent Humans_WestEurasia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01167.bb
+	shortLabel HGDP01167_Tuscan
+	longLabel HGDP01167_Tuscan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01162
+	parent Humans_WestEurasia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01162.bb
+	shortLabel HGDP01162_Tuscan
+	longLabel HGDP01162_Tuscan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01166
+	parent Humans_WestEurasia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01166.bb
+	shortLabel HGDP01166_Tuscan
+	longLabel HGDP01166_Tuscan
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01161
+	parent Humans_WestEurasia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01161.bb
+	shortLabel HGDP01161_Tuscan
+	longLabel HGDP01161_Tuscan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_G12
+	parent Humans_WestEurasia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_G12.bb
+	shortLabel LP6005441-DNA_G12_Tuscan
+	longLabel LP6005441-DNA_G12_Tuscan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_H12
+	parent Humans_WestEurasia on
+	subGroups sub1=A12
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_H12.bb
+	shortLabel LP6005441-DNA_H12_Tuscan
+	longLabel LP6005441-DNA_H12_Tuscan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_F10
+	parent Humans_WestEurasia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_F10.bb
+	shortLabel LP6005442-DNA_F10_English
+	longLabel LP6005442-DNA_F10_English
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_E10
+	parent Humans_WestEurasia on
+	subGroups sub1=A13
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_E10.bb
+	shortLabel LP6005442-DNA_E10_English
+	longLabel LP6005442-DNA_E10_English
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_A02
+	parent Humans_WestEurasia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_A02.bb
+	shortLabel LP6005592-DNA_A02_Finnish
+	longLabel LP6005592-DNA_A02_Finnish
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_C10
+	parent Humans_WestEurasia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_C10.bb
+	shortLabel LP6005442-DNA_C10_Finnish
+	longLabel LP6005442-DNA_C10_Finnish
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_D10
+	parent Humans_WestEurasia on
+	subGroups sub1=A14
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_D10.bb
+	shortLabel LP6005442-DNA_D10_Finnish
+	longLabel LP6005442-DNA_D10_Finnish
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_E02
+	parent Humans_WestEurasia on
+	subGroups sub1=A15
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_E02.bb
+	shortLabel LP6005592-DNA_E02_Polish
+	longLabel LP6005592-DNA_E02_Polish
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_A06
+	parent Humans_WestEurasia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005443-DNA_A06.bb
+	shortLabel LP6005443-DNA_A06_Greek
+	longLabel LP6005443-DNA_A06_Greek
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_G07
+	parent Humans_WestEurasia on
+	subGroups sub1=A16
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_G07.bb
+	shortLabel LP6005442-DNA_G07_Greek
+	longLabel LP6005442-DNA_G07_Greek
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01177
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01177.bb
+	shortLabel HGDP01177_BergamoItalian
+	longLabel HGDP01177_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01152
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01152.bb
+	shortLabel HGDP01152_BergamoItalian
+	longLabel HGDP01152_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01157
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01157.bb
+	shortLabel HGDP01157_BergamoItalian
+	longLabel HGDP01157_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01171
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01171.bb
+	shortLabel HGDP01171_BergamoItalian
+	longLabel HGDP01171_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01174
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01174.bb
+	shortLabel HGDP01174_BergamoItalian
+	longLabel HGDP01174_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01155
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01155.bb
+	shortLabel HGDP01155_BergamoItalian
+	longLabel HGDP01155_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01173
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01173.bb
+	shortLabel HGDP01173_BergamoItalian
+	longLabel HGDP01173_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01149
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01149.bb
+	shortLabel HGDP01149_BergamoItalian
+	longLabel HGDP01149_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01151
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01151.bb
+	shortLabel HGDP01151_BergamoItalian
+	longLabel HGDP01151_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track HGDP01156
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/HGDP01156.bb
+	shortLabel HGDP01156_BergamoItalian
+	longLabel HGDP01156_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005441-DNA_B06
+	parent Humans_WestEurasia on
+	subGroups sub1=A17
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005441-DNA_B06.bb
+	shortLabel LP6005441-DNA_B06_BergamoItalian
+	longLabel LP6005441-DNA_B06_BergamoItalian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_B06
+	parent Humans_WestEurasia on
+	subGroups sub1=A18
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005443-DNA_B06.bb
+	shortLabel LP6005443-DNA_B06_Icelandic
+	longLabel LP6005443-DNA_B06_Icelandic
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_D08
+	parent Humans_WestEurasia on
+	subGroups sub1=A18
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_D08.bb
+	shortLabel LP6005442-DNA_D08_Icelandic
+	longLabel LP6005442-DNA_D08_Icelandic
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_H04
+	parent Humans_WestEurasia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_H04.bb
+	shortLabel LP6005442-DNA_H04_Lezgin
+	longLabel LP6005442-DNA_H04_Lezgin
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_G04
+	parent Humans_WestEurasia on
+	subGroups sub1=A19
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_G04.bb
+	shortLabel LP6005442-DNA_G04_Lezgin
+	longLabel LP6005442-DNA_G04_Lezgin
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_G03
+	parent Humans_WestEurasia on
+	subGroups sub1=A20
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_G03.bb
+	shortLabel LP6005592-DNA_G03_Jordanian
+	longLabel LP6005592-DNA_G03_Jordanian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_F04
+	parent Humans_WestEurasia on
+	subGroups sub1=A20
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_F04.bb
+	shortLabel LP6005442-DNA_F04_Jordanian
+	longLabel LP6005442-DNA_F04_Jordanian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_E04
+	parent Humans_WestEurasia on
+	subGroups sub1=A20
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_E04.bb
+	shortLabel LP6005442-DNA_E04_Jordanian
+	longLabel LP6005442-DNA_E04_Jordanian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_F10
+	parent Humans_WestEurasia on
+	subGroups sub1=A21
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005443-DNA_F10.bb
+	shortLabel LP6005443-DNA_F10_NorthOssetian
+	longLabel LP6005443-DNA_F10_NorthOssetian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_E10
+	parent Humans_WestEurasia on
+	subGroups sub1=A21
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005443-DNA_E10.bb
+	shortLabel LP6005443-DNA_E10_NorthOssetian
+	longLabel LP6005443-DNA_E10_NorthOssetian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_C03
+	parent Humans_WestEurasia on
+	subGroups sub1=A22
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005519-DNA_C03.bb
+	shortLabel LP6005519-DNA_C03_Tajik
+	longLabel LP6005519-DNA_C03_Tajik
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_D03
+	parent Humans_WestEurasia on
+	subGroups sub1=A22
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005519-DNA_D03.bb
+	shortLabel LP6005519-DNA_D03_Tajik
+	longLabel LP6005519-DNA_D03_Tajik
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_D02
+	parent Humans_WestEurasia on
+	subGroups sub1=A23
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_D02.bb
+	shortLabel LP6005442-DNA_D02_Abkhasian
+	longLabel LP6005442-DNA_D02_Abkhasian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_C02
+	parent Humans_WestEurasia on
+	subGroups sub1=A23
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_C02.bb
+	shortLabel LP6005442-DNA_C02_Abkhasian
+	longLabel LP6005442-DNA_C02_Abkhasian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_E01
+	parent Humans_WestEurasia on
+	subGroups sub1=A24
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_E01.bb
+	shortLabel LP6005592-DNA_E01_IraqiJew
+	longLabel LP6005592-DNA_E01_IraqiJew
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_F01
+	parent Humans_WestEurasia on
+	subGroups sub1=A24
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_F01.bb
+	shortLabel LP6005592-DNA_F01_IraqiJew
+	longLabel LP6005592-DNA_F01_IraqiJew
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_A04
+	parent Humans_WestEurasia on
+	subGroups sub1=A25
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_A04.bb
+	shortLabel LP6005442-DNA_A04_Georgian
+	longLabel LP6005442-DNA_A04_Georgian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_B04
+	parent Humans_WestEurasia on
+	subGroups sub1=A25
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_B04.bb
+	shortLabel LP6005442-DNA_B04_Georgian
+	longLabel LP6005442-DNA_B04_Georgian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_D01
+	parent Humans_WestEurasia on
+	subGroups sub1=A26
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_D01.bb
+	shortLabel LP6005592-DNA_D01_Saami
+	longLabel LP6005592-DNA_D01_Saami
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_C01
+	parent Humans_WestEurasia on
+	subGroups sub1=A26
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_C01.bb
+	shortLabel LP6005592-DNA_C01_Saami
+	longLabel LP6005592-DNA_C01_Saami
+	type bigBed 9
+	itemRgb on
+
+	track LP6005677-DNA_C03
+	parent Humans_WestEurasia on
+	subGroups sub1=A27
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005677-DNA_C03.bb
+	shortLabel LP6005677-DNA_C03_Turkish
+	longLabel LP6005677-DNA_C03_Turkish
+	type bigBed 9
+	itemRgb on
+
+	track LP6005677-DNA_A03
+	parent Humans_WestEurasia on
+	subGroups sub1=A27
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005677-DNA_A03.bb
+	shortLabel LP6005677-DNA_A03_Turkish
+	longLabel LP6005677-DNA_A03_Turkish
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_G01
+	parent Humans_WestEurasia on
+	subGroups sub1=A28
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_G01.bb
+	shortLabel LP6005592-DNA_G01_YemeniteJew
+	longLabel LP6005592-DNA_G01_YemeniteJew
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_H01
+	parent Humans_WestEurasia on
+	subGroups sub1=A28
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_H01.bb
+	shortLabel LP6005592-DNA_H01_YemeniteJew
+	longLabel LP6005592-DNA_H01_YemeniteJew
+	type bigBed 9
+	itemRgb on
+
+	track LP6005677-DNA_B01
+	parent Humans_WestEurasia on
+	subGroups sub1=A30
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005677-DNA_B01.bb
+	shortLabel LP6005677-DNA_B01_Albanian
+	longLabel LP6005677-DNA_B01_Albanian
+	type bigBed 9
+	itemRgb on
+
+	track LP6007069-DNA_A01
+	parent Humans_WestEurasia on
+	subGroups sub1=A31
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6007069-DNA_A01.bb
+	shortLabel LP6007069-DNA_A01_Crete
+	longLabel LP6007069-DNA_A01_Crete
+	type bigBed 9
+	itemRgb on
+
+	track LP6007068-DNA_A01
+	parent Humans_WestEurasia on
+	subGroups sub1=A31
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6007068-DNA_A01.bb
+	shortLabel LP6007068-DNA_A01_Crete
+	longLabel LP6007068-DNA_A01_Crete
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_B10
+	parent Humans_WestEurasia on
+	subGroups sub1=A32
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005443-DNA_B10.bb
+	shortLabel LP6005443-DNA_B10_Iranian
+	longLabel LP6005443-DNA_B10_Iranian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_C04
+	parent Humans_WestEurasia on
+	subGroups sub1=A32
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_C04.bb
+	shortLabel LP6005442-DNA_C04_Iranian
+	longLabel LP6005442-DNA_C04_Iranian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_A08
+	parent Humans_WestEurasia on
+	subGroups sub1=A33
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_A08.bb
+	shortLabel LP6005442-DNA_A08_Hungarian
+	longLabel LP6005442-DNA_A08_Hungarian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_B08
+	parent Humans_WestEurasia on
+	subGroups sub1=A33
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_B08.bb
+	shortLabel LP6005442-DNA_B08_Hungarian
+	longLabel LP6005442-DNA_B08_Hungarian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_D03
+	parent Humans_WestEurasia on
+	subGroups sub1=A34
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_D03.bb
+	shortLabel LP6005442-DNA_D03_Chechen
+	longLabel LP6005442-DNA_D03_Chechen
+	type bigBed 9
+	itemRgb on
+
+	track LP6005519-DNA_F03
+	parent Humans_WestEurasia on
+	subGroups sub1=A35
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005519-DNA_F03.bb
+	shortLabel LP6005519-DNA_F03_Armenian
+	longLabel LP6005519-DNA_F03_Armenian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_G02
+	parent Humans_WestEurasia on
+	subGroups sub1=A35
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_G02.bb
+	shortLabel LP6005442-DNA_G02_Armenian
+	longLabel LP6005442-DNA_G02_Armenian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_H03
+	parent Humans_WestEurasia on
+	subGroups sub1=A36
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_H03.bb
+	shortLabel LP6005442-DNA_H03_Estonian
+	longLabel LP6005442-DNA_H03_Estonian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_G03
+	parent Humans_WestEurasia on
+	subGroups sub1=A36
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_G03.bb
+	shortLabel LP6005442-DNA_G03_Estonian
+	longLabel LP6005442-DNA_G03_Estonian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_B03
+	parent Humans_WestEurasia on
+	subGroups sub1=A37
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_B03.bb
+	shortLabel LP6005442-DNA_B03_Bulgarian
+	longLabel LP6005442-DNA_B03_Bulgarian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005442-DNA_A03
+	parent Humans_WestEurasia on
+	subGroups sub1=A37
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005442-DNA_A03.bb
+	shortLabel LP6005442-DNA_A03_Bulgarian
+	longLabel LP6005442-DNA_A03_Bulgarian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_D04
+	parent Humans_WestEurasia on
+	subGroups sub1=A38
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_D04.bb
+	shortLabel LP6005592-DNA_D04_Samaritan
+	longLabel LP6005592-DNA_D04_Samaritan
+	type bigBed 9
+	itemRgb on
+
+	track LP6005592-DNA_B01
+	parent Humans_WestEurasia on
+	subGroups sub1=A39
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005592-DNA_B01.bb
+	shortLabel LP6005592-DNA_B01_Norwegian
+	longLabel LP6005592-DNA_B01_Norwegian
+	type bigBed 9
+	itemRgb on
+
+	track LP6005443-DNA_H05
+	parent Humans_WestEurasia on
+	subGroups sub1=A40
+	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/Humans_WestEurasia/hg38/LP6005443-DNA_H05.bb
+	shortLabel LP6005443-DNA_H05_Czech
+	longLabel LP6005443-DNA_H05_Czech
+	type bigBed 9
+	itemRgb on
