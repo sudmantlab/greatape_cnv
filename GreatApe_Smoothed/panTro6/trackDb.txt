@@ -9,16 +9,6 @@ type bigBed 9
 allButtonPair on
 dragAndDrop subTracks
 
-
-	track VERUS_0
-	parent GreatApe_Smoothed on
-	subGroups sub1=A
-	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286212_SAMEA4374763_Pan-troglodytes-verus_female_smoothed4_ds5.bb
-	shortLabel VERUS
-	longLabel ERS1286212_SAMEA4374763_Pan-troglodytes-verus_female_smoothed4_ds5
-	type bigBed 9
-	itemRgb on
-
 	track VERUS_1
 	parent GreatApe_Smoothed on
 	subGroups sub1=A
@@ -34,24 +24,6 @@ dragAndDrop subTracks
 	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286215_SAMEA4374766_Pan-troglodytes-verus_male_smoothed4_ds5.bb
 	shortLabel VERUS
 	longLabel ERS1286215_SAMEA4374766_Pan-troglodytes-verus_male_smoothed4_ds5
-	type bigBed 9
-	itemRgb on
-
-	track VERUS_3
-	parent GreatApe_Smoothed on
-	subGroups sub1=A
-	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286214_SAMEA4374765_Pan-troglodytes-verus_male_smoothed4_ds5.bb
-	shortLabel VERUS
-	longLabel ERS1286214_SAMEA4374765_Pan-troglodytes-verus_male_smoothed4_ds5
-	type bigBed 9
-	itemRgb on
-
-	track VERUS_4
-	parent GreatApe_Smoothed on
-	subGroups sub1=A
-	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286213_SAMEA4374764_Pan-troglodytes-verus_female_smoothed4_ds5.bb
-	shortLabel VERUS
-	longLabel ERS1286213_SAMEA4374764_Pan-troglodytes-verus_female_smoothed4_ds5
 	type bigBed 9
 	itemRgb on
 
@@ -361,15 +333,6 @@ dragAndDrop subTracks
 	type bigBed 9
 	itemRgb on
 
-	track TROGLODYTES_17
-	parent GreatApe_Smoothed on
-	subGroups sub1=C
-	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286224_SAMEA4374775_Pan-troglodytes-troglodytes_female_smoothed4_ds5.bb
-	shortLabel TROGLODYTES
-	longLabel ERS1286224_SAMEA4374775_Pan-troglodytes-troglodytes_female_smoothed4_ds5
-	type bigBed 9
-	itemRgb on
-
 	track SCHWEINFURTHII_0
 	parent GreatApe_Smoothed on
 	subGroups sub1=D
@@ -493,15 +456,6 @@ dragAndDrop subTracks
 	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/SRS394779_Andromeda_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5.bb
 	shortLabel SCHWEINFURTHII
 	longLabel SRS394779_Andromeda_Pan-troglodytes-schweinfurthii_female_smoothed4_ds5
-	type bigBed 9
-	itemRgb on
-
-	track SCHWEINFURTHII_14
-	parent GreatApe_Smoothed on
-	subGroups sub1=D
-	bigDataUrl https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_Smoothed/panTro6/ERS1286236_SAMEA4374787_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5.bb
-	shortLabel SCHWEINFURTHII
-	longLabel ERS1286236_SAMEA4374787_Pan-troglodytes-schweinfurthii_male_smoothed4_ds5
 	type bigBed 9
 	itemRgb on
 
