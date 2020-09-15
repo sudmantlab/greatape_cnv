@@ -1,0 +1,5 @@
+hub GreatApe_SVs_50kb
+shortLabel Chimpanzee Structural Variants (50kb or more from HMM)
+longLabel Chimpanzee Structural Variants (50kb or more from HMM)
+genomesFile https://github.com/sudmantlab/greatape_cnv/raw/master/GreatApe_SVs_50kb/genomes.txt
+email almahalgren@berkeley.edu
