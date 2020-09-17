@@ -21,7 +21,7 @@ def cn_table(args):
 
     og_indices = []
     out_file = open(out_name,'w')
-    out_file.write('INDIVIDUAL\tREGION\t')
+    out_file.write('INDIVIDUAL\tREGION')
     for ind in indices:
         out_file.write('\t%s' % (ind))
     out_file.write('\n')
