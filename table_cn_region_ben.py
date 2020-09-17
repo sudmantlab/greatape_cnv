@@ -6,7 +6,7 @@ import json
 
 """
 EXAMPLE COMMAND LINE ARGUMENTS:
-python table_cn_region_ben.py --chimps --indices chr1:108308030-108344867 chr1:108409400-108428733 -o gstm_chimps.txt
+python table_cn_region_ben.py --chimps --indices chr1:108308030-108344867 chr1:108409400-108428733 -o gstm_chimps.tsv
 """
 
 
