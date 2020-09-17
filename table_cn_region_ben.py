@@ -66,7 +66,7 @@ if __name__=='__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--humans',action='store_true')
     parser.add_argument('--chimps',action='store_true')
-    parser.add_argument('--indices',required=True,nargs='+',help='List of list of start, end indices assuming you are copying and pasting from the genome browser? ex. chr1:5000-6000 chr1:7000-8000')
+    parser.add_argument('--indices',required=True,nargs='+',help='Start and end indices of all SVs (assuming you are copying and pasting from the genome browser?) ex. chr1:5000-6000 chr1:7000-8000')
     parser.add_argument('--out_name','-o',required=True,help='Name of out .tsv file')
     o = parser.parse_args()
     cn_table(o)
