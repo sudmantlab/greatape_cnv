@@ -1,0 +1,7 @@
+browser position chr4:143833724-144116755
+track name='Human GYP Structural Variants' description="Human GYP Structural Variants" visibility=2 itemRgb="On"
+chr4    143991895   144094474   DEL_1           0   .   143991895   144094474   153,0,0
+chr4    143913802   144023661   DEL_2           0   .   143913802   144023661   153,0,0
+chr4    143859314   143978658   DEL_3           0   .   143859314   143978658   153,0,0
+chr4    143864388   143985056   DUP_4           0   .   143864388   143985056   0,153,0
+chr4    143878065   143997851   DUP_5           0   .   143878065   143997851   0,153,0
