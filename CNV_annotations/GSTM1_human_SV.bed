@@ -1,3 +1,5 @@
+browser position chr1:109660548-109723246
+track name='Human GSTM1 Structural Variants' description="Human GSTM1 Structural Variants" visibility=2 itemRgb="On"
 chr1  109665058  109678990  DEL1      0   .   109665058  109678990  184,7,16
 chr1  109681028  109701906  DEL2      0   .   109681028  109701906  184,7,16 
 chr1  109684065  109698995  DEL3      0   .   109684065  109698995  184,7,16
