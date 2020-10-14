@@ -1,0 +1,57 @@
+{
+    "h5_masks_path": "/global/scratch2/almahalgren/humans/human_chimp_alignment/masked_h5s/hg38_3105",
+    "json_file": "/global/scratch2/almahalgren/humans/configs/human_heatmap_config_2rem_nospace.json",
+    "h5_path": "/global/scratch2/almahalgren/humans/run_hmm/human_all_hmms_gapmasked_updated/",
+    "sv_mask_path": "/global/scratch2/almahalgren/humans/10kb_large_SVs/",
+    "species": "human",
+    "dcgh_json": "/global/scratch2/almahalgren/humans/ref_genomes/humans_dcgh.json",
+    "vst_out_path": "/global/scratch2/almahalgren/humans/human_chimp_alignment/metric_h5s/hg38_3105/vst",
+    "var_out_path": "/global/scratch2/almahalgren/humans/human_chimp_alignment/metric_h5s/hg38_3105/var",
+    "bp_density_out_path": "/global/scratch2/almahalgren/humans/human_chimp_alignment/metric_h5s/hg38_3105/bp_density",
+    "pbs_out_path": "/global/scratch2/almahalgren/humans/human_chimp_alignment/metric_h5s/hg38_3105/pbs",
+    "dcgh_out_path": "/global/scratch2/almahalgren/humans/human_chimp_alignment/metric_h5s/hg38_3105/dcgh",
+    "window_sizes": [
+        "hg38_10kbwin_2kbslide",
+        "hg38_100kbwin_20kbslide",
+        "hg38_50kbwin_25kbslide",
+        "hg38_100kbwin_50kbslide",
+        "hg38_1000kbwin_200kbslide",
+        "hg38_1000kbwin_500kbslide"
+    ],
+    "log_path": "/global/scratch2/almahalgren/humans/human_chimp_alignment/scripts/logs",
+    "smaller_window_dict": {
+        "hg38_10kbwin_2kbslide": 5,
+        "hg38_100kbwin_20kbslide": 10,
+        "hg38_50kbwin_25kbslide": 5,
+        "hg38_100kbwin_50kbslide": 10,
+        "hg38_1000kbwin_200kbslide": 100,
+        "hg38_1000kbwin_500kbslide": 100
+    },
+    "chimp_chroms": "/global/scratch2/almahalgren/chimps/ref_genomes/chimp_chroms.txt",
+    "pbs_triplets": [
+        [
+            "Oceania",
+            "EastAsia",
+            "Africa"
+        ],
+        [
+            "Americas",
+            "Siberia",
+            "Africa"
+        ],
+        [
+            "SouthAsia",
+            "WestEurasia",
+            "Africa"
+        ]
+    ],
+    "REGIONS": [
+        "WestEurasia",
+        "EastAsia",
+        "SouthAsia",
+        "Oceania",
+        "Africa",
+        "America",
+        "CentralAsiaandSiberia"
+    ]
+}

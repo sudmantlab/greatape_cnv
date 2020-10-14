@@ -1,0 +1,221 @@
+# vim: syntax=python tabstop=4 expandtab
+# coding: utf-8
+
+"""
+
+"""
+
+__author__ = "Alma Halgren"
+
+h5_masks_path = config['h5_masks_path']
+json_file = config['json_file']
+h5_path = config['h5_path']
+sv_mask_path = config['sv_mask_path']
+species = config['species']
+dcgh_json = config['dcgh_json']
+vst_out_path = config['vst_out_path']
+var_out_path = config['var_out_path']
+bp_density_out_path = config['bp_density_out_path']
+pbs_out_path = config['pbs_out_path']
+dcgh_out_path = config['dcgh_out_path']
+window_sizes = config['window_sizes'] #10kbwin_5kbslide, 50kbwin_25kbslide, ...
+log_path = config['log_path']
+smaller_window_dict = config['smaller_window_dict']
+chimp_chroms = config['chimp_chroms']
+pbs_triplets = config['pbs_triplets']
+
+def get_inputs(wildcards):
+    inputs = []
+    
+    #PAIRS OF n (vst, var):
+    pairs = []
+    for reg1 in list(config['REGIONS']):
+        for reg2 in list(config['REGIONS']):
+            if (([reg1,reg2] not in pairs) and ([reg2,reg1] not in pairs) and (reg1 != reg2)):
+                pairs.append([reg1,reg2])
+                for window_size in window_sizes:
+                    inputs.append(vst_out_path + '/just_windows/' + window_size + '/' + reg1 + '_' + reg2 + '.h5')
+                    inputs.append(vst_out_path + '/max_max/' + window_size + '/' + reg1 + '_' + reg2 + '.h5')
+                    inputs.append(var_out_path + '/just_windows/' + window_size + '/' + reg1 + '_' + reg2 + '.h5')
+                    inputs.append(var_out_path + '/max_max/' + window_size + '/' + reg1 + '_' + reg2 + '.h5')
+    
+    #dCGH - just regions:
+    for reg in list(config['REGIONS']):
+        for window_size in window_sizes:
+            inputs.append(dcgh_out_path + '/just_windows/' + window_size + '/' + reg + '.h5')
+            inputs.append(dcgh_out_path + '/max_max/' + window_size + '/' + reg + '.h5')
+        
+    #PBS - PRESET REGIONS:
+    for triplet in pbs_triplets:
+        for window_size in window_sizes:
+            inputs.append(pbs_out_path + '/just_windows/' + window_size + '/' + triplet[0] + '_' + triplet[1] + '_' + triplet[2] + '.h5')
+            inputs.append(pbs_out_path + '/max_max/' + window_size + '/'+ triplet[0] + '_' + triplet[1] + '_' + triplet[2] + '.h5')
+        
+    #VAR across all individuals (and dcgh?):
+    for window_size in window_sizes:
+        inputs.append(var_out_path + '/just_windows/' + window_size + '/gwide.h5')
+        inputs.append(var_out_path + '/max_max/' + window_size + '/gwide.h5')
+        
+    return inputs
+
+localrules: all
+
+rule all:
+    input:
+        get_inputs
+        
+
+rule just_windows_vst:
+    output:
+        out_name = vst_out_path + '/just_windows/{window_size}/{reg1}_{reg2}.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/just_windows_vst_{reg1}_{reg2}_{window_size}_%j.log' " \
+                                   "-J {reg1}_{reg2}_just_windows_vst" \
+                                   .format(log_path=log_path,reg1=wildcards.reg1,reg2=wildcards.reg2,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} -r1 {reg1} -r2 {reg2} --h5_path {h5_path} -o {output} --{species} --hmm --vst".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,reg1=wildcards.reg1,reg2=wildcards.reg2,h5_path=h5_path,species=species,output=output))
+
+
+rule max_max_vst:
+    output:
+        out_name = vst_out_path + '/max_max/{window_size}/{reg1}_{reg2}.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/max_max_vst_{reg1}_{reg2}_{window_size}_%j.log' " \
+                                   "-J {reg1}_{reg2}_max_max_vst" \
+                                   .format(log_path=log_path,reg1=wildcards.reg1,reg2=wildcards.reg2,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} -r1 {reg1} -r2 {reg2} --h5_path {h5_path} -o {output} --{species} --hmm --vst --max_max --max_window {smaller_window}".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,reg1=wildcards.reg1,reg2=wildcards.reg2,h5_path=h5_path,species=species,smaller_window=smaller_window_dict[wildcards.window_size],output=output))   
+        
+        
+rule just_windows_var:
+    output:
+        out_name = var_out_path + '/just_windows/{window_size}/{reg1}_{reg2}.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/just_windows_var_{reg1}_{reg2}_{window_size}_%j.log' " \
+                                   "-J {reg1}_{reg2}_just_windows_var" \
+                                   .format(log_path=log_path,reg1=wildcards.reg1,reg2=wildcards.reg2,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} -r1 {reg1} -r2 {reg2} --h5_path {h5_path} -o {output} --{species} --hmm --variance".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,reg1=wildcards.reg1,reg2=wildcards.reg2,h5_path=h5_path,species=species,output=output))
+       
+       
+rule max_max_var:
+    output:
+        out_name = var_out_path + '/max_max/{window_size}/{reg1}_{reg2}.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/max_max_var_{reg1}_{reg2}_{window_size}_%j.log' " \
+                                   "-J {reg1}_{reg2}_max_max_var" \
+                                   .format(log_path=log_path,reg1=wildcards.reg1,reg2=wildcards.reg2,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} -r1 {reg1} -r2 {reg2} --h5_path {h5_path} -o {output} --{species} --hmm --variance --max_max --max_window {smaller_window}".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,reg1=wildcards.reg1,reg2=wildcards.reg2,h5_path=h5_path,species=species,smaller_window=smaller_window_dict[wildcards.window_size],output=output))
+        
+        
+rule just_windows_dcgh:
+    output:
+        out_name = dcgh_out_path + '/just_windows/{window_size}/{reg}.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/just_windows_dcgh_{reg}_{window_size}_%j.log' " \
+                                   "-J {reg}_just_windows_dcgh" \
+                                   .format(log_path=log_path,reg=wildcards.reg,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} -r1 {reg} --h5_path {h5_path} -o {output} --{species} --hmm --dcgh --dcgh_json {dcgh_json}".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,reg=wildcards.reg,h5_path=h5_path,species=species,dcgh_json=dcgh_json,output=output))
+        
+            
+rule max_max_dcgh:
+    output:
+        out_name = dcgh_out_path + '/max_max/{window_size}/{reg}.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/max_max_dcgh_{reg}_{window_size}_%j.log' " \
+                                   "-J {reg}_max_max_dcgh" \
+                                   .format(log_path=log_path,reg=wildcards.reg,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} -r1 {reg} --h5_path {h5_path} -o {output} --{species} --hmm --dcgh --dcgh_json {dcgh_json} --max_max --max_window {smaller_window}".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,reg=wildcards.reg,h5_path=h5_path,species=species,dcgh_json=dcgh_json,smaller_window=smaller_window_dict[wildcards.window_size],output=output))
+        
+        
+         
+rule just_windows_pbs:
+    output:
+        out_name = pbs_out_path + '/just_windows/{window_size}/{trip1}_{trip2}_{trip3}.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/just_windows_pbs_{trip1}_{trip2}_{trip3}_{window_size}_%j.log' " \
+                                   "-J {trip1}_{trip2}_{trip3}_just_windows_pbs" \
+                                   .format(log_path=log_path,trip1=wildcards.trip1,trip2=wildcards.trip2,trip3=wildcards.trip3,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} -r1 {trip1} -r2 {trip2} -r3 {trip3} --h5_path {h5_path} -o {output} --{species} --hmm --pbs".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,trip1=wildcards.trip1,trip2=wildcards.trip2,trip3=wildcards.trip3,h5_path=h5_path,species=species,output=output))
+        
+                
+         
+rule max_max_pbs:
+    output:
+        out_name = pbs_out_path + '/max_max/{window_size}/{trip1}_{trip2}_{trip3}.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/max_max_pbs_{trip1}_{trip2}_{trip3}_{window_size}_%j.log' " \
+                                   "-J {trip1}_{trip2}_{trip3}_max_max_pbs" \
+                                   .format(log_path=log_path,trip1=wildcards.trip1,trip2=wildcards.trip2,trip3=wildcards.trip3,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} -r1 {trip1} -r2 {trip2} -r3 {trip3} --h5_path {h5_path} -o {output} --{species} --hmm --pbs --max_max --max_window {smaller_window}".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,trip1=wildcards.trip1,trip2=wildcards.trip2,trip3=wildcards.trip3,h5_path=h5_path,species=species,smaller_window=smaller_window_dict[wildcards.window_size],output=output))       
+        
+        
+        
+rule gwide_just_windows_var:
+    output:
+        out_name = var_out_path + '/just_windows/{window_size}/gwide.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/just_windows_var_gwide_{window_size}_%j.log' " \
+                                   "-J gwide_just_windows_var" \
+                                   .format(log_path=log_path,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} --h5_path {h5_path} -o {output} --{species} --hmm --variance".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,h5_path=h5_path,species=species,output=output))
+       
+                    
+        
+rule gwide_max_max_var:
+    output:
+        out_name = var_out_path + '/max_max/{window_size}/gwide.h5'
+    params:
+        slurm_opts=lambda wildcards: "--time 72:00:00 " \
+                                   "-A fc_genomicdata " \
+                                   "--qos=savio_normal " \
+                                   "-p savio,savio2,savio3,savio2_bigmem,savio_bigmem " \
+                                   "-o '{log_path}/max_max_var_gwide_{window_size}_%j.log' " \
+                                   "-J gwide_max_max_var" \
+                                   .format(log_path=log_path,window_size=wildcards.window_size)
+    run:
+        shell("python aligned_vst_variance_bpdensity_pbs_dcgh.py --chimp_chroms {chimp_chroms} --h5_mask_file {h5_masks_path}/{window_size}_masked.h5 --json_file {json_file} --h5_path {h5_path} -o {output} --{species} --hmm --variance --max_max --max_window {smaller_window}".format(chimp_chroms=chimp_chroms,h5_masks_path=h5_masks_path,window_size=wildcards.window_size,json_file=json_file,h5_path=h5_path,species=species,smaller_window=smaller_window_dict[wildcards.window_size],output=output))
+       
+ 
